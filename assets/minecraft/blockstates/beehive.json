@@ -1,0 +1,28 @@
+{
+    "variants": {
+        "facing=north,honey_level=0": { "model": "block/beehive/0" },
+        "facing=south,honey_level=0": { "model": "block/beehive/0", "y": 180 },
+        "facing=west,honey_level=0":  { "model": "block/beehive/0", "y": 270 },
+        "facing=east,honey_level=0":  { "model": "block/beehive/0", "y": 90 },
+        "facing=north,honey_level=1": { "model": "block/beehive/1" },
+        "facing=south,honey_level=1": { "model": "block/beehive/1", "y": 180 },
+        "facing=west,honey_level=1":  { "model": "block/beehive/1", "y": 270 },
+        "facing=east,honey_level=1":  { "model": "block/beehive/1", "y": 90 },
+        "facing=north,honey_level=2": { "model": "block/beehive/2" },
+        "facing=south,honey_level=2": { "model": "block/beehive/2", "y": 180 },
+        "facing=west,honey_level=2":  { "model": "block/beehive/2", "y": 270 },
+        "facing=east,honey_level=2":  { "model": "block/beehive/2", "y": 90 },
+        "facing=north,honey_level=3": { "model": "block/beehive/3" },
+        "facing=south,honey_level=3": { "model": "block/beehive/3", "y": 180 },
+        "facing=west,honey_level=3":  { "model": "block/beehive/3", "y": 270 },
+        "facing=east,honey_level=3":  { "model": "block/beehive/3", "y": 90 },
+        "facing=north,honey_level=4": { "model": "block/beehive/4" },
+        "facing=south,honey_level=4": { "model": "block/beehive/4", "y": 180 },
+        "facing=west,honey_level=4":  { "model": "block/beehive/4", "y": 270 },
+        "facing=east,honey_level=4":  { "model": "block/beehive/4", "y": 90 },
+        "facing=north,honey_level=5": { "model": "block/beehive/5" },
+        "facing=south,honey_level=5": { "model": "block/beehive/5", "y": 180 },
+        "facing=west,honey_level=5":  { "model": "block/beehive/5", "y": 270 },
+        "facing=east,honey_level=5":  { "model": "block/beehive/5", "y": 90 }
+    }
+}

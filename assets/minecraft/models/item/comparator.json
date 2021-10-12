@@ -1,0 +1,36 @@
+{
+	"credit": "Created by mullak99",
+    "parent": "block/comparator",
+	"display": {
+        "gui": {
+            "rotation": [ 30, 45, 0 ],
+            "translation": [ 0, 1, 0],
+            "scale":[ 0.65, 0.65, 0.65 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 3, 0],
+            "scale":[ 0.3, 0.3, 0.3 ]
+        },
+        "head": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0],
+            "scale":[ 1, 1, 1]
+        },
+        "fixed": {
+            "rotation": [ 90, 0, 180 ],
+            "translation": [ 0, 0, -4.5],
+            "scale":[ 0.75, 0.75, 0.75 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 75, 315, 0 ],
+            "translation": [ 0, 2.5, 2],
+            "scale": [ 0.375, 0.375, 0.375 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 315, 0 ],
+            "translation": [ 0, 2.5, 0],
+            "scale": [ 0.4, 0.4, 0.4 ]
+        }
+    }
+}

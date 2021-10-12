@@ -1,0 +1,13 @@
+{
+    "credit": "Created by mullak99",
+	"parent": "block/cube",
+    "textures": {
+		"particle": "block/jack_o_lantern",
+		"up": "block/pumpkin_top",
+		"down": "ctm/pumpkin/pumpkin_bottom",
+		"north": "block/jack_o_lantern",
+		"south": "block/pumpkin_side",
+		"west": "block/pumpkin_side",
+		"east": "block/pumpkin_side"
+    }
+}

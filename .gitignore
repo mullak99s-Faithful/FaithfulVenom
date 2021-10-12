@@ -1,0 +1,32 @@
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.temp.txt
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Misc #
+########
+*.ini
+*.conf
+*.cfg
+*.log
+*.psd
+*.exe
+*.bat
+*.log

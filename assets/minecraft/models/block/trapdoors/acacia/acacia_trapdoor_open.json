@@ -1,0 +1,128 @@
+{
+	"credit": "Created by mullak99",
+	"ambientocclusion": false,
+	"textures": {
+		"top": "block/acacia_trapdoor",
+		"bottom": "block/acacia_trapdoor",
+		"particle": "block/acacia_trapdoor",
+		"front": "ctm/trapdoors/acacia/front",
+		"side": "ctm/trapdoors/acacia/side"
+	},
+	"elements": [
+		{
+			"name": "north",
+			"from": [0, 13, 13],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 16, 16, 13], "texture": "#top"},
+				"east": {"uv": [0, 3, 3, 0], "rotation": 90, "texture": "#side", "cullface": "east"},
+				"south": {"uv": [0, 16, 16, 13], "texture": "#bottom", "cullface": "south"},
+				"west": {"uv": [0, 0, 3, 3], "rotation": 90, "texture": "#side", "cullface": "west"},
+				"up": {"uv": [0, 3, 16, 0], "texture": "#front", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 3], "texture": "#front"}
+			}
+		},
+		{
+			"name": "south",
+			"from": [0, 0, 13],
+			"to": [16, 3, 16],
+			"faces": {
+				"north": {"uv": [0, 3, 16, 0], "texture": "#top"},
+				"east": {"uv": [13, 3, 16, 0], "rotation": 90, "texture": "#side", "cullface": "east"},
+				"south": {"uv": [0, 3, 16, 0], "texture": "#bottom", "cullface": "south"},
+				"west": {"uv": [13, 0, 16, 3], "rotation": 90, "texture": "#side", "cullface": "west"},
+				"up": {"uv": [0, 3, 16, 0], "texture": "#front"},
+				"down": {"uv": [0, 0, 16, 3], "texture": "#front", "cullface": "down"}
+			}
+		},
+		{
+			"name": "west",
+			"from": [14, 3, 13],
+			"to": [16, 13, 16],
+			"faces": {
+				"north": {"uv": [0, 13, 2, 3], "texture": "#top"},
+				"east": {"uv": [3, 3, 13, 0], "rotation": 90, "texture": "#side", "cullface": "east"},
+				"south": {"uv": [14, 13, 16, 3], "texture": "#bottom", "cullface": "south"},
+				"west": {"uv": [3, 0, 13, 3], "rotation": 90, "texture": "#side"}
+			}
+		},
+		{
+			"name": "east",
+			"from": [0, 3, 13],
+			"to": [2, 13, 16],
+			"faces": {
+				"north": {"uv": [14, 13, 16, 3], "texture": "#top"},
+				"east": {"uv": [3, 3, 13, 0], "rotation": 90, "texture": "#side"},
+				"south": {"uv": [0, 13, 2, 3], "texture": "#bottom", "cullface": "south"},
+				"west": {"uv": [3, 0, 13, 3], "rotation": 90, "texture": "#side", "cullface": "west"}
+			}
+		},
+		{
+			"name": "vert1",
+			"from": [4, 3, 13],
+			"to": [7, 13, 16],
+			"faces": {
+				"north": {"uv": [9, 13, 12, 3], "texture": "#top"},
+				"east": {"uv": [3, 3, 13, 0], "rotation": 90, "texture": "#side"},
+				"south": {"uv": [4, 13, 7, 3], "texture": "#bottom", "cullface": "south"},
+				"west": {"uv": [3, 0, 13, 3], "rotation": 90, "texture": "#side"}
+			}
+		},
+		{
+			"name": "vert2",
+			"from": [9, 3, 13],
+			"to": [12, 13, 16],
+			"faces": {
+				"north": {"uv": [4, 13, 7, 3], "texture": "#top"},
+				"east": {"uv": [3, 3, 13, 0], "rotation": 90, "texture": "#side"},
+				"south": {"uv": [9, 13, 12, 3], "texture": "#bottom", "cullface": "south"},
+				"west": {"uv": [3, 0, 13, 3], "rotation": 90, "texture": "#side"}
+			}
+		},
+		{
+			"name": "handle",
+			"from": [6, 14, 12.5],
+			"to": [10, 15, 16.5],
+			"faces": {
+				"north": {"uv": [6, 15, 10, 14], "texture": "#top"},
+				"east": {"uv": [9.5, 14, 10, 15], "rotation": 180, "texture": "#top"},
+				"south": {"uv": [6, 14, 10, 15], "rotation": 180, "texture": "#bottom", "cullface": "south"},
+				"west": {"uv": [6, 14, 6.5, 15], "rotation": 180, "texture": "#top"},
+				"up": {"uv": [6, 14.5, 10, 15], "texture": "#top"},
+				"down": {"uv": [6, 14, 10, 14.5], "rotation": 180, "texture": "#top"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 45, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 225, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"scale": [0.625, 0.625, 0.625]
+		},
+		"fixed": {
+			"scale": [0.5, 0.5, 0.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"children": [0, 1, 2, 3, 4, 5, 6]
+		}
+	]
+}

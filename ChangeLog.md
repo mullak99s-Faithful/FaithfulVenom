@@ -1,0 +1,130 @@
+# Changelog
+All notable changes to FaithfulVenom will be documented in this file.
+
+## [Unreleased]
+### Added
+- Added Axolotl entity texture
+- Added Fabric GUI textures
+- Added Optifine UI texture
+- Added custom Deepslate Ore model and textures
+- Added various Emissive textures
+- Added "AntVenom" banner/shield pattern (Replaces Mojang) [Created by Delio#9779]
+- Added Credits [Contact mullak99 if any of them are incorrect]
+- Added Illager font for 1.18
+
+### Changed
+- Reworked UI (Buttons)
+- Replaced Corner Rail model
+- Changed 1.9+ textures from Faithful's to EM32D or Compliance's
+- Changed some 1.8- textures from Faithful's to EM32D's
+- Changed Frosted Ice block textures
+- Changed Blue Ice block texture
+- Changed Crimson and Warped door textures and models
+- Changed Crimson and Warped trapdoor textures and models
+- Changed Dark Oak trapdoor textures and models
+- Changed Rail textures and models
+- Changed Ladder model
+- Changed Water textures to be like they were Pre-1.13
+- Changed stripped log top textures (Now match normal logs) [Created by mullak99, using Vattic's OG log textures]
+- Changed Panorama Background (fixes some issues, uses updated Ladder texture)
+- Changed Totem of Undying (Replaced Faithful's totem with EM's)
+- Changed Stonecutter 3D model
+- Changed Sugar Cane model to match new texture
+- Changed Powder Snow texture
+- Changed Shulker textures [Created by mullak99]
+- Minor changes to various door models
+- Reworked models to fit new textures
+- Updated Inventory GUI to support 1.18
+- Reorganised Optifine CTM folder
+- Reorganised CTM (moved '/entity/3dmodels' into '/ctm')
+- Compressed more textures
+
+### Fixed
+- Fixed incorrectly flipped texture on 3D Crimson Door model
+- Fixed Smoker model issue
+
+### Removed
+- Removed unused textures
+- Removed random flower and mushroom variants
+- Removed Unicode fonts
+
+## [1.17-r3] - 2021-06-22
+### Fixed
+- Fixed an issue with banner gradients not working at all
+
+## [1.17-r2] - 2021-06-21
+### Added
+- Added a 3D model to Iron Bars, courtesy of mullak99
+
+### Changed
+- Swapped out / added a few more textures for consistency (buckets), again, courtesy of mullak99
+
+### Fixed
+- Fixed an issue with shield banner patterns not working properly
+- Fixed a bug with the hay bale's block model
+
+## [1.17-r1] - 2021-06-21
+### Added
+- Added Faithful 32x's new textures, with some exceptions
+
+### Changed
+- Changed the splash screen to include a panorama of my old "Peaceful Map"
+- Altered the "Deepslate" ore textures to look like old school Minecraft
+- Altered the "Copper Ore" texture to blend in with the old stone
+- Changed a few "Advancements" background textures to match my pack
+
+## [1.16-r4] - 2020-07-12
+### Changed
+- Changed lots of nether related textures to mullak99 and Zinn's textures
+
+### Fixed
+- Fixed campfire textures
+
+## [1.16-r3] - 2020-07-12
+### Fixed
+- Fixed the Warped Trapdoor so it lines up with mullak99's block model
+
+## [1.16-r2] - 2020-07-12
+### Added
+- Added 3D block models for a LOT of items and blocks. Thanks to mullak99 for these! Be sure to check out the Jukebox ;)
+- Added the Piglin Brute texture so the pack will be ready for 1.16.2
+
+### Changed
+- Hoppers and observers now have a slightly altered texture to make them much more functional
+
+### Removed
+- Removed certain blocks from having their textures randomized (grass, stone, sand, etc.)
+- Removed a lot of unnecessary files
+
+## [1.16-r1] - 2020-07-11
+### Added
+- Initial Release for 1.16
+- Added Faithful's "Block States", which fixed some odd textures
+
+### Changed
+- Changed Nether textures to match Faithful's new 1.16 textures
+
+### Fixed
+- Fixed a font issue which causes some language settings to not work at all
+
+## [1.15-r3] - 2020-01-26
+### Added
+- Muted the "Nether", "Creative", and "Menu" music tracks
+
+### Fixed
+- Fixed missing horse armor textures.
+
+### Removed
+- Removed "blockstates" folder, which caused undesired randomized textures to appear
+- Removed unnecessary music files that were not needed
+
+## [1.15-r2] - 2019-11-25
+### Fixed
+- Fixed a texture issue w/ single chests
+
+## [1.15-r1] - 2019-04-17
+### Added
+- Initial Release for 1.15
+
+## [Older] - 2013-2019
+- Older changelogs are not available

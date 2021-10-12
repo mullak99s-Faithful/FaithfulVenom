@@ -1,0 +1,8 @@
+{
+	"credit": "Created by mullak99",
+	"parent": "item/template_boat",
+	"textures": {
+		"boat": "ctm/boats/spruce",
+		"particle": "ctm/boats/spruce"
+	}
+}

@@ -1,6 +1,6 @@
 # FaithfulVenom 32x
 
-**Latest 1.17.x Version:** _1.17-r6_DEV211012-1_ | [Git Branch](https://github.com/mullak99s-Faithful/FaithfulVenom/tree/1.17)  
+**Latest 1.17.x Version:** _1.17-r6_DEV211017-1_ | [Git Branch](https://github.com/mullak99s-Faithful/FaithfulVenom/tree/1.17)  
 
 ## Official Links
 

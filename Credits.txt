@@ -38,11 +38,11 @@ Compliance: https://compliancepack.net/
 	anvil_top.png (block/anvil_top.png): Vattic
 	attached_melon_stem.png (block/attached_melon_stem.png): Vattic
 	attached_pumpkin_stem.png (block/attached_pumpkin_stem.png): Vattic
-	azalea_leaves.png (block/azalea_leaves.png): EM32D
-	azalea_plant.png (block/azalea_plant.png): EM32D
-	azalea_side.png (block/azalea_side.png): EM32D
-	azalea_top.png (block/azalea_top.png): EM32D
-	azure_bluet.png (block/azure_bluet.png): EM32D
+	azalea_leaves.png (block/azalea_leaves.png): Compliance
+	azalea_plant.png (block/azalea_plant.png): Compliance
+	azalea_side.png (block/azalea_side.png): Compliance
+	azalea_top.png (block/azalea_top.png): Compliance
+	azure_bluet.png (block/azure_bluet.png): Compliance
 	bamboo_large_leaves.png (block/bamboo_large_leaves.png): EM32D
 	bamboo_singleleaf.png (block/bamboo_singleleaf.png): EM32D
 	bamboo_small_leaves.png (block/bamboo_small_leaves.png): EM32D
@@ -72,10 +72,10 @@ Compliance: https://compliancepack.net/
 	bell_bottom.png (block/bell_bottom.png): EM32D
 	bell_side.png (block/bell_side.png): EM32D
 	bell_top.png (block/bell_top.png): EM32D
-	big_dripleaf_side.png (block/big_dripleaf_side.png): Compliance
-	big_dripleaf_stem.png (block/big_dripleaf_stem.png): Compliance
-	big_dripleaf_tip.png (block/big_dripleaf_tip.png): Compliance
-	big_dripleaf_top.png (block/big_dripleaf_top.png): Compliance
+	big_dripleaf_side.png (block/big_dripleaf_side.png): EM32D
+	big_dripleaf_stem.png (block/big_dripleaf_stem.png): EM32D
+	big_dripleaf_tip.png (block/big_dripleaf_tip.png): EM32D
+	big_dripleaf_top.png (block/big_dripleaf_top.png): EM32D
 	birch_door_bottom.png (block/birch_door_bottom.png): Vattic
 	birch_door_top.png (block/birch_door_top.png): Vattic
 	birch_leaves.png (block/birch_leaves.png): Vattic
@@ -173,7 +173,7 @@ Compliance: https://compliancepack.net/
 	chain_command_block_front.png (block/chain_command_block_front.png): EM32D
 	chain_command_block_side.png (block/chain_command_block_side.png): EM32D
 	chipped_anvil_top.png (block/chipped_anvil_top.png): Vattic
-	chiseled_deepslate.png (block/chiseled_deepslate.png): Compliance
+	chiseled_deepslate.png (block/chiseled_deepslate.png): EM32D
 	chiseled_nether_bricks.png (block/chiseled_nether_bricks.png): EM32D
 	chiseled_polished_blackstone.png (block/chiseled_polished_blackstone.png): EM32D
 	chiseled_quartz_block.png (block/chiseled_quartz_block.png): EM32D
@@ -206,7 +206,7 @@ Compliance: https://compliancepack.net/
 	composter_side.png (block/composter_side.png): EM32D
 	composter_top.png (block/composter_top.png): EM32D
 	conduit.png (block/conduit.png): EM32D
-	copper_block.png (block/copper_block.png): Compliance
+	copper_block.png (block/copper_block.png): EM32D
 	copper_ore.png (block/copper_ore.png): mullak99
 	cornflower.png (block/cornflower.png): Vattic
 	cracked_deepslate_bricks.png (block/cracked_deepslate_bricks.png): EM32D
@@ -231,7 +231,7 @@ Compliance: https://compliancepack.net/
 	crimson_trapdoor.png (block/crimson_trapdoor.png): EM32D
 	crying_obsidian.png (block/crying_obsidian.png): Vattic (with EM32D's overlay)
 	crying_obsidian_e.png (block/crying_obsidian_e.png): mullak99 (using EM32D's texture)
-	cut_copper.png (block/cut_copper.png): Compliance
+	cut_copper.png (block/cut_copper.png): EM32D
 	cut_red_sandstone.png (block/cut_red_sandstone.png): EM32D
 	cut_sandstone.png (block/cut_sandstone.png): Vattic
 	cyan_candle.png (block/cyan_candle.png): EM32D
@@ -326,8 +326,8 @@ Compliance: https://compliancepack.net/
 	end_rod.png (block/end_rod.png): EM32D
 	end_stone.png (block/end_stone.png): Vattic
 	end_stone_bricks.png (block/end_stone_bricks.png): EM32D
-	exposed_copper.png (block/exposed_copper.png): Compliance
-	exposed_cut_copper.png (block/exposed_cut_copper.png): Compliance
+	exposed_copper.png (block/exposed_copper.png): EM32D
+	exposed_cut_copper.png (block/exposed_cut_copper.png): EM32D
 	farmland.png (block/farmland.png): Vattic
 	farmland_moist.png (block/farmland_moist.png): Vattic
 	fern.png (block/fern.png): Vattic
@@ -499,7 +499,7 @@ Compliance: https://compliancepack.net/
 	melon_top.png (block/melon_top.png): Vattic
 	mossy_cobblestone.png (block/mossy_cobblestone.png): Vattic
 	mossy_stone_bricks.png (block/mossy_stone_bricks.png): Vattic
-	moss_block.png (block/moss_block.png): Compliance
+	moss_block.png (block/moss_block.png): EM32D
 	mushroom_block_inside.png (block/mushroom_block_inside.png): Vattic
 	mushroom_stem.png (block/mushroom_stem.png): Vattic
 	mycelium_side.png (block/mycelium_side.png): Vattic
@@ -542,8 +542,8 @@ Compliance: https://compliancepack.net/
 	orange_tulip.png (block/orange_tulip.png): EM32D
 	orange_wool.png (block/orange_wool.png): EM32D
 	oxeye_daisy.png (block/oxeye_daisy.png): EM32D
-	oxidized_copper.png (block/oxidized_copper.png): Compliance
-	oxidized_cut_copper.png (block/oxidized_cut_copper.png): Compliance
+	oxidized_copper.png (block/oxidized_copper.png): EM32D
+	oxidized_cut_copper.png (block/oxidized_cut_copper.png): EM32D
 	packed_ice.png (block/packed_ice.png): Vattic
 	peony_bottom.png (block/peony_bottom.png): Vattic
 	peony_top.png (block/peony_top.png): Vattic
@@ -811,8 +811,8 @@ Compliance: https://compliancepack.net/
 	water_flow.png (block/water_flow.png): Vattic
 	water_overlay.png (block/water_overlay.png): Vattic
 	water_still.png (block/water_still.png): Vattic
-	weathered_copper.png (block/weathered_copper.png): Compliance
-	weathered_cut_copper.png (block/weathered_cut_copper.png): Compliance
+	weathered_copper.png (block/weathered_copper.png): EM32D
+	weathered_cut_copper.png (block/weathered_cut_copper.png): EM32D
 	weeping_vines.png (block/weeping_vines.png): EM32D
 	weeping_vines_plant.png (block/weeping_vines_plant.png): EM32D
 	wet_sponge.png (block/wet_sponge.png): Vattic
@@ -1514,13 +1514,13 @@ Compliance: https://compliancepack.net/
 	spark.png (entity/shulker/spark.png): EM32D
 	acacia.png (entity/signs/acacia.png): EM32D
 	birch.png (entity/signs/birch.png): EM32D
-	crimson.png (entity/signs/crimson.png): EM32D
+	crimson.png (entity/signs/crimson.png): mullak99 (based on EM32D)
 	crimson_e.png (entity/signs/crimson_e.png): mullak99
 	dark_oak.png (entity/signs/dark_oak.png): EM32D
 	jungle.png (entity/signs/jungle.png): EM32D
 	oak.png (entity/signs/oak.png): Vattic
 	spruce.png (entity/signs/spruce.png): EM32D
-	warped.png (entity/signs/warped.png): EM32D
+	warped.png (entity/signs/warped.png): mullak99 (based on EM32D)
 	warped_e.png (entity/signs/warped_e.png): mullak99
 	skeleton.png (entity/skeleton/skeleton.png): EM32D
 	stray.png (entity/skeleton/stray.png): EM32D
@@ -1850,3 +1850,6 @@ Compliance: https://compliancepack.net/
 	configure_button.png (assets/modmenu/textures/gui/configure_button.png): mullak99
 	filters_button.png (assets/modmenu/textures/gui/filters_button.png): mullak99
 	parent_mod.png (assets/modmenu/textures/gui/parent_mod.png): mullak99
+	
+=== Model Credits ===
+	[All 3D Models]: mullak99

@@ -32,7 +32,7 @@ All notable changes to FaithfulVenom will be documented in this file.
 - Changed Stonecutter 3D model
 - Changed Sugar Cane model to match new texture
 - Changed Powder Snow texture
-- Changed Shulker textures [Created by mullak99]
+- Changed Shulker textures
 - Minor changes to various door models
 - Reworked models to fit new textures
 - Updated Inventory GUI to support 1.18

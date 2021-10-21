@@ -91,7 +91,7 @@ Compliance: https://compliancepack.net/
 	black_concrete.png (block/black_concrete.png): EM32D
 	black_concrete_powder.png (block/black_concrete_powder.png): EM32D
 	black_glazed_terracotta.png (block/black_glazed_terracotta.png): EM32D
-	black_shulker_box.png (block/black_shulker_box.png): Vattic
+	black_shulker_box.png (block/black_shulker_box.png): EM32D
 	black_stained_glass.png (block/black_stained_glass.png): Vattic
 	black_stained_glass_pane_top.png (block/black_stained_glass_pane_top.png): Vattic
 	black_terracotta.png (block/black_terracotta.png): EM32D
@@ -107,7 +107,7 @@ Compliance: https://compliancepack.net/
 	blue_glazed_terracotta.png (block/blue_glazed_terracotta.png): EM32D
 	blue_ice.png (block/blue_ice.png): mullak99
 	blue_orchid.png (block/blue_orchid.png): Vattic
-	blue_shulker_box.png (block/blue_shulker_box.png): mullak99
+	blue_shulker_box.png (block/blue_shulker_box.png): EM32D
 	blue_stained_glass.png (block/blue_stained_glass.png): Vattic
 	blue_stained_glass_pane_top.png (block/blue_stained_glass_pane_top.png): Vattic
 	blue_terracotta.png (block/blue_terracotta.png): EM32D
@@ -128,7 +128,7 @@ Compliance: https://compliancepack.net/
 	brown_glazed_terracotta.png (block/brown_glazed_terracotta.png): EM32D
 	brown_mushroom.png (block/brown_mushroom.png): Vattic
 	brown_mushroom_block.png (block/brown_mushroom_block.png): Vattic
-	brown_shulker_box.png (block/brown_shulker_box.png): mullak99
+	brown_shulker_box.png (block/brown_shulker_box.png): EM32D
 	brown_stained_glass.png (block/brown_stained_glass.png): Vattic
 	brown_stained_glass_pane_top.png (block/brown_stained_glass_pane_top.png): Vattic
 	brown_terracotta.png (block/brown_terracotta.png): EM32D
@@ -239,7 +239,7 @@ Compliance: https://compliancepack.net/
 	cyan_concrete.png (block/cyan_concrete.png): EM32D
 	cyan_concrete_powder.png (block/cyan_concrete_powder.png): EM32D
 	cyan_glazed_terracotta.png (block/cyan_glazed_terracotta.png): EM32D
-	cyan_shulker_box.png (block/cyan_shulker_box.png): mullak99
+	cyan_shulker_box.png (block/cyan_shulker_box.png): EM32D
 	cyan_stained_glass.png (block/cyan_stained_glass.png): Vattic
 	cyan_stained_glass_pane_top.png (block/cyan_stained_glass_pane_top.png): Vattic
 	cyan_terracotta.png (block/cyan_terracotta.png): EM32D
@@ -371,7 +371,7 @@ Compliance: https://compliancepack.net/
 	gray_concrete.png (block/gray_concrete.png): EM32D
 	gray_concrete_powder.png (block/gray_concrete_powder.png): EM32D
 	gray_glazed_terracotta.png (block/gray_glazed_terracotta.png): EM32D
-	gray_shulker_box.png (block/gray_shulker_box.png): mullak99
+	gray_shulker_box.png (block/gray_shulker_box.png): EM32D
 	gray_stained_glass.png (block/gray_stained_glass.png): Vattic
 	gray_stained_glass_pane_top.png (block/gray_stained_glass_pane_top.png): Vattic
 	gray_terracotta.png (block/gray_terracotta.png): EM32D
@@ -381,7 +381,7 @@ Compliance: https://compliancepack.net/
 	green_concrete.png (block/green_concrete.png): EM32D
 	green_concrete_powder.png (block/green_concrete_powder.png): EM32D
 	green_glazed_terracotta.png (block/green_glazed_terracotta.png): EM32D
-	green_shulker_box.png (block/green_shulker_box.png): mullak99
+	green_shulker_box.png (block/green_shulker_box.png): EM32D
 	green_stained_glass.png (block/green_stained_glass.png): Vattic
 	green_stained_glass_pane_top.png (block/green_stained_glass_pane_top.png): Vattic
 	green_terracotta.png (block/green_terracotta.png): EM32D
@@ -447,7 +447,7 @@ Compliance: https://compliancepack.net/
 	light_blue_concrete.png (block/light_blue_concrete.png): EM32D
 	light_blue_concrete_powder.png (block/light_blue_concrete_powder.png): EM32D
 	light_blue_glazed_terracotta.png (block/light_blue_glazed_terracotta.png): EM32D
-	light_blue_shulker_box.png (block/light_blue_shulker_box.png): mullak99
+	light_blue_shulker_box.png (block/light_blue_shulker_box.png): EM32D
 	light_blue_stained_glass.png (block/light_blue_stained_glass.png): Vattic
 	light_blue_stained_glass_pane_top.png (block/light_blue_stained_glass_pane_top.png): Vattic
 	light_blue_terracotta.png (block/light_blue_terracotta.png): EM32D
@@ -457,7 +457,7 @@ Compliance: https://compliancepack.net/
 	light_gray_concrete.png (block/light_gray_concrete.png): EM32D
 	light_gray_concrete_powder.png (block/light_gray_concrete_powder.png): EM32D
 	light_gray_glazed_terracotta.png (block/light_gray_glazed_terracotta.png): EM32D
-	light_gray_shulker_box.png (block/light_gray_shulker_box.png): mullak99
+	light_gray_shulker_box.png (block/light_gray_shulker_box.png): EM32D
 	light_gray_stained_glass.png (block/light_gray_stained_glass.png): Vattic
 	light_gray_stained_glass_pane_top.png (block/light_gray_stained_glass_pane_top.png): Vattic
 	light_gray_terracotta.png (block/light_gray_terracotta.png): EM32D
@@ -471,7 +471,7 @@ Compliance: https://compliancepack.net/
 	lime_concrete.png (block/lime_concrete.png): EM32D
 	lime_concrete_powder.png (block/lime_concrete_powder.png): EM32D
 	lime_glazed_terracotta.png (block/lime_glazed_terracotta.png): EM32D
-	lime_shulker_box.png (block/lime_shulker_box.png): mullak99
+	lime_shulker_box.png (block/lime_shulker_box.png): EM32D
 	lime_stained_glass.png (block/lime_stained_glass.png): Vattic
 	lime_stained_glass_pane_top.png (block/lime_stained_glass_pane_top.png): Vattic
 	lime_terracotta.png (block/lime_terracotta.png): EM32D
@@ -487,7 +487,7 @@ Compliance: https://compliancepack.net/
 	magenta_concrete.png (block/magenta_concrete.png): EM32D
 	magenta_concrete_powder.png (block/magenta_concrete_powder.png): EM32D
 	magenta_glazed_terracotta.png (block/magenta_glazed_terracotta.png): EM32D
-	magenta_shulker_box.png (block/magenta_shulker_box.png): mullak99
+	magenta_shulker_box.png (block/magenta_shulker_box.png): EM32D
 	magenta_stained_glass.png (block/magenta_stained_glass.png): Vattic
 	magenta_stained_glass_pane_top.png (block/magenta_stained_glass_pane_top.png): Vattic
 	magenta_terracotta.png (block/magenta_terracotta.png): EM32D
@@ -535,7 +535,7 @@ Compliance: https://compliancepack.net/
 	orange_concrete.png (block/orange_concrete.png): EM32D
 	orange_concrete_powder.png (block/orange_concrete_powder.png): EM32D
 	orange_glazed_terracotta.png (block/orange_glazed_terracotta.png): EM32D
-	orange_shulker_box.png (block/orange_shulker_box.png): mullak99
+	orange_shulker_box.png (block/orange_shulker_box.png): EM32D
 	orange_stained_glass.png (block/orange_stained_glass.png): Vattic
 	orange_stained_glass_pane_top.png (block/orange_stained_glass_pane_top.png): Vattic
 	orange_terracotta.png (block/orange_terracotta.png): EM32D
@@ -552,7 +552,7 @@ Compliance: https://compliancepack.net/
 	pink_concrete.png (block/pink_concrete.png): EM32D
 	pink_concrete_powder.png (block/pink_concrete_powder.png): EM32D
 	pink_glazed_terracotta.png (block/pink_glazed_terracotta.png): EM32D
-	pink_shulker_box.png (block/pink_shulker_box.png): mullak99
+	pink_shulker_box.png (block/pink_shulker_box.png): EM32D
 	pink_stained_glass.png (block/pink_stained_glass.png): Vattic
 	pink_stained_glass_pane_top.png (block/pink_stained_glass_pane_top.png): Vattic
 	pink_terracotta.png (block/pink_terracotta.png): EM32D
@@ -565,16 +565,16 @@ Compliance: https://compliancepack.net/
 	piston_top_sticky.png (block/piston_top_sticky.png): mullak99
 	podzol_side.png (block/podzol_side.png): Vattic
 	podzol_top.png (block/podzol_top.png): Vattic
-	pointed_dripstone_down_base.png (block/pointed_dripstone_down_base.png): Compliance
-	pointed_dripstone_down_frustum.png (block/pointed_dripstone_down_frustum.png): Compliance
-	pointed_dripstone_down_middle.png (block/pointed_dripstone_down_middle.png): Compliance
-	pointed_dripstone_down_tip.png (block/pointed_dripstone_down_tip.png): Compliance
-	pointed_dripstone_down_tip_merge.png (block/pointed_dripstone_down_tip_merge.png): Compliance
-	pointed_dripstone_up_base.png (block/pointed_dripstone_up_base.png): Compliance
-	pointed_dripstone_up_frustum.png (block/pointed_dripstone_up_frustum.png): Compliance
-	pointed_dripstone_up_middle.png (block/pointed_dripstone_up_middle.png): Compliance
-	pointed_dripstone_up_tip.png (block/pointed_dripstone_up_tip.png): Compliance
-	pointed_dripstone_up_tip_merge.png (block/pointed_dripstone_up_tip_merge.png): Compliance
+	pointed_dripstone_down_base.png (block/pointed_dripstone_down_base.png): EM32D
+	pointed_dripstone_down_frustum.png (block/pointed_dripstone_down_frustum.png): EM32D
+	pointed_dripstone_down_middle.png (block/pointed_dripstone_down_middle.png): EM32D
+	pointed_dripstone_down_tip.png (block/pointed_dripstone_down_tip.png): EM32D
+	pointed_dripstone_down_tip_merge.png (block/pointed_dripstone_down_tip_merge.png): EM32D
+	pointed_dripstone_up_base.png (block/pointed_dripstone_up_base.png): EM32D
+	pointed_dripstone_up_frustum.png (block/pointed_dripstone_up_frustum.png): EM32D
+	pointed_dripstone_up_middle.png (block/pointed_dripstone_up_middle.png): EM32D
+	pointed_dripstone_up_tip.png (block/pointed_dripstone_up_tip.png): EM32D
+	pointed_dripstone_up_tip_merge.png (block/pointed_dripstone_up_tip_merge.png): EM32D
 	polished_andesite.png (block/polished_andesite.png): Vattic
 	polished_basalt_side.png (block/polished_basalt_side.png): EM32D
 	polished_basalt_top.png (block/polished_basalt_top.png): EM32D
@@ -607,7 +607,7 @@ Compliance: https://compliancepack.net/
 	purple_concrete.png (block/purple_concrete.png): EM32D
 	purple_concrete_powder.png (block/purple_concrete_powder.png): EM32D
 	purple_glazed_terracotta.png (block/purple_glazed_terracotta.png): EM32D
-	purple_shulker_box.png (block/purple_shulker_box.png): mullak99
+	purple_shulker_box.png (block/purple_shulker_box.png): EM32D
 	purple_stained_glass.png (block/purple_stained_glass.png): Vattic
 	purple_stained_glass_pane_top.png (block/purple_stained_glass_pane_top.png): Vattic
 	purple_terracotta.png (block/purple_terracotta.png): EM32D
@@ -648,7 +648,7 @@ Compliance: https://compliancepack.net/
 	red_sandstone.png (block/red_sandstone.png): Vattic
 	red_sandstone_bottom.png (block/red_sandstone_bottom.png): Vattic
 	red_sandstone_top.png (block/red_sandstone_top.png): Vattic
-	red_shulker_box.png (block/red_shulker_box.png): mullak99
+	red_shulker_box.png (block/red_shulker_box.png): EM32D
 	red_stained_glass.png (block/red_stained_glass.png): Vattic
 	red_stained_glass_pane_top.png (block/red_stained_glass_pane_top.png): Vattic
 	red_terracotta.png (block/red_terracotta.png): EM32D
@@ -695,13 +695,13 @@ Compliance: https://compliancepack.net/
 	sea_lantern.png (block/sea_lantern.png): EM32D
 	sea_pickle.png (block/sea_pickle.png): EM32D
 	shroomlight.png (block/shroomlight.png): EM32D
-	shulker_box.png (block/shulker_box.png): mullak99
+	shulker_box.png (block/shulker_box.png): EM32D
 	slime_block.png (block/slime_block.png): Vattic
 	small_amethyst_bud.png (block/small_amethyst_bud.png): EM32D
-	small_dripleaf_side.png (block/small_dripleaf_side.png): Compliance
-	small_dripleaf_stem_bottom.png (block/small_dripleaf_stem_bottom.png): Compliance
-	small_dripleaf_stem_top.png (block/small_dripleaf_stem_top.png): Compliance
-	small_dripleaf_top.png (block/small_dripleaf_top.png): Compliance
+	small_dripleaf_side.png (block/small_dripleaf_side.png): EM32D
+	small_dripleaf_stem_bottom.png (block/small_dripleaf_stem_bottom.png): EM32D
+	small_dripleaf_stem_top.png (block/small_dripleaf_stem_top.png): EM32D
+	small_dripleaf_top.png (block/small_dripleaf_top.png): EM32D
 	smithing_table_bottom.png (block/smithing_table_bottom.png): EM32D
 	smithing_table_front.png (block/smithing_table_front.png): EM32D
 	smithing_table_side.png (block/smithing_table_side.png): EM32D
@@ -829,7 +829,7 @@ Compliance: https://compliancepack.net/
 	white_concrete.png (block/white_concrete.png): EM32D
 	white_concrete_powder.png (block/white_concrete_powder.png): EM32D
 	white_glazed_terracotta.png (block/white_glazed_terracotta.png): EM32D
-	white_shulker_box.png (block/white_shulker_box.png): mullak99
+	white_shulker_box.png (block/white_shulker_box.png): EM32D
 	white_stained_glass.png (block/white_stained_glass.png): Vattic
 	white_stained_glass_pane_top.png (block/white_stained_glass_pane_top.png): Vattic
 	white_terracotta.png (block/white_terracotta.png): EM32D
@@ -841,7 +841,7 @@ Compliance: https://compliancepack.net/
 	yellow_concrete.png (block/yellow_concrete.png): EM32D
 	yellow_concrete_powder.png (block/yellow_concrete_powder.png): EM32D
 	yellow_glazed_terracotta.png (block/yellow_glazed_terracotta.png): EM32D
-	yellow_shulker_box.png (block/yellow_shulker_box.png): mullak99
+	yellow_shulker_box.png (block/yellow_shulker_box.png): EM32D
 	yellow_stained_glass.png (block/yellow_stained_glass.png): Vattic
 	yellow_stained_glass_pane_top.png (block/yellow_stained_glass_pane_top.png): Vattic
 	yellow_terracotta.png (block/yellow_terracotta.png): EM32D
@@ -1017,7 +1017,7 @@ Compliance: https://compliancepack.net/
 	cooked_salmon.png (item/cooked_salmon.png): Vattic
 	cookie.png (item/cookie.png): Vattic
 	copper_ingot.png (item/copper_ingot.png): EM32D
-	creeper_banner_pattern.png (item/creeper_banner_pattern.png): Faithful(!)
+	creeper_banner_pattern.png (item/creeper_banner_pattern.png): EM32D (modified by mullak99)
 	crimson_door.png (item/crimson_door.png): EM32D
 	crimson_sign.png (item/crimson_sign.png): EM32D
 	crossbow_arrow.png (item/crossbow_arrow.png): EM32D
@@ -1069,13 +1069,13 @@ Compliance: https://compliancepack.net/
 	fishing_rod_cast.png (item/fishing_rod_cast.png): Vattic
 	flint.png (item/flint.png): Vattic
 	flint_and_steel.png (item/flint_and_steel.png): Vattic
-	flower_banner_pattern.png (item/flower_banner_pattern.png): Faithful(!)
+	flower_banner_pattern.png (item/flower_banner_pattern.png): EM32D (modified by mullak99)
 	flower_pot.png (item/flower_pot.png): Vattic
 	furnace_minecart.png (item/furnace_minecart.png): Vattic
 	ghast_tear.png (item/ghast_tear.png): Vattic
 	glass_bottle.png (item/glass_bottle.png): Vattic
 	glistering_melon_slice.png (item/glistering_melon_slice.png): Vattic
-	globe_banner_pattern.png (item/globe_banner_pattern.png): Faithful(!)
+	globe_banner_pattern.png (item/globe_banner_pattern.png): EM32D (modified by mullak99)
 	glowstone_dust.png (item/glowstone_dust.png): Vattic
 	glow_berries.png (item/glow_berries.png): Compliance
 	glow_ink_sac.png (item/glow_ink_sac.png): mullak99
@@ -1170,21 +1170,9 @@ Compliance: https://compliancepack.net/
 	melon_slice.png (item/melon_slice.png): Vattic
 	milk_bucket.png (item/milk_bucket.png): Vattic
 	minecart.png (item/minecart.png): Vattic
-	mojang_banner_pattern.png (item/mojang_banner_pattern.png): Delio#9779
+	mojang_banner_pattern.png (item/mojang_banner_pattern.png): EM32D (AntVenom logo by Delio#9779)
 	mushroom_stew.png (item/mushroom_stew.png): EM32D
-	music_disc_11.png (item/music_disc_11.png): EM32D
-	music_disc_13.png (item/music_disc_13.png): EM32D
-	music_disc_blocks.png (item/music_disc_blocks.png): EM32D
-	music_disc_cat.png (item/music_disc_cat.png): EM32D
-	music_disc_chirp.png (item/music_disc_chirp.png): EM32D
-	music_disc_far.png (item/music_disc_far.png): EM32D
-	music_disc_mall.png (item/music_disc_mall.png): EM32D
-	music_disc_mellohi.png (item/music_disc_mellohi.png): EM32D
-	music_disc_pigstep.png (item/music_disc_pigstep.png): EM32D
-	music_disc_stal.png (item/music_disc_stal.png): EM32D
-	music_disc_strad.png (item/music_disc_strad.png): EM32D
-	music_disc_wait.png (item/music_disc_wait.png): EM32D
-	music_disc_ward.png (item/music_disc_ward.png): EM32D
+	[All music discs]: EM32D
 	mutton.png (item/mutton.png): Vattic
 	name_tag.png (item/name_tag.png): Vattic
 	nautilus_shell.png (item/nautilus_shell.png): EM32D
@@ -1211,7 +1199,7 @@ Compliance: https://compliancepack.net/
 	painting.png (item/painting.png): Vattic
 	paper.png (item/paper.png): Vattic
 	phantom_membrane.png (item/phantom_membrane.png): EM32D
-	piglin_banner_pattern.png (item/piglin_banner_pattern.png): Faithful(!)
+	piglin_banner_pattern.png (item/piglin_banner_pattern.png): EM32D (modified by mullak99)
 	pink_candle.png (item/pink_candle.png): EM32D
 	pink_dye.png (item/pink_dye.png): EM32D
 	pointed_dripstone.png (item/pointed_dripstone.png): EM32D
@@ -1251,7 +1239,7 @@ Compliance: https://compliancepack.net/
 	sea_pickle.png (item/sea_pickle.png): EM32D
 	shears.png (item/shears.png): Vattic
 	shulker_shell.png (item/shulker_shell.png): EM32D
-	skull_banner_pattern.png (item/skull_banner_pattern.png): Faithful(!)
+	skull_banner_pattern.png (item/skull_banner_pattern.png): EM32D (modified by mullak99)
 	slime_ball.png (item/slime_ball.png): Vattic
 	snowball.png (item/snowball.png): Vattic
 	soul_campfire.png (item/soul_campfire.png): EM32D
@@ -1335,7 +1323,7 @@ Compliance: https://compliancepack.net/
 	steve.png (entity/steve.png): Vattic
 	trident.png (entity/trident.png): EM32D
 	trident_riptide.png (entity/trident_riptide.png): EM32D
-	wandering_trader.png (entity/wandering_trader.png): Faithful(!)
+	wandering_trader.png (entity/wandering_trader.png): Faithful
 	witch.png (entity/witch.png): EM32D
 	witch_e.png (entity/witch_e.png): mullak99
 	wood.png (entity/armorstand/wood.png): Vattic
@@ -1347,14 +1335,14 @@ Compliance: https://compliancepack.net/
 	[All Banner pattern textures (except Mojang)]: Compliance
 	mojang.png (entity/banner/mojang.png): Delio#9779
 	polarbear.png (entity/bear/polarbear.png): EM32D
-	[All Bed textures]: Faithful(!)
+	[All Bed textures]: Faithful
 	bee.png (entity/bee/bee.png)
 	bee_angry.png (entity/bee/bee_angry.png): EM32D
 	bee_angry_nectar.png (entity/bee/bee_angry_nectar.png): EM32D
 	bee_nectar.png (entity/bee/bee_nectar.png): EM32D
 	bee_stinger.png (entity/bee/bee_stinger.png): EM32D
 	bell_body.png (entity/bell/bell_body.png): EM32D
-	[All Boat textures]: Faithful(!)
+	[All Boat textures]: Faithful
 	all_black.png (entity/cat/all_black.png): EM32D
 	black.png (entity/cat/black.png): EM32D
 	british_shorthair.png (entity/cat/british_shorthair.png): EM32D
@@ -1393,7 +1381,7 @@ Compliance: https://compliancepack.net/
 	dragon.png (entity/enderdragon/dragon.png): Vattic
 	dragon_exploding.png (entity/enderdragon/dragon_exploding.png): Vattic
 	dragon_eyes.png (entity/enderdragon/dragon_eyes.png): Vattic
-	dragon_fireball.png (entity/enderdragon/dragon_fireball.png): Faithful(!)
+	dragon_fireball.png (entity/enderdragon/dragon_fireball.png): Vattic (Fire charge tweaked by mullak99)
 	enderman.png (entity/enderman/enderman.png): Vattic
 	enderman_eyes.png (entity/enderman/enderman_eyes.png): Vattic
 	end_crystal.png (entity/end_crystal/end_crystal.png): EM32D
@@ -1408,13 +1396,13 @@ Compliance: https://compliancepack.net/
 	tropical_a_pattern_4.png (entity/fish/tropical_a_pattern_4.png): EM32D
 	tropical_a_pattern_5.png (entity/fish/tropical_a_pattern_5.png): EM32D
 	tropical_a_pattern_6.png (entity/fish/tropical_a_pattern_6.png): EM32D
-	tropical_b.png (entity/fish/tropical_b.png): Faithful(!)
-	tropical_b_pattern_1.png (entity/fish/tropical_b_pattern_1.png): Faithful(!)
-	tropical_b_pattern_2.png (entity/fish/tropical_b_pattern_2.png): Faithful(!)
-	tropical_b_pattern_3.png (entity/fish/tropical_b_pattern_3.png): Faithful(!)
-	tropical_b_pattern_4.png (entity/fish/tropical_b_pattern_4.png): Faithful(!)
-	tropical_b_pattern_5.png (entity/fish/tropical_b_pattern_5.png): Faithful(!)
-	tropical_b_pattern_6.png (entity/fish/tropical_b_pattern_6.png): Faithful(!)
+	tropical_b.png (entity/fish/tropical_b.png): Faithful
+	tropical_b_pattern_1.png (entity/fish/tropical_b_pattern_1.png): Faithful
+	tropical_b_pattern_2.png (entity/fish/tropical_b_pattern_2.png): Faithful
+	tropical_b_pattern_3.png (entity/fish/tropical_b_pattern_3.png): Faithful
+	tropical_b_pattern_4.png (entity/fish/tropical_b_pattern_4.png): Faithful
+	tropical_b_pattern_5.png (entity/fish/tropical_b_pattern_5.png): Faithful
+	tropical_b_pattern_6.png (entity/fish/tropical_b_pattern_6.png): Faithful
 	fox.png (entity/fox/fox.png): EM32D
 	fox_sleep.png (entity/fox/fox_sleep.png): EM32D
 	snow_fox.png (entity/fox/snow_fox.png): EM32D
@@ -1456,28 +1444,28 @@ Compliance: https://compliancepack.net/
 	iron_golem_crackiness_low.png (entity/iron_golem/iron_golem_crackiness_low.png): EM32D
 	iron_golem_crackiness_medium.png (entity/iron_golem/iron_golem_crackiness_medium.png): EM32D
 	iron_golem_e.png (entity/iron_golem/iron_golem_e.png): mullak99
-	brown.png (entity/llama/brown.png): Faithful(!)
-	creamy.png (entity/llama/creamy.png): Faithful(!)
-	gray.png (entity/llama/gray.png): Faithful(!)
-	spit.png (entity/llama/spit.png): Faithful(!)
-	white.png (entity/llama/white.png): Faithful(!)
-	black.png (entity/llama/decor/black.png): Faithful(!)
-	blue.png (entity/llama/decor/blue.png): Faithful(!)
-	brown.png (entity/llama/decor/brown.png): Faithful(!)
-	cyan.png (entity/llama/decor/cyan.png): Faithful(!)
-	gray.png (entity/llama/decor/gray.png): Faithful(!)
-	green.png (entity/llama/decor/green.png): Faithful(!)
-	light_blue.png (entity/llama/decor/light_blue.png): Faithful(!)
-	light_gray.png (entity/llama/decor/light_gray.png): Faithful(!)
-	lime.png (entity/llama/decor/lime.png): Faithful(!)
-	magenta.png (entity/llama/decor/magenta.png): Faithful(!)
-	orange.png (entity/llama/decor/orange.png): Faithful(!)
-	pink.png (entity/llama/decor/pink.png): Faithful(!)
-	purple.png (entity/llama/decor/purple.png): Faithful(!)
-	red.png (entity/llama/decor/red.png): Faithful(!)
-	trader_llama.png (entity/llama/decor/trader_llama.png): Faithful(!)
-	white.png (entity/llama/decor/white.png): Faithful(!)
-	yellow.png (entity/llama/decor/yellow.png): Faithful(!)
+	brown.png (entity/llama/brown.png): Faithful
+	creamy.png (entity/llama/creamy.png): Faithful
+	gray.png (entity/llama/gray.png): Faithful
+	spit.png (entity/llama/spit.png): Faithful
+	white.png (entity/llama/white.png): Faithful
+	black.png (entity/llama/decor/black.png): Faithful
+	blue.png (entity/llama/decor/blue.png): Faithful
+	brown.png (entity/llama/decor/brown.png): Faithful
+	cyan.png (entity/llama/decor/cyan.png): Faithful
+	gray.png (entity/llama/decor/gray.png): Faithful
+	green.png (entity/llama/decor/green.png): Faithful
+	light_blue.png (entity/llama/decor/light_blue.png): Faithful
+	light_gray.png (entity/llama/decor/light_gray.png): Faithful
+	lime.png (entity/llama/decor/lime.png): Faithful
+	magenta.png (entity/llama/decor/magenta.png): Faithful
+	orange.png (entity/llama/decor/orange.png): Faithful
+	pink.png (entity/llama/decor/pink.png): Faithful
+	purple.png (entity/llama/decor/purple.png): Faithful
+	red.png (entity/llama/decor/red.png): Faithful
+	trader_llama.png (entity/llama/decor/trader_llama.png): Faithful
+	white.png (entity/llama/decor/white.png): Faithful
+	yellow.png (entity/llama/decor/yellow.png): Faithful
 	aggressive_panda.png (entity/panda/aggressive_panda.png): EM32D
 	brown_panda.png (entity/panda/brown_panda.png): EM32D
 	lazy_panda.png (entity/panda/lazy_panda.png): EM32D
@@ -1510,7 +1498,7 @@ Compliance: https://compliancepack.net/
 	sheep_fur.png (entity/sheep/sheep_fur.png): EM32D
 	[All Shield pattern textures (except Mojang)]: Compliance
 	mojang.png (entity/shield/mojang.png): Delio#9779
-	[All Shulker textures]: mullak99
+	[All shulker textures]: EM32D
 	spark.png (entity/shulker/spark.png): EM32D
 	acacia.png (entity/signs/acacia.png): EM32D
 	birch.png (entity/signs/birch.png): EM32D
@@ -1571,8 +1559,8 @@ Compliance: https://compliancepack.net/
 	wolf_angry.png (entity/wolf/wolf_angry.png): EM32D
 	wolf_collar.png (entity/wolf/wolf_collar.png): EM32D
 	wolf_tame.png (entity/wolf/wolf_tame.png): EM32D
-	drowned.png (entity/zombie/drowned.png): Compliance
-	drowned_outer_layer.png (entity/zombie/drowned_outer_layer.png): Compliance
+	drowned.png (entity/zombie/drowned.png): EM32D
+	drowned_outer_layer.png (entity/zombie/drowned_outer_layer.png): EM32D
 	husk.png (entity/zombie/husk.png): EM32D
 	zombie.png (entity/zombie/zombie.png): EM32D
 	zombie_villager.png (entity/zombie_villager/zombie_villager.png): EM32D
@@ -1674,12 +1662,12 @@ Compliance: https://compliancepack.net/
 	4.png (ctm/beehive/4.png): mullak99 (Based off EM32D)
 	5.png (ctm/beehive/5.png): mullak99 (Based off EM32D)
 	0.png (ctm/bee_nest/0.png): mullak99 (Based off EM32D)
-	acacia.png (ctm/boats/acacia.png): Faithful(!)
-	birch.png (ctm/boats/birch.png): Faithful(!)
-	dark_oak.png (ctm/boats/dark_oak.png): Faithful(!)
-	jungle.png (ctm/boats/jungle.png): Faithful(!)
-	oak.png (ctm/boats/oak.png): Faithful(!)
-	spruce.png (ctm/boats/spruce.png): Faithful(!)
+	acacia.png (ctm/boats/acacia.png): Faithful
+	birch.png (ctm/boats/birch.png): Faithful
+	dark_oak.png (ctm/boats/dark_oak.png): Faithful
+	jungle.png (ctm/boats/jungle.png): Faithful
+	oak.png (ctm/boats/oak.png): Faithful
+	spruce.png (ctm/boats/spruce.png): Faithful
 	[All Door CTM]: mullak99
 	hopper_inside_arrow.png (ctm/hopper/hopper_inside_arrow.png): mullak99
 	hopper_outside_arrow.png (ctm/hopper/hopper_outside_arrow.png): mullak99

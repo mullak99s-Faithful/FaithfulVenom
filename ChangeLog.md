@@ -11,6 +11,7 @@ All notable changes to FaithfulVenom will be documented in this file.
 - Added "AntVenom" banner/shield pattern (Replaces Mojang) [Created by Delio#9779]
 - Added Credits [Contact mullak99 if any of them are incorrect]
 - Added Illager font for 1.18
+- Added Otherside Music disc for 1.18
 
 ### Changed
 - Reworked UI (Buttons)
@@ -31,7 +32,7 @@ All notable changes to FaithfulVenom will be documented in this file.
 - Changed Stonecutter 3D model
 - Changed Sugar Cane model to match new texture
 - Changed Powder Snow texture
-- Changed Shulker textures [Created by mullak99]
+- Changed Shulker textures
 - Minor changes to various door models
 - Reworked models to fit new textures
 - Updated Inventory GUI to support 1.18

@@ -498,7 +498,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	loom_front.png (block/loom_front.png): EM32D
 	loom_side.png (block/loom_side.png): EM32D
 	loom_top.png (block/loom_top.png): EM32D
-	magenta_candle.png (block/magenta_candle.png)
+	magenta_candle.png (block/magenta_candle.png): EM32D
 	magenta_candle_lit.png (block/magenta_candle_lit.png): EM32D
 	magenta_concrete.png (block/magenta_concrete.png): EM32D
 	magenta_concrete_powder.png (block/magenta_concrete_powder.png): EM32D
@@ -671,7 +671,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	red_tulip.png (block/red_tulip.png): EM32D
 	red_wool.png (block/red_wool.png): EM32D
 	repeater.png (block/repeater.png): Vattic (tweaked by mullak99)
-	repeater_on.png (block/repeater_on.png): Vattic (tweaked by mullak99): EM32D
+	repeater_on.png (block/repeater_on.png): Vattic (tweaked by mullak99)
 	repeating_command_block_back.png (block/repeating_command_block_back.png): EM32D
 	repeating_command_block_conditional.png (block/repeating_command_block_conditional.png): EM32D
 	repeating_command_block_front.png (block/repeating_command_block_front.png): EM32D
@@ -893,7 +893,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	bone_meal.png (item/bone_meal.png): Vattic
 	book.png (item/book.png): Vattic
 	bow.png (item/bow.png): Vattic
-	bowl.png (item/bowl.png)
+	bowl.png (item/bowl.png): EM32D
 	bow_pulling_0.png (item/bow_pulling_0.png): Vattic (Edited by mullak99)
 	bow_pulling_1.png (item/bow_pulling_1.png): Vattic (Edited by mullak99)
 	bow_pulling_2.png (item/bow_pulling_2.png): Vattic (Edited by mullak99)
@@ -1153,7 +1153,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	leather_helmet_overlay.png (item/leather_helmet_overlay.png): Vattic
 	leather_horse_armor.png (item/leather_horse_armor.png): EM32D
 	leather_leggings.png (item/leather_leggings.png): Vattic
-	leather_leggings_overlay.png (item/leather_leggings_overlay.Vattic)
+	leather_leggings_overlay.png (item/leather_leggings_overlay.png): Vattic
 	light.png (item/light.png): EM32D
 	light_00.png (item/light_00.png): EM32D
 	light_01.png (item/light_01.png): EM32D
@@ -1202,7 +1202,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	netherite_pickaxe.png (item/netherite_pickaxe.png): mullak99
 	netherite_scrap.png (item/netherite_scrap.png): EM32D
 	netherite_shovel.png (item/netherite_shovel.png): mullak99
-	netherite_sword.png (item/netherite_sword.png)
+	netherite_sword.png (item/netherite_sword.png): mullak99
 	nether_brick.png (item/nether_brick.png): EM32D
 	nether_sprouts.png (item/nether_sprouts.png): EM32D
 	nether_star.png (item/nether_star.png): Vattic
@@ -1332,7 +1332,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	phantom.png (entity/phantom.png): Vattic
 	phantom_eyes.png (entity/phantom_eyes.png): mullak99
 	shield_base.png (entity/shield_base.png): EM32D
-	shield_base_nopattern.png (entity/shield_base_nopattern.png)
+	shield_base_nopattern.png (entity/shield_base_nopattern.png): EM32D
 	silverfish.png (entity/silverfish.png): Vattic
 	snow_golem.png (entity/snow_golem.png): Vattic
 	spider_eyes.png (entity/spider_eyes.png): EM32D
@@ -1351,14 +1351,14 @@ mullak99: https://faithful.mullak99.co.uk/
 	[All Banner pattern textures (except Mojang)]: Compliance
 	mojang.png (entity/banner/mojang.png): Delio#9779
 	polarbear.png (entity/bear/polarbear.png): EM32D
-	[All Bed textures]: Faithful
+	[All Bed textures]: mullak99 (using EM32D & Vattic beds)
 	bee.png (entity/bee/bee.png): EM32D
 	bee_angry.png (entity/bee/bee_angry.png): EM32D
 	bee_angry_nectar.png (entity/bee/bee_angry_nectar.png): EM32D
 	bee_nectar.png (entity/bee/bee_nectar.png): EM32D
 	bee_stinger.png (entity/bee/bee_stinger.png): EM32D
 	bell_body.png (entity/bell/bell_body.png): EM32D
-	[All Boat textures]: Faithful
+	[All Boat textures]: mullak99 (using Vattic planks)
 	all_black.png (entity/cat/all_black.png): EM32D
 	black.png (entity/cat/black.png): EM32D
 	british_shorthair.png (entity/cat/british_shorthair.png): EM32D
@@ -1455,7 +1455,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	vex.png (entity/illager/vex.png): EM32D
 	vex_charging.png (entity/illager/vex_charging.png): EM32D
 	vindicator.png (entity/illager/vindicator.png): EM32D
-	iron_golem.png (entity/iron_golem/iron_golem.png): Faithful
+	iron_golem.png (entity/iron_golem/iron_golem.png): Vattic
 	iron_golem_crackiness_high.png (entity/iron_golem/iron_golem_crackiness_high.png): EM32D
 	iron_golem_crackiness_low.png (entity/iron_golem/iron_golem_crackiness_low.png): EM32D
 	iron_golem_crackiness_medium.png (entity/iron_golem/iron_golem_crackiness_medium.png): EM32D
@@ -1678,12 +1678,12 @@ mullak99: https://faithful.mullak99.co.uk/
 	4.png (ctm/beehive/4.png): mullak99 (Based off EM32D)
 	5.png (ctm/beehive/5.png): mullak99 (Based off EM32D)
 	0.png (ctm/bee_nest/0.png): mullak99 (Based off EM32D)
-	acacia.png (ctm/boats/acacia.png): Faithful
-	birch.png (ctm/boats/birch.png): Faithful
-	dark_oak.png (ctm/boats/dark_oak.png): Faithful
-	jungle.png (ctm/boats/jungle.png): Faithful
-	oak.png (ctm/boats/oak.png): Faithful
-	spruce.png (ctm/boats/spruce.png): Faithful
+	acacia.png (ctm/boats/acacia.png): mullak99 (using Vattic planks)
+	birch.png (ctm/boats/birch.png): mullak99 (using Vattic planks)
+	dark_oak.png (ctm/boats/dark_oak.png): mullak99 (using Vattic planks)
+	jungle.png (ctm/boats/jungle.png): mullak99 (using Vattic planks)
+	oak.png (ctm/boats/oak.png): mullak99 (using Vattic planks)
+	spruce.png (ctm/boats/spruce.png): mullak99 (using Vattic planks)
 	[All Door CTM]: mullak99
 	hopper_inside_arrow.png (ctm/hopper/hopper_inside_arrow.png): mullak99
 	hopper_outside_arrow.png (ctm/hopper/hopper_outside_arrow.png): mullak99
@@ -1712,7 +1712,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	[All Trapdoor CTM]: mullak99
 
 	== Minecraft [Particle] (/assets/minecraft/textures/particle) ==
-	[All are from Vattic's Faithful or EM32D]
+	[All are Vattic's or EM32D]
 
 	== Minecraft [Font] (/assets/minecraft/textures/font) ==
 	[All are from Compliance]

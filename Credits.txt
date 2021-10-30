@@ -54,11 +54,11 @@ mullak99: https://faithful.mullak99.co.uk/
 	anvil_top.png (block/anvil_top.png): Vattic
 	attached_melon_stem.png (block/attached_melon_stem.png): Vattic
 	attached_pumpkin_stem.png (block/attached_pumpkin_stem.png): Vattic
-	azalea_leaves.png (block/azalea_leaves.png): Compliance
+	azalea_leaves.png (block/azalea_leaves.png): EM32D
 	azalea_plant.png (block/azalea_plant.png): EM32D
 	azalea_side.png (block/azalea_side.png): EM32D
 	azalea_top.png (block/azalea_top.png): EM32D
-	azure_bluet.png (block/azure_bluet.png): Compliance
+	azure_bluet.png (block/azure_bluet.png): Vattic
 	bamboo_large_leaves.png (block/bamboo_large_leaves.png): EM32D
 	bamboo_singleleaf.png (block/bamboo_singleleaf.png): EM32D
 	bamboo_small_leaves.png (block/bamboo_small_leaves.png): EM32D
@@ -161,9 +161,9 @@ mullak99: https://faithful.mullak99.co.uk/
 	cake_side.png (block/cake_side.png): Vattic
 	cake_top.png (block/cake_top.png): Vattic
 	calcite.png (block/calcite.png): EM32D
-	campfire_fire.png (block/campfire_fire.png): Compliance
-	campfire_log.png (block/campfire_log.png): Compliance
-	campfire_log_lit.png (block/campfire_log_lit.png): Compliance
+	campfire_fire.png (block/campfire_fire.png): EM32D
+	campfire_log.png (block/campfire_log.png): mullak99 (Based on EM32D's)
+	campfire_log_lit.png (block/campfire_log_lit.png): mullak99 (Based on EM32D's)
 	candle.png (block/candle.png): EM32D
 	candle_lit.png (block/candle_lit.png): EM32D
 	carrots_stage0.png (block/carrots_stage0.png): Vattic
@@ -355,7 +355,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	fletching_table_front.png (block/fletching_table_front.png): EM32D
 	fletching_table_side.png (block/fletching_table_side.png): EM32D
 	fletching_table_top.png (block/fletching_table_top.png): EM32D
-	flowering_azalea_leaves.png (block/flowering_azalea_leaves.png): Compliance
+	flowering_azalea_leaves.png (block/flowering_azalea_leaves.png): EM32D
 	flowering_azalea_side.png (block/flowering_azalea_side.png): EM32D
 	flowering_azalea_top.png (block/flowering_azalea_top.png): EM32D
 	flower_pot.png (block/flower_pot.png): Vattic
@@ -704,8 +704,8 @@ mullak99: https://faithful.mullak99.co.uk/
 	scaffolding_top.png (block/scaffolding_top.png): EM32D
 	sculk_sensor_bottom.png (block/sculk_sensor_bottom.png): EM32D
 	sculk_sensor_side.png (block/sculk_sensor_side.png): EM32D
-	sculk_sensor_tendril_active.png (block/sculk_sensor_tendril_active.png): EM32D
-	sculk_sensor_tendril_inactive.png (block/sculk_sensor_tendril_inactive.png): EM32D
+	sculk_sensor_tendril_active.png (block/sculk_sensor_tendril_active.png): Compliance
+	sculk_sensor_tendril_inactive.png (block/sculk_sensor_tendril_inactive.png): Compliance
 	sculk_sensor_top.png (block/sculk_sensor_top.png): EM32D
 	seagrass.png (block/seagrass.png): EM32D
 	sea_lantern.png (block/sea_lantern.png): EM32D
@@ -731,12 +731,12 @@ mullak99: https://faithful.mullak99.co.uk/
 	smooth_stone.png (block/smooth_stone.png): EM32D
 	smooth_stone_slab_side.png (block/smooth_stone_slab_side.png): EM32D
 	snow.png (block/snow.png): Vattic
-	soul_campfire_fire.png (block/soul_campfire_fire.png): Compliance
-	soul_campfire_log_lit.png (block/soul_campfire_log_lit.png): Compliance
+	soul_campfire_fire.png (block/soul_campfire_fire.png): EM32D
+	soul_campfire_log_lit.png (block/soul_campfire_log_lit.png): mullak99 (Based on EM32D's)
 	soul_fire_0.png (block/soul_fire_0.png): EM32D
 	soul_fire_1.png (block/soul_fire_1.png): EM32D
 	soul_lantern.png (block/soul_lantern.png): EM32D
-	soul_sand.png (block/soul_sand.png): Vattic
+	soul_sand.png (block/soul_sand.png): EM32D
 	soul_soil.png (block/soul_soil.png): EM32D
 	soul_torch.png (block/soul_torch.png): EM32D
 	spawner.png (block/spawner.png): Vattic
@@ -1352,7 +1352,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	mojang.png (entity/banner/mojang.png): Delio#9779
 	polarbear.png (entity/bear/polarbear.png): EM32D
 	[All Bed textures]: Faithful
-	bee.png (entity/bee/bee.png)
+	bee.png (entity/bee/bee.png): EM32D
 	bee_angry.png (entity/bee/bee_angry.png): EM32D
 	bee_angry_nectar.png (entity/bee/bee_angry_nectar.png): EM32D
 	bee_nectar.png (entity/bee/bee_nectar.png): EM32D
@@ -1397,7 +1397,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	dragon.png (entity/enderdragon/dragon.png): Vattic
 	dragon_exploding.png (entity/enderdragon/dragon_exploding.png): Vattic
 	dragon_eyes.png (entity/enderdragon/dragon_eyes.png): Vattic
-	dragon_fireball.png (entity/enderdragon/dragon_fireball.png): Vattic (Fire charge tweaked by mullak99)
+	dragon_fireball.png (entity/enderdragon/dragon_fireball.png): mullak99 (Tweaked Vattic Fire Charge)
 	enderman.png (entity/enderman/enderman.png): Vattic
 	enderman_eyes.png (entity/enderman/enderman_eyes.png): Vattic
 	end_crystal.png (entity/end_crystal/end_crystal.png): EM32D
@@ -1412,13 +1412,13 @@ mullak99: https://faithful.mullak99.co.uk/
 	tropical_a_pattern_4.png (entity/fish/tropical_a_pattern_4.png): EM32D
 	tropical_a_pattern_5.png (entity/fish/tropical_a_pattern_5.png): EM32D
 	tropical_a_pattern_6.png (entity/fish/tropical_a_pattern_6.png): EM32D
-	tropical_b.png (entity/fish/tropical_b.png): Faithful
-	tropical_b_pattern_1.png (entity/fish/tropical_b_pattern_1.png): Faithful
-	tropical_b_pattern_2.png (entity/fish/tropical_b_pattern_2.png): Faithful
-	tropical_b_pattern_3.png (entity/fish/tropical_b_pattern_3.png): Faithful
-	tropical_b_pattern_4.png (entity/fish/tropical_b_pattern_4.png): Faithful
-	tropical_b_pattern_5.png (entity/fish/tropical_b_pattern_5.png): Faithful
-	tropical_b_pattern_6.png (entity/fish/tropical_b_pattern_6.png): Faithful
+	tropical_b.png (entity/fish/tropical_b.png): EM32D
+	tropical_b_pattern_1.png (entity/fish/tropical_b_pattern_1.png): EM32D
+	tropical_b_pattern_2.png (entity/fish/tropical_b_pattern_2.png): EM32D
+	tropical_b_pattern_3.png (entity/fish/tropical_b_pattern_3.png): EM32D
+	tropical_b_pattern_4.png (entity/fish/tropical_b_pattern_4.png): EM32D
+	tropical_b_pattern_5.png (entity/fish/tropical_b_pattern_5.png): EM32D
+	tropical_b_pattern_6.png (entity/fish/tropical_b_pattern_6.png): EM32D
 	fox.png (entity/fox/fox.png): EM32D
 	fox_sleep.png (entity/fox/fox_sleep.png): EM32D
 	snow_fox.png (entity/fox/snow_fox.png): EM32D
@@ -1450,7 +1450,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	evoker.png (entity/illager/evoker.png): EM32D
 	evoker_fangs.png (entity/illager/evoker_fangs.png): EM32D
 	illusioner.png (entity/illager/illusioner.png): EM32D
-	pillager.png (entity/illager/pillager.png): mullak99 (but based on Faithful)
+	pillager.png (entity/illager/pillager.png): EM32D
 	ravager.png (entity/illager/ravager.png): Compliance
 	vex.png (entity/illager/vex.png): EM32D
 	vex_charging.png (entity/illager/vex_charging.png): EM32D
@@ -1490,7 +1490,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	weak_panda.png (entity/panda/weak_panda.png): EM32D
 	worried_panda.png (entity/panda/worried_panda.png): EM32D
 	parrot_blue.png (entity/parrot/parrot_blue.png): EM32D
-	parrot_green.png (entity/parrot/parrot_green.png)
+	parrot_green.png (entity/parrot/parrot_green.png): EM32D
 	parrot_grey.png (entity/parrot/parrot_grey.png): EM32D
 	parrot_red_blue.png (entity/parrot/parrot_red_blue.png): EM32D
 	parrot_yellow_blue.png (entity/parrot/parrot_yellow_blue.png): EM32D

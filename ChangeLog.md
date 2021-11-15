@@ -1,17 +1,17 @@
 # Changelog
 All notable changes to FaithfulVenom will be documented in this file.
 
-## [Unreleased]
+## [1.17-r4] - TBC
 ### Added
 - Added Axolotl entity texture
 - Added Fabric GUI textures
 - Added Optifine UI texture
 - Added custom Deepslate Ore model and textures
 - Added various Emissive textures
-- Added "AntVenom" banner/shield pattern (Replaces Mojang) [Created by Delio#9779]
-- Added Credits [Contact mullak99 if any of them are incorrect]
-- Added Illager font for 1.18
-- Added Otherside Music disc for 1.18
+- Added "AntVenom" banner/shield pattern (Replaces Mojang) (Created by Delio#9779)
+- Added Credits (See Credits.txt, contact mullak99 if any of them are incorrect)
+- Added Illager font
+- Added Otherside Music disc
 
 ### Changed
 - Reworked UI (Buttons)
@@ -26,16 +26,16 @@ All notable changes to FaithfulVenom will be documented in this file.
 - Changed Rail textures and models
 - Changed Ladder model
 - Changed Water textures to be like they were Pre-1.13
-- Changed stripped log top textures (Now match normal logs) [Created by mullak99, using Vattic's OG log textures]
+- Changed stripped log top textures
 - Changed Panorama Background (fixes some issues, uses updated Ladder texture)
-- Changed Totem of Undying (Replaced Faithful's totem with EM's)
+- Changed Totem of Undying
 - Changed Stonecutter 3D model
 - Changed Sugar Cane model to match new texture
 - Changed Powder Snow texture
 - Changed Shulker textures
 - Minor changes to various door models
 - Reworked models to fit new textures
-- Updated Inventory GUI to support 1.18
+- Updated Inventory GUI
 - Reorganised Optifine CTM folder
 - Reorganised CTM (moved '/entity/3dmodels' into '/ctm')
 - Compressed more textures

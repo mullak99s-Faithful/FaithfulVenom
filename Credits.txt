@@ -704,8 +704,8 @@ mullak99: https://faithful.mullak99.co.uk/
 	scaffolding_top.png (block/scaffolding_top.png): EM32D
 	sculk_sensor_bottom.png (block/sculk_sensor_bottom.png): EM32D
 	sculk_sensor_side.png (block/sculk_sensor_side.png): EM32D
-	sculk_sensor_tendril_active.png (block/sculk_sensor_tendril_active.png): Compliance
-	sculk_sensor_tendril_inactive.png (block/sculk_sensor_tendril_inactive.png): Compliance
+	sculk_sensor_tendril_active.png (block/sculk_sensor_tendril_active.png): EM32D
+	sculk_sensor_tendril_inactive.png (block/sculk_sensor_tendril_inactive.png): EM32D
 	sculk_sensor_top.png (block/sculk_sensor_top.png): EM32D
 	seagrass.png (block/seagrass.png): EM32D
 	sea_lantern.png (block/sea_lantern.png): EM32D
@@ -1339,7 +1339,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	steve.png (entity/steve.png): Vattic
 	trident.png (entity/trident.png): EM32D
 	trident_riptide.png (entity/trident_riptide.png): EM32D
-	wandering_trader.png (entity/wandering_trader.png): Faithful
+	wandering_trader.png (entity/wandering_trader.png): EM32D
 	witch.png (entity/witch.png): EM32D
 	witch_e.png (entity/witch_e.png): mullak99
 	wood.png (entity/armorstand/wood.png): Vattic
@@ -1426,8 +1426,8 @@ mullak99: https://faithful.mullak99.co.uk/
 	ghast.png (entity/ghast/ghast.png): EM32D
 	ghast_shooting.png (entity/ghast/ghast_shooting.png): EM32D
 	ghast_shooting_e.png (entity/ghast/ghast_shooting_e.png): mullak99
-	hoglin.png (entity/hoglin/hoglin.png): Compliance
-	zoglin.png (entity/hoglin/zoglin.png): Compliance
+	hoglin.png (entity/hoglin/hoglin.png): EM32D
+	zoglin.png (entity/hoglin/zoglin.png): EM32D
 	donkey.png (entity/horse/donkey.png): EM32D
 	horse_black.png (entity/horse/horse_black.png): EM32D
 	horse_brown.png (entity/horse/horse_brown.png): EM32D
@@ -1460,28 +1460,27 @@ mullak99: https://faithful.mullak99.co.uk/
 	iron_golem_crackiness_low.png (entity/iron_golem/iron_golem_crackiness_low.png): EM32D
 	iron_golem_crackiness_medium.png (entity/iron_golem/iron_golem_crackiness_medium.png): EM32D
 	iron_golem_e.png (entity/iron_golem/iron_golem_e.png): mullak99
-	brown.png (entity/llama/brown.png): Faithful
-	creamy.png (entity/llama/creamy.png): Faithful
-	gray.png (entity/llama/gray.png): Faithful
-	spit.png (entity/llama/spit.png): Faithful
-	white.png (entity/llama/white.png): Faithful
-	black.png (entity/llama/decor/black.png): Faithful
-	blue.png (entity/llama/decor/blue.png): Faithful
-	brown.png (entity/llama/decor/brown.png): Faithful
-	cyan.png (entity/llama/decor/cyan.png): Faithful
-	gray.png (entity/llama/decor/gray.png): Faithful
-	green.png (entity/llama/decor/green.png): Faithful
-	light_blue.png (entity/llama/decor/light_blue.png): Faithful
-	light_gray.png (entity/llama/decor/light_gray.png): Faithful
-	lime.png (entity/llama/decor/lime.png): Faithful
-	magenta.png (entity/llama/decor/magenta.png): Faithful
-	orange.png (entity/llama/decor/orange.png): Faithful
-	pink.png (entity/llama/decor/pink.png): Faithful
-	purple.png (entity/llama/decor/purple.png): Faithful
-	red.png (entity/llama/decor/red.png): Faithful
-	trader_llama.png (entity/llama/decor/trader_llama.png): Faithful
-	white.png (entity/llama/decor/white.png): Faithful
-	yellow.png (entity/llama/decor/yellow.png): Faithful
+	brown.png (entity/llama/brown.png): EM32D
+	creamy.png (entity/llama/creamy.png): EM32D
+	gray.png (entity/llama/gray.png): EM32D
+	white.png (entity/llama/white.png): EM32D
+	black.png (entity/llama/decor/black.png): EM32D
+	blue.png (entity/llama/decor/blue.png): EM32D
+	brown.png (entity/llama/decor/brown.png): EM32D
+	cyan.png (entity/llama/decor/cyan.png): EM32D
+	gray.png (entity/llama/decor/gray.png): EM32D
+	green.png (entity/llama/decor/green.png): EM32D
+	light_blue.png (entity/llama/decor/light_blue.png): EM32D
+	light_gray.png (entity/llama/decor/light_gray.png): EM32D
+	lime.png (entity/llama/decor/lime.png): EM32D
+	magenta.png (entity/llama/decor/magenta.png): EM32D
+	orange.png (entity/llama/decor/orange.png): EM32D
+	pink.png (entity/llama/decor/pink.png): EM32D
+	purple.png (entity/llama/decor/purple.png): EM32D
+	red.png (entity/llama/decor/red.png): EM32D
+	trader_llama.png (entity/llama/decor/trader_llama.png): EM32D
+	white.png (entity/llama/decor/white.png): EM32D
+	yellow.png (entity/llama/decor/yellow.png): EM32D
 	aggressive_panda.png (entity/panda/aggressive_panda.png): EM32D
 	brown_panda.png (entity/panda/brown_panda.png): EM32D
 	lazy_panda.png (entity/panda/lazy_panda.png): EM32D
@@ -1496,8 +1495,8 @@ mullak99: https://faithful.mullak99.co.uk/
 	parrot_yellow_blue.png (entity/parrot/parrot_yellow_blue.png): EM32D
 	pig.png (entity/pig/pig.png): EM32D
 	pig_saddle.png (entity/pig/pig_saddle.png): EM32D
-	piglin.png (entity/piglin/piglin.png): Compliance
-	piglin_brute.png (entity/piglin/piglin_brute.png): Compliance
+	piglin.png (entity/piglin/piglin.png): EM32D
+	piglin_brute.png (entity/piglin/piglin_brute.png): EM32D
 	zombified_piglin.png (entity/piglin/zombified_piglin.png): EM32D
 	arrow.png (entity/projectiles/arrow.png): EM32D
 	spectral_arrow.png (entity/projectiles/spectral_arrow.png): EM32D
@@ -1537,8 +1536,8 @@ mullak99: https://faithful.mullak99.co.uk/
 	spider.png (entity/spider/spider.png): EM32D
 	glow_squid.png (entity/squid/glow_squid.png): EM32D
 	squid.png (entity/squid/squid.png): EM32D
-	strider.png (entity/strider/strider.png): Compliance
-	strider_cold.png (entity/strider/strider_cold.png): Compliance
+	strider.png (entity/strider/strider.png): EM32D
+	strider_cold.png (entity/strider/strider_cold.png): EM32D
 	strider_saddle.png (entity/strider/strider_saddle.png): EM32D
 	big_sea_turtle.png (entity/turtle/big_sea_turtle.png): EM32D
 	villager.png (entity/villager/villager.png): EM32D

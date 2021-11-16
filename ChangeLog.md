@@ -1,6 +1,14 @@
 # Changelog
 All notable changes to FaithfulVenom will be documented in this file.
 
+## [Unreleased]
+### Added
+- Added Otherside music disc
+- Added Illager font
+
+### Changed
+- Changed Inventory GUI
+
 ## [1.17-r4] - TBC
 ### Added
 - Added Axolotl entity texture

@@ -214,8 +214,8 @@ mullak99: https://faithful.mullak99.co.uk/
 	command_block_conditional.png (block/command_block_conditional.png): EM32D
 	command_block_front.png (block/command_block_front.png): EM32D
 	command_block_side.png (block/command_block_side.png): EM32D
-	comparator.png (block/comparator.png): Vattic
-	comparator_on.png (block/comparator_on.png): Vattic
+	comparator.png (block/comparator.png): EM32T
+	comparator_on.png (block/comparator_on.png): EM32T
 	composter_bottom.png (block/composter_bottom.png): EM32D
 	composter_compost.png (block/composter_compost.png): mullak99 (using Vattic's Podzol)
 	composter_ready.png (block/composter_ready.png): mullak99 (using Vattic's Podzol)
@@ -316,9 +316,9 @@ mullak99: https://faithful.mullak99.co.uk/
 	destroy_stage_9.png (block/destroy_stage_9.png): Vattic
 	detector_rail.png (block/detector_rail.png): EM32D
 	detector_rail_on.png (block/detector_rail_on.png): EM32D
-	diamond_block.png (block/diamond_block.png): Vattic
+	diamond_block.png (block/diamond_block.png): EM32T
 	diamond_ore.png (block/diamond_ore.png): Vattic
-	diorite.png (block/diorite.png): Vattic
+	diorite.png (block/diorite.png): EM32T
 	dirt.png (block/dirt.png): Vattic
 	dirt_path_side.png (block/dirt_path_side.png): Vattic
 	dirt_path_top.png (block/dirt_path_top.png): Vattic
@@ -341,7 +341,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	end_portal_frame_top.png (block/end_portal_frame_top.png): Vattic
 	end_rod.png (block/end_rod.png): EM32D
 	end_stone.png (block/end_stone.png): Vattic
-	end_stone_bricks.png (block/end_stone_bricks.png): EM32D
+	end_stone_bricks.png (block/end_stone_bricks.png): EM32T
 	exposed_copper.png (block/exposed_copper.png): EM32D
 	exposed_cut_copper.png (block/exposed_cut_copper.png): EM32D
 	farmland.png (block/farmland.png): Vattic
@@ -373,7 +373,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	glowstone.png (block/glowstone.png): Vattic
 	glow_item_frame.png (block/glow_item_frame.png): mullak99 (Based off Vattic's and EM32D's)
 	glow_lichen.png (block/glow_lichen.png): EM32D
-	gold_block.png (block/gold_block.png): Vattic
+	gold_block.png (block/gold_block.png): EM32T
 	gold_ore.png (block/gold_ore.png): Vattic
 	granite.png (block/granite.png): Vattic
 	grass.png (block/grass.png): Vattic
@@ -510,9 +510,9 @@ mullak99: https://faithful.mullak99.co.uk/
 	magenta_wool.png (block/magenta_wool.png): EM32D
 	magma.png (block/magma.png): EM32D
 	medium_amethyst_bud.png (block/medium_amethyst_bud.png): EM32D
-	melon_side.png (block/melon_side.png): Vattic
+	melon_side.png (block/melon_side.png): EM32T
 	melon_stem.png (block/melon_stem.png): Vattic
-	melon_top.png (block/melon_top.png): Vattic
+	melon_top.png (block/melon_top.png): EM32T
 	mossy_cobblestone.png (block/mossy_cobblestone.png): Vattic
 	mossy_stone_bricks.png (block/mossy_stone_bricks.png): Vattic
 	moss_block.png (block/moss_block.png): EM32D
@@ -670,8 +670,8 @@ mullak99: https://faithful.mullak99.co.uk/
 	red_terracotta.png (block/red_terracotta.png): EM32D
 	red_tulip.png (block/red_tulip.png): EM32D
 	red_wool.png (block/red_wool.png): EM32D
-	repeater.png (block/repeater.png): Vattic (tweaked by mullak99)
-	repeater_on.png (block/repeater_on.png): Vattic (tweaked by mullak99)
+	repeater.png (block/repeater.png): EM32T
+	repeater_on.png (block/repeater_on.png): EM32T
 	repeating_command_block_back.png (block/repeating_command_block_back.png): EM32D
 	repeating_command_block_conditional.png (block/repeating_command_block_conditional.png): EM32D
 	repeating_command_block_front.png (block/repeating_command_block_front.png): EM32D
@@ -728,8 +728,8 @@ mullak99: https://faithful.mullak99.co.uk/
 	smoker_side.png (block/smoker_side.png): mullak99 (Using Vattic and EM32D textures)
 	smoker_top.png (block/smoker_top.png): mullak99 (Using Vattic and EM32D textures)
 	smooth_basalt.png (block/smooth_basalt.png): EM32D
-	smooth_stone.png (block/smooth_stone.png): EM32D
-	smooth_stone_slab_side.png (block/smooth_stone_slab_side.png): EM32D
+	smooth_stone.png (block/smooth_stone.png): EM32T
+	smooth_stone_slab_side.png (block/smooth_stone_slab_side.png): EM32T
 	snow.png (block/snow.png): Vattic
 	soul_campfire_fire.png (block/soul_campfire_fire.png): EM32D
 	soul_campfire_log_lit.png (block/soul_campfire_log_lit.png): mullak99 (Based on EM32D's)
@@ -758,21 +758,21 @@ mullak99: https://faithful.mullak99.co.uk/
 	stonecutter_top.png (block/stonecutter_top.png): mullak99 (using Vattic and EM32D textures)
 	stone_bricks.png (block/stone_bricks.png): Vattic
 	stripped_acacia_log.png (block/stripped_acacia_log.png): EM32D
-	stripped_acacia_log_top.png (block/stripped_acacia_log_top.png): Vattic (Edited by mullak99)
+	stripped_acacia_log_top.png (block/stripped_acacia_log_top.png): EM32D
 	stripped_birch_log.png (block/stripped_birch_log.png): EM32D
-	stripped_birch_log_top.png (block/stripped_birch_log_top.png): Vattic (Edited by mullak99)
+	stripped_birch_log_top.png (block/stripped_birch_log_top.png): EM32D
 	stripped_crimson_stem.png (block/stripped_crimson_stem.png): EM32D
-	stripped_crimson_stem_top.png (block/stripped_crimson_stem_top.png): EM32D (Edited by mullak99)
+	stripped_crimson_stem_top.png (block/stripped_crimson_stem_top.png): EM32D
 	stripped_dark_oak_log.png (block/stripped_dark_oak_log.png): EM32D
-	stripped_dark_oak_log_top.png (block/stripped_dark_oak_log_top.png): Vattic (Edited by mullak99)
+	stripped_dark_oak_log_top.png (block/stripped_dark_oak_log_top.png): EM32D
 	stripped_jungle_log.png (block/stripped_jungle_log.png): EM32D
-	stripped_jungle_log_top.png (block/stripped_jungle_log_top.png): Vattic (Edited by mullak99)
+	stripped_jungle_log_top.png (block/stripped_jungle_log_top.png): EM32D
 	stripped_oak_log.png (block/stripped_oak_log.png): EM32D
-	stripped_oak_log_top.png (block/stripped_oak_log_top.png): Vattic (Edited by mullak99)
+	stripped_oak_log_top.png (block/stripped_oak_log_top.png): EM32D
 	stripped_spruce_log.png (block/stripped_spruce_log.png): EM32D
-	stripped_spruce_log_top.png (block/stripped_spruce_log_top.png): Vattic (Edited by mullak99)
+	stripped_spruce_log_top.png (block/stripped_spruce_log_top.png): EM32D
 	stripped_warped_stem.png (block/stripped_warped_stem.png): EM32D
-	stripped_warped_stem_top.png (block/stripped_warped_stem_top.png): EM32D (Edited by mullak99)
+	stripped_warped_stem_top.png (block/stripped_warped_stem_top.png): EM32D
 	structure_block.png (block/structure_block.png): EM32D
 	structure_block_corner.png (block/structure_block_corner.png): EM32D
 	structure_block_data.png (block/structure_block_data.png): EM32D
@@ -876,8 +876,8 @@ mullak99: https://faithful.mullak99.co.uk/
 	bamboo.png (item/bamboo.png): EM32D
 	barrier.png (item/barrier.png): EM32D
 	beef.png (item/beef.png): Vattic
-	beetroot.png (item/beetroot.png): EM32D
-	beetroot_seeds.png (item/beetroot_seeds.png): EM32D
+	beetroot.png (item/beetroot.png): EM32T
+	beetroot_seeds.png (item/beetroot_seeds.png): EM32T
 	beetroot_soup.png (item/beetroot_soup.png): EM32D
 	bell.png (item/bell.png): EM32D
 	birch_boat.png (item/birch_boat.png): EM32D
@@ -1292,7 +1292,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	turtle_egg.png (item/turtle_egg.png): EM32D
 	turtle_helmet.png (item/turtle_helmet.png): EM32D
 	warped_door.png (item/warped_door.png): EM32D
-	warped_fungus_on_a_stick.png (item/warped_fungus_on_a_stick.png): EM32D
+	warped_fungus_on_a_stick.png (item/warped_fungus_on_a_stick.png): EM32T
 	warped_sign.png (item/warped_sign.png): EM32D
 	water_bucket.png (item/water_bucket.png): Vattic
 	wheat.png (item/wheat.png): Vattic
@@ -1753,15 +1753,15 @@ mullak99: https://faithful.mullak99.co.uk/
 	fire_resistance.png (mob_effect/fire_resistance.png): Vattic
 	glowing.png (mob_effect/glowing.png): Vattic
 	haste.png (mob_effect/haste.png): Vattic
-	health_boost.png (mob_effect/health_boost.png): Vattic
+	health_boost.png (mob_effect/health_boost.png): EM32T
 	hero_of_the_village.png (mob_effect/hero_of_the_village.png): mullak99
-	hunger.png (mob_effect/hunger.png): Vattic
-	instant_damage.png (mob_effect/instant_damage.png): Vattic
-	instant_health.png (mob_effect/instant_health.png): Vattic
+	hunger.png (mob_effect/hunger.png): EM32T
+	instant_damage.png (mob_effect/instant_damage.png): EM32T
+	instant_health.png (mob_effect/instant_health.png): EM32T
 	invisibility.png (mob_effect/invisibility.png): Vattic
 	jump_boost.png (mob_effect/jump_boost.png): Vattic
-	levitation.png (mob_effect/levitation.png): EM32D
-	luck.png (mob_effect/luck.png): Vattic
+	levitation.png (mob_effect/levitation.png): EM32T
+	luck.png (mob_effect/luck.png): EM32T
 	mining_fatigue.png (mob_effect/mining_fatigue.png): Vattic
 	nausea.png (mob_effect/nausea.png): Vattic
 	night_vision.png (mob_effect/night_vision.png): Vattic
@@ -1769,11 +1769,11 @@ mullak99: https://faithful.mullak99.co.uk/
 	regeneration.png (mob_effect/regeneration.png): Vattic
 	resistance.png (mob_effect/resistance.png): Vattic
 	saturation.png (mob_effect/saturation.png): Vattic
-	slowness.png (mob_effect/slowness.png): Vattic
+	slowness.png (mob_effect/slowness.png): EM32T
 	slow_falling.png (mob_effect/slow_falling.png): Vattic
 	speed.png (mob_effect/speed.png): Vattic
 	strength.png (mob_effect/strength.png) : mullak99
-	unluck.png (mob_effect/unluck.png): Vattic
+	unluck.png (mob_effect/unluck.png): EM32T
 	water_breathing.png (mob_effect/water_breathing.png): Vattic
 	weakness.png (mob_effect/weakness.png): Vattic
 	wither.png (mob_effect/wither.png): Vattic

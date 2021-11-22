@@ -25,6 +25,8 @@ All notable changes to FaithfulVenom will be documented in this file.
 - Reworked UI (Buttons)
 - Replaced Corner Rail model
 - Replaced Lava textures
+- Replaced Carrot and Golden carrot textures
+- Replaced Bone texture
 - Changed 1.9+ textures from Faithful's to EM32D or Compliance's
 - Changed some 1.8- textures from Faithful's to EM32D's
 - Changed Frosted Ice block textures

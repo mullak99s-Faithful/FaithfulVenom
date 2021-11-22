@@ -1,6 +1,6 @@
 # FaithfulVenom 32x
 
-**Current Branch Version:** _1.18-r1_SNAP211121-1_  
+**Current Branch Version:** _1.18-r1_SNAP211122-1_  
 
 ## Official Links
 

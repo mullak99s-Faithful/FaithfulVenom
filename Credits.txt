@@ -34,8 +34,8 @@ mullak99: https://faithful.mullak99.co.uk/
 === Texture Credits ===
 
 	== Minecraft [Block] (/assets/minecraft/textures/block) ==
-	acacia_door_bottom.png (block/acacia_door_bottom.png): Vattic
-	acacia_door_top.png (block/acacia_door_top.png): Vattic
+	acacia_door_bottom.png (block/acacia_door_bottom.png): EM32T
+	acacia_door_top.png (block/acacia_door_top.png): EM32T
 	acacia_leaves.png (block/acacia_leaves.png): Vattic
 	acacia_log.png (block/acacia_log.png): Vattic
 	acacia_log_top.png (block/acacia_log_top.png): Vattic
@@ -262,8 +262,8 @@ mullak99: https://faithful.mullak99.co.uk/
 	cyan_wool.png (block/cyan_wool.png): EM32D
 	damaged_anvil_top.png (block/damaged_anvil_top.png): Vattic
 	dandelion.png (block/dandelion.png): Vattic
-	dark_oak_door_bottom.png (block/dark_oak_door_bottom.png): EM32D
-	dark_oak_door_top.png (block/dark_oak_door_top.png): EM32D
+	dark_oak_door_bottom.png (block/dark_oak_door_bottom.png): EM32T
+	dark_oak_door_top.png (block/dark_oak_door_top.png): EM32T
 	dark_oak_leaves.png (block/dark_oak_leaves.png): Vattic
 	dark_oak_log.png (block/dark_oak_log.png): Vattic
 	dark_oak_log_top.png (block/dark_oak_log_top.png): Vattic
@@ -878,7 +878,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	beef.png (item/beef.png): Vattic
 	beetroot.png (item/beetroot.png): EM32T
 	beetroot_seeds.png (item/beetroot_seeds.png): EM32T
-	beetroot_soup.png (item/beetroot_soup.png): EM32D
+	beetroot_soup.png (item/beetroot_soup.png): EM32T
 	bell.png (item/bell.png): EM32D
 	birch_boat.png (item/birch_boat.png): EM32D
 	birch_door.png (item/birch_door.png): EM32D
@@ -889,11 +889,11 @@ mullak99: https://faithful.mullak99.co.uk/
 	blaze_rod.png (item/blaze_rod.png): Vattic
 	blue_candle.png (item/blue_candle.png): EM32D
 	blue_dye.png (item/blue_dye.png): EM32D
-	bone.png (item/bone.png): EM32D
+	bone.png (item/bone.png): Vattic
 	bone_meal.png (item/bone_meal.png): Vattic
 	book.png (item/book.png): Vattic
 	bow.png (item/bow.png): Vattic
-	bowl.png (item/bowl.png): EM32D
+	bowl.png (item/bowl.png): EM32T
 	bow_pulling_0.png (item/bow_pulling_0.png): Vattic (Edited by mullak99)
 	bow_pulling_1.png (item/bow_pulling_1.png): Vattic (Edited by mullak99)
 	bow_pulling_2.png (item/bow_pulling_2.png): Vattic (Edited by mullak99)
@@ -909,7 +909,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	cake.png (item/cake.png): Vattic
 	campfire.png (item/campfire.png): EM32D
 	candle.png (item/candle.png): EM32D
-	carrot.png (item/carrot.png): EM32D
+	carrot.png (item/carrot.png): Vattic
 	carrot_on_a_stick.png (item/carrot_on_a_stick.png): Vattic
 	cauldron.png (item/cauldron.png): Vattic
 	chain.png (item/chain.png): EM32D
@@ -919,7 +919,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	chainmail_leggings.png (item/chainmail_leggings.png): Vattic
 	charcoal.png (item/charcoal.png): Vattic
 	chest_minecart.png (item/chest_minecart.png): Vattic
-	chicken.png (item/chicken.png): Vattic
+	chicken.png (item/chicken.png): EM32T
 	chorus_fruit.png (item/chorus_fruit.png): EM32D
 	clay_ball.png (item/clay_ball.png): Vattic
 	clock_00.png (item/clock_00.png): Vattic
@@ -1025,7 +1025,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	compass_30.png (item/compass_30.png): Vattic
 	compass_31.png (item/compass_31.png): Vattic
 	cooked_beef.png (item/cooked_beef.png): Vattic
-	cooked_chicken.png (item/cooked_chicken.png): Vattic
+	cooked_chicken.png (item/cooked_chicken.png): EM32T
 	cooked_cod.png (item/cooked_cod.png): Vattic
 	cooked_mutton.png (item/cooked_mutton.png): Vattic
 	cooked_porkchop.png (item/cooked_porkchop.png): Vattic
@@ -1099,7 +1099,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	golden_apple.png (item/golden_apple.png): Vattic
 	golden_axe.png (item/golden_axe.png): Vattic
 	golden_boots.png (item/golden_boots.png): Vattic
-	golden_carrot.png (item/golden_carrot.png): EM32D
+	golden_carrot.png (item/golden_carrot.png): Vattic
 	golden_chestplate.png (item/golden_chestplate.png): Vattic
 	golden_helmet.png (item/golden_helmet.png): Vattic
 	golden_hoe.png (item/golden_hoe.png): Vattic
@@ -1187,7 +1187,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	milk_bucket.png (item/milk_bucket.png): Vattic
 	minecart.png (item/minecart.png): Vattic
 	mojang_banner_pattern.png (item/mojang_banner_pattern.png): EM32D (AntVenom logo by Delio#9779)
-	mushroom_stew.png (item/mushroom_stew.png): EM32D
+	mushroom_stew.png (item/mushroom_stew.png): EM32T
 	[All music discs]: EM32D
 	mutton.png (item/mutton.png): Vattic
 	name_tag.png (item/name_tag.png): Vattic
@@ -1205,13 +1205,13 @@ mullak99: https://faithful.mullak99.co.uk/
 	netherite_sword.png (item/netherite_sword.png): mullak99
 	nether_brick.png (item/nether_brick.png): EM32D
 	nether_sprouts.png (item/nether_sprouts.png): EM32D
-	nether_star.png (item/nether_star.png): Vattic
+	nether_star.png (item/nether_star.png): EM32T
 	nether_wart.png (item/nether_wart.png): Vattic
 	oak_boat.png (item/oak_boat.png): EM32D
 	oak_door.png (item/oak_door.png): EM32D
 	oak_sign.png (item/oak_sign.png): EM32D
 	orange_candle.png (item/orange_candle.png): EM32D
-	orange_dye.png (item/orange_dye.png): EM32D
+	orange_dye.png (item/orange_dye.png): EM32T
 	painting.png (item/painting.png): Vattic
 	paper.png (item/paper.png): Vattic
 	phantom_membrane.png (item/phantom_membrane.png): EM32D
@@ -1224,7 +1224,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	porkchop.png (item/porkchop.png): Vattic
 	potato.png (item/potato.png): Vattic
 	potion.png (item/potion.png): Vattic
-	potion_overlay.png (item/potion_overlay.png): Vattic
+	potion_overlay.png (item/potion_overlay.png): EM32T
 	powder_snow_bucket.png (item/powder_snow_bucket.png): mullak99
 	prismarine_crystals.png (item/prismarine_crystals.png): Vattic
 	prismarine_shard.png (item/prismarine_shard.png): Vattic
@@ -1238,7 +1238,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	rabbit.png (item/rabbit.png): Vattic
 	rabbit_foot.png (item/rabbit_foot.png): EM32D
 	rabbit_hide.png (item/rabbit_hide.png): EM32D
-	rabbit_stew.png (item/rabbit_stew.png): EM32D
+	rabbit_stew.png (item/rabbit_stew.png): EM32T
 	raw_copper.png (item/raw_copper.png): EM32D
 	raw_gold.png (item/raw_gold.png): EM32D
 	raw_iron.png (item/raw_iron.png): EM32D
@@ -1263,8 +1263,8 @@ mullak99: https://faithful.mullak99.co.uk/
 	spawn_egg.png (item/spawn_egg.png): Vattic
 	spawn_egg_overlay.png (item/spawn_egg_overlay.png): Vattic
 	spectral_arrow.png (item/spectral_arrow.png): EM32D
-	spider_eye.png (item/spider_eye.png): Vattic
-	splash_potion.png (item/splash_potion.png): Vattic
+	spider_eye.png (item/spider_eye.png): EM32T
+	splash_potion.png (item/splash_potion.png): Vattic (modified by mullak99)
 	spruce_boat.png (item/spruce_boat.png): EM32D
 	spruce_door.png (item/spruce_door.png): EM32D
 	spruce_sign.png (item/spruce_sign.png): EM32D
@@ -1307,7 +1307,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	writable_book.png (item/writable_book.png): EM32D
 	written_book.png (item/written_book.png): EM32D
 	yellow_candle.png (item/yellow_candle.png): EM32D
-	yellow_dye.png (item/yellow_dye.png): EM32D
+	yellow_dye.png (item/yellow_dye.png): EM32T
 
 	== Minecraft [Entity] (/assets/minecraft/textures/entity) ==
 	alex.png (entity/alex.png): Vattic
@@ -1315,7 +1315,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	bat.png (entity/bat.png): EM32D
 	beacon_beam.png (entity/beacon_beam.png): EM32D
 	blaze.png (entity/blaze.png): Vattic
-	chicken.png (entity/chicken.png): Vattic
+	chicken.png (entity/chicken.png): EM32T
 	dolphin.png (entity/dolphin.png): EM32D
 	elytra.png (entity/elytra.png): EM32D
 	enchanting_table_book.png (entity/enchanting_table_book.png): Vattic
@@ -1389,9 +1389,9 @@ mullak99: https://faithful.mullak99.co.uk/
 	open_eye.png (entity/conduit/open_eye.png): EM32D
 	wind.png (entity/conduit/wind.png): EM32D
 	wind_vertical.png (entity/conduit/wind_vertical.png): EM32D
-	brown_mooshroom.png (entity/cow/brown_mooshroom.png): EM32D
-	cow.png (entity/cow/cow.png): EM32D
-	red_mooshroom.png (entity/cow/red_mooshroom.png): EM32D
+	brown_mooshroom.png (entity/cow/brown_mooshroom.png): EM32T
+	cow.png (entity/cow/cow.png): EM32T
+	red_mooshroom.png (entity/cow/red_mooshroom.png): EM32T
 	creeper.png (entity/creeper/creeper.png): Vattic
 	creeper_armor.png (entity/creeper/creeper_armor.png): Vattic
 	dragon.png (entity/enderdragon/dragon.png): Vattic
@@ -1493,7 +1493,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	parrot_grey.png (entity/parrot/parrot_grey.png): EM32D
 	parrot_red_blue.png (entity/parrot/parrot_red_blue.png): EM32D
 	parrot_yellow_blue.png (entity/parrot/parrot_yellow_blue.png): EM32D
-	pig.png (entity/pig/pig.png): EM32D
+	pig.png (entity/pig/pig.png): EM32T
 	pig_saddle.png (entity/pig/pig_saddle.png): EM32D
 	piglin.png (entity/piglin/piglin.png): EM32D
 	piglin_brute.png (entity/piglin/piglin_brute.png): EM32D

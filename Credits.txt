@@ -174,7 +174,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	cartography_table_side2.png (block/cartography_table_side2.png): EM32D's tweaked by mullak99
 	cartography_table_side3.png (block/cartography_table_side3.png): EM32D's tweaked by mullak99
 	cartography_table_top.png (block/cartography_table_top.png): EM32D's tweaked by mullak99
-	carved_pumpkin.png (block/carved_pumpkin.png): Vattic
+	carved_pumpkin.png (block/carved_pumpkin.png): EM32T
 	cauldron_bottom.png (block/cauldron_bottom.png): Vattic
 	cauldron_inner.png (block/cauldron_inner.png): Vattic
 	cauldron_side.png (block/cauldron_side.png): Vattic
@@ -280,7 +280,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	dead_bubble_coral.png (block/dead_bubble_coral.png): EM32D
 	dead_bubble_coral_block.png (block/dead_bubble_coral_block.png): EM32D
 	dead_bubble_coral_fan.png (block/dead_bubble_coral_fan.png): EM32D
-	dead_bush.png (block/dead_bush.png): Vattic
+	dead_bush.png (block/dead_bush.png): EM32T
 	dead_fire_coral.png (block/dead_fire_coral.png): EM32D
 	dead_fire_coral_block.png (block/dead_fire_coral_block.png): EM32D
 	dead_fire_coral_fan.png (block/dead_fire_coral_fan.png): EM32D
@@ -426,7 +426,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	iron_ore.png (block/iron_ore.png): Vattic
 	iron_trapdoor.png (block/iron_trapdoor.png): Vattic
 	item_frame.png (block/item_frame.png): Vattic
-	jack_o_lantern.png (block/jack_o_lantern.png): Vattic
+	jack_o_lantern.png (block/jack_o_lantern.png): EM32T
 	jigsaw_bottom.png (block/jigsaw_bottom.png): EM32D
 	jigsaw_lock.png (block/jigsaw_lock.png): EM32D
 	jigsaw_side.png (block/jigsaw_side.png): EM32D
@@ -1058,7 +1058,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	diamond_pickaxe.png (item/diamond_pickaxe.png): Vattic
 	diamond_shovel.png (item/diamond_shovel.png): Vattic
 	diamond_sword.png (item/diamond_sword.png): Vattic
-	dragon_breath.png (item/dragon_breath.png): EM32D
+	dragon_breath.png (item/dragon_breath.png): mullak99 (using Vattic and EM32D textures)
 	dried_kelp.png (item/dried_kelp.png): EM32D
 	egg.png (item/egg.png): Vattic
 	elytra.png (item/elytra.png): EM32D
@@ -1117,7 +1117,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	gunpowder.png (item/gunpowder.png): Vattic
 	heart_of_the_sea.png (item/heart_of_the_sea.png): EM32D
 	honeycomb.png (item/honeycomb.png): EM32D
-	honey_bottle.png (item/honey_bottle.png): EM32D
+	honey_bottle.png (item/honey_bottle.png): mullak99 (using Vattic and EM32D textures)
 	hopper.png (item/hopper.png): Vattic
 	hopper_minecart.png (item/hopper_minecart.png): Vattic
 	ink_sac.png (item/ink_sac.png): Vattic
@@ -1451,7 +1451,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	evoker_fangs.png (entity/illager/evoker_fangs.png): EM32D
 	illusioner.png (entity/illager/illusioner.png): EM32D
 	pillager.png (entity/illager/pillager.png): EM32D
-	ravager.png (entity/illager/ravager.png): Compliance
+	ravager.png (entity/illager/ravager.png): EM32D
 	vex.png (entity/illager/vex.png): EM32D
 	vex_charging.png (entity/illager/vex_charging.png): EM32D
 	vindicator.png (entity/illager/vindicator.png): EM32D

@@ -24,7 +24,6 @@ All notable changes to FaithfulVenom will be documented in this file.
 ### Changed
 - Reworked UI (Buttons)
 - Replaced Corner Rail model
-- Replaced Lava textures
 - Replaced Carrot and Golden carrot textures
 - Replaced Bone texture
 - Changed 1.9+ textures from Faithful's to EM32D or Compliance's
@@ -54,6 +53,7 @@ All notable changes to FaithfulVenom will be documented in this file.
 ### Fixed
 - Fixed incorrectly flipped texture on 3D Crimson Door model
 - Fixed Smoker model issue
+- Fixed incorrectly coloured XP bar (No idea how this was broken since 1.17-r2...)
 
 ### Removed
 - Removed unused textures

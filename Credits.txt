@@ -1772,7 +1772,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	slowness.png (mob_effect/slowness.png): EM32T
 	slow_falling.png (mob_effect/slow_falling.png): Vattic
 	speed.png (mob_effect/speed.png): Vattic
-	strength.png (mob_effect/strength.png) : mullak99
+	strength.png (mob_effect/strength.png): Vattic
 	unluck.png (mob_effect/unluck.png): EM32T
 	water_breathing.png (mob_effect/water_breathing.png): Vattic
 	weakness.png (mob_effect/weakness.png): Vattic

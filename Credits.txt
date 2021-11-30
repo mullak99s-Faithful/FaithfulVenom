@@ -1,0 +1,13 @@
+A full breakdown of textures can be found within the FaithfulVenom (Java) pack, or on the GitHub.  
+
+Downloads: https://antvenom.com/files  
+Discord: https://discord.gg/AntVenom  
+GitHub Repo: https://github.com/mullak99s-Faithful/FaithfulVenom  
+
+Exceptions to these are:  
+
+- Bedrock UI Textures: Compliance
+- Bed Item Textures: Compliance
+- Fireworks Charge: Compliance
+- Weather: Compliance
+- Spyglass Entity: Compliance

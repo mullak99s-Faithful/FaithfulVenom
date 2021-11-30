@@ -3,7 +3,7 @@
 **Latest 1.18.x Version:** _1.18-r1_RC4 | [Git Branch](https://github.com/mullak99s-Faithful/FaithfulVenom/tree/1.18)  
 **Latest 1.17.x Version:** _1.17-r4_RC4_ | [Git Branch](https://github.com/mullak99s-Faithful/FaithfulVenom/tree/1.17)  
 
-**Latest Bedrock Version:** _1.18-r1_BETA1_ | [Git Branch](https://github.com/mullak99s-Faithful/FaithfulVenom/tree/bedrock)  
+**Latest Bedrock Version:** _1.18-r1_BETA2_ | [Git Branch](https://github.com/mullak99s-Faithful/FaithfulVenom/tree/bedrock)  
 
 ## Official Links
 

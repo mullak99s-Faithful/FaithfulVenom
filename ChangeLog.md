@@ -1,7 +1,7 @@
 # Changelog
 All notable changes to FaithfulVenom will be documented in this file.
 
-## [1.17-r4] - TBC
+## [1.17-r4] - 2021-12-01
 ### Added
 - Added Axolotl entity texture
 - Added Fabric GUI textures

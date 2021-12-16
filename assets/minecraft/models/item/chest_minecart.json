@@ -1,9 +1,9 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Created by mullak99",
 	"textures": {
 		"minecart": "ctm/minecarts/minecart",
 		"particle": "entity/chest/normal",
-		"texture1": "entity/chest/normal"
+		"chest": "entity/chest/normal"
 	},
 	"elements": [
 		{
@@ -65,38 +65,37 @@
 		},
 		{
 			"name": "base",
-			"from": [5, 5, 3],
-			"to": [15, 11, 13],
+			"from": [5, 2, 3],
+			"to": [15, 9.5, 13],
 			"faces": {
-				"north": {"uv": [0, 8.25, 3.5, 10.75], "rotation": 180, "texture": "#texture1"},
-				"east": {"uv": [10.5, 8.25, 14, 10.75], "rotation": 180, "texture": "#texture1"},
-				"south": {"uv": [3.5, 8.25, 7, 10.75], "rotation": 180, "texture": "#texture1"},
-				"west": {"uv": [7, 8.25, 10.5, 10.75], "rotation": 180, "texture": "#texture1"},
-				"down": {"uv": [3.5, 0, 7, 3.5], "rotation": 270, "texture": "#texture1"}
+				"north": {"uv": [0, 8.25, 3.5, 10.75], "rotation": 180, "texture": "#chest"},
+				"east": {"uv": [10.5, 8.25, 14, 10.75], "rotation": 180, "texture": "#chest"},
+				"south": {"uv": [3.5, 8.25, 7, 10.75], "rotation": 180, "texture": "#chest"},
+				"west": {"uv": [7, 8.25, 10.5, 10.75], "rotation": 180, "texture": "#chest"}
 			}
 		},
 		{
 			"name": "top",
-			"from": [5, 11, 3],
-			"to": [15, 14, 13],
+			"from": [5, 9.5, 3],
+			"to": [15, 12.5, 13],
 			"faces": {
-				"north": {"uv": [0, 3.75, 3.5, 4.75], "rotation": 180, "texture": "#texture1"},
-				"east": {"uv": [10.5, 3.75, 14, 4.75], "rotation": 180, "texture": "#texture1"},
-				"south": {"uv": [3.5, 3.75, 7, 4.75], "rotation": 180, "texture": "#texture1"},
-				"west": {"uv": [7, 3.75, 10.5, 4.75], "rotation": 180, "texture": "#texture1"},
-				"up": {"uv": [10.5, 0, 7, 3.5], "rotation": 90, "texture": "#texture1"}
+				"north": {"uv": [0, 3.75, 3.5, 4.75], "rotation": 180, "texture": "#chest"},
+				"east": {"uv": [10.5, 3.75, 14, 4.75], "rotation": 180, "texture": "#chest"},
+				"south": {"uv": [3.5, 3.75, 7, 4.75], "rotation": 180, "texture": "#chest"},
+				"west": {"uv": [7, 3.75, 10.5, 4.75], "rotation": 180, "texture": "#chest"},
+				"up": {"uv": [10.5, 0, 7, 3.5], "rotation": 90, "texture": "#chest"}
 			}
 		},
 		{
 			"name": "catch",
-			"from": [15, 9.25, 7.25],
-			"to": [15.75, 11.75, 8.75],
+			"from": [15, 7.25, 7.25],
+			"to": [15.75, 10.25, 8.75],
 			"faces": {
-				"north": {"uv": [0.75, 0.25, 1, 1.25], "rotation": 180, "texture": "#texture1"},
-				"east": {"uv": [0.25, 0.25, 0.75, 1.25], "rotation": 180, "texture": "#texture1"},
-				"south": {"uv": [0, 0.25, 0.25, 1.25], "rotation": 180, "texture": "#texture1"},
-				"up": {"uv": [0.25, 0, 0.75, 0.25], "rotation": 180, "texture": "#texture1"},
-				"down": {"uv": [0.75, 0, 1.25, 0.25], "rotation": 90, "texture": "#texture1"}
+				"north": {"uv": [0.75, 0.25, 1, 1.25], "rotation": 180, "texture": "#chest"},
+				"east": {"uv": [0.25, 0.25, 0.75, 1.25], "rotation": 180, "texture": "#chest"},
+				"south": {"uv": [0, 0.25, 0.25, 1.25], "rotation": 180, "texture": "#chest"},
+				"up": {"uv": [0.25, 0, 0.75, 0.25], "rotation": 180, "texture": "#chest"},
+				"down": {"uv": [0.75, 0, 1.25, 0.25], "rotation": 90, "texture": "#chest"}
 			}
 		}
 	],
@@ -142,11 +141,13 @@
 		{
 			"name": "minecart",
 			"origin": [8, 8, 8],
+			"color": 0,
 			"children": [0, 1, 2, 3, 4]
 		},
 		{
 			"name": "chest",
 			"origin": [8, 8, 8],
+			"color": 0,
 			"children": [5, 6, 7]
 		}
 	]

@@ -8,6 +8,13 @@ GitHub: https://github.com/mullak99s-Faithful/FaithfulVenom
 
 -----------------------------------------------------------------------------------------------------------
 
+=== Disclamer ===
+
+These credits are taken from the 1.17 version of the pack, therefore they'll included references to
+textures that don't exist in 1.16, or we're renamed in 1.17.
+
+-----------------------------------------------------------------------------------------------------------
+
 === Notes ===
 
 Licence's from Vattic, EM32D, Compliance, and mullak99 can be found within the License.txt file.

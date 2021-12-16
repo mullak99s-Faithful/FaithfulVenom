@@ -5,9 +5,8 @@
 	"textures": {
 		"minecart": "ctm/minecarts/minecart",
 		"tnt_top": "block/tnt_top",
-		"tnt_side": "block/tnt_side",
 		"particle": "block/tnt_side",
-		"tnt_bottom": "block/tnt_bottom"
+		"tnt_side": "block/tnt_side"
 	},
 	"elements": [
 		{
@@ -69,15 +68,14 @@
 		},
 		{
 			"name": "tnt",
-			"from": [4, 3, 2],
-			"to": [16, 15, 14],
+			"from": [4, 2, 2],
+			"to": [16, 14, 14],
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#tnt_side", "cullface": "north"},
 				"east": {"uv": [0, 0, 16, 16], "texture": "#tnt_side", "cullface": "east"},
 				"south": {"uv": [0, 0, 16, 16], "texture": "#tnt_side", "cullface": "south"},
 				"west": {"uv": [0, 0, 16, 16], "texture": "#tnt_side", "cullface": "west"},
-				"up": {"uv": [0, 0, 16, 16], "texture": "#tnt_top", "cullface": "up"},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#tnt_bottom", "cullface": "down"}
+				"up": {"uv": [0, 0, 16, 16], "texture": "#tnt_top", "cullface": "up"}
 			}
 		}
 	],
@@ -122,6 +120,10 @@
 	"groups": [
 		{
 			"name": "minecart",
+			"origin": [8, 8, 8],
+			"color": 0,
 			"children": [0, 1, 2, 3, 4]
-		}, 5]
+		},
+		5
+	]
 }

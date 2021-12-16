@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to FaithfulVenom will be documented in this file.
 
+## [1.18-r2] - 2021-12-18
+### Added/Changed
+- Included changes from 1.17-r5
+
 ## [1.18-r1] - 2021-12-01
 ### Added
 - Added Otherside music disc
@@ -8,6 +12,19 @@ All notable changes to FaithfulVenom will be documented in this file.
 
 ### Changed
 - Changed Inventory GUI
+
+## [1.17-r5] - 2021-12-18
+### Changed
+- Replaced placeholder Zombie Villager types
+- Replaced all book textures
+- Replaced all Observer textures
+- Updated Armorer and Weaponsmith Zombie Villager textures
+- Changes to Slowness & Invisibility mob_effects
+- Minor changes to Blaze Powder
+- Minor changes to Painting back texture
+- Minor changes to Furnace textures
+- Minor changes to Minecart-related item models
+
 
 ## [1.17-r4] - 2021-12-01
 ### Added

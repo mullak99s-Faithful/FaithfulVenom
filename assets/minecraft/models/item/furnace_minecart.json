@@ -68,15 +68,14 @@
 		},
 		{
 			"name": "furnace",
-			"from": [4, 2.5, 2],
-			"to": [16, 14.5, 14],
+			"from": [4, 2, 2],
+			"to": [16, 14, 14],
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#furnace_side", "cullface": "west"},
 				"east": {"uv": [0, 0, 16, 16], "texture": "#furnace_front", "cullface": "north"},
 				"south": {"uv": [0, 0, 16, 16], "texture": "#furnace_side", "cullface": "east"},
 				"west": {"uv": [0, 0, 16, 16], "texture": "#furnace_side", "cullface": "south"},
-				"up": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#furnace_top", "cullface": "up"},
-				"down": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#furnace_top", "cullface": "down"}
+				"up": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#furnace_top", "cullface": "up"}
 			}
 		}
 	],
@@ -121,6 +120,10 @@
 	"groups": [
 		{
 			"name": "minecart",
+			"origin": [8, 8, 8],
+			"color": 0,
 			"children": [0, 1, 2, 3, 4]
-		}, 5]
+		},
+		5
+	]
 }

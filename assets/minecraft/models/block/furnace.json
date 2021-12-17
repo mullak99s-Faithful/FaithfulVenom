@@ -2,10 +2,10 @@
 	"credit": "Created by mullak99",
 	"ambientocclusion": false,
 	"textures": {
-		"top": "block/furnace_top",
-		"particle": "block/furnace_front",
-		"front": "block/furnace_front",
-		"side": "block/furnace_side"
+		"top": "blocks/furnace_top",
+		"particle": "blocks/furnace_front_off",
+		"front": "blocks/furnace_front_off",
+		"side": "blocks/furnace_side"
 	},
 	"elements": [
 		{

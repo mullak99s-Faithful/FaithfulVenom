@@ -1,8 +1,8 @@
 {
 	"credit": "Created by mullak99",
 	"textures": {
-		"particle": "block/activator_rail",
-		"rail": "block/activator_rail",
+		"particle": "blocks/rail_activator",
+		"rail": "blocks/rail_activator",
 		"sleeper": "ctm/rail/0"
 	},
 	"elements": [

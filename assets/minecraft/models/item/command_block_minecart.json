@@ -3,9 +3,9 @@
 	"parent": "block/block",
 	"textures": {
 		"minecart": "ctm/minecarts/minecart",
-		"particle": "block/command_block_front",
-		"command_block_front": "block/command_block_front",
-		"command_block_side": "block/command_block_side"
+		"command_block_front": "blocks/command_block_front",
+		"particle": "blocks/command_block_front",
+		"command_block_side": "blocks/command_block_side"
 	},
 	"elements": [
 		{
@@ -67,14 +67,15 @@
 		},
 		{
 			"name": "command_block",
-			"from": [4, 2, 2],
-			"to": [16, 14, 14],
+			"from": [4, 2.5, 2],
+			"to": [16, 14.5, 14],
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#command_block_side", "cullface": "west"},
 				"east": {"uv": [0, 0, 16, 16], "texture": "#command_block_side", "cullface": "north"},
 				"south": {"uv": [0, 0, 16, 16], "texture": "#command_block_side", "cullface": "east"},
 				"west": {"uv": [0, 0, 16, 16], "texture": "#command_block_side", "cullface": "south"},
-				"up": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#command_block_front", "cullface": "up"}
+				"up": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#command_block_front", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#command_block_front", "cullface": "down"}
 			}
 		}
 	],
@@ -119,10 +120,6 @@
 	"groups": [
 		{
 			"name": "minecart",
-			"origin": [8, 8, 8],
-			"color": 0,
 			"children": [0, 1, 2, 3, 4]
-		},
-		5
-	]
+		}, 5]
 }

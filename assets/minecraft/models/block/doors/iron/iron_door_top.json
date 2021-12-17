@@ -2,8 +2,8 @@
 	"credit": "Created by mullak99",
 	"ambientocclusion": false,
 	"textures": {
-		"door": "block/iron_door_top",
-		"particle": "block/iron_door_top",
+		"door": "blocks/door_iron_upper",
+		"particle": "blocks/door_iron_upper",
 		"side_top": "ctm/doors/iron/side_top",
 		"side_top_hinge": "ctm/doors/iron/side_top_hinge",
 		"top": "ctm/doors/iron/top"

@@ -2,8 +2,8 @@
 	"credit": "Created by mullak99",
 	"ambientocclusion": false,
 	"textures": {
-		"door": "block/spruce_door_top",
-		"particle": "block/spruce_door_top",
+		"door": "blocks/door_spruce_upper",
+		"particle": "blocks/door_spruce_upper",
 		"side_top": "ctm/doors/spruce/side_top",
 		"side_top_hinge": "ctm/doors/spruce/side_top_hinge",
 		"top": "ctm/doors/spruce/top"

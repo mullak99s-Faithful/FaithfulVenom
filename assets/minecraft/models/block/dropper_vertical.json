@@ -2,13 +2,13 @@
 	"credit": "Created by mullak99",
 	"ambientocclusion": false,
 	"textures": {
-		"down": "block/furnace_top",
-		"up": "block/dropper_front_vertical",
-		"north": "block/furnace_top",
-		"east": "block/furnace_top",
-		"south": "block/furnace_top",
-		"west": "block/furnace_top",
-		"particle": "block/furnace_top"
+		"down": "blocks/furnace_top",
+		"up": "blocks/dropper_front_vertical",
+		"north": "blocks/furnace_top",
+		"east": "blocks/furnace_top",
+		"south": "blocks/furnace_top",
+		"west": "blocks/furnace_top",
+		"particle": "blocks/furnace_top"
 	},
 	"elements": [
 		{

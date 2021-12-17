@@ -2,11 +2,11 @@
 	"credit": "Created by mullak99",
 	"ambientocclusion": false,
 	"textures": {
-		"side_top": "ctm/doors/spruce/side_top",
-		"side_top_hinge": "ctm/doors/spruce/side_top_hinge",
-		"top": "ctm/doors/spruce/top",
-		"particle": "block/spruce_door_top",
-		"door": "block/spruce_door_top"
+		"1": "ctm/doors/spruce/side_top",
+		"2": "ctm/doors/spruce/side_top_hinge",
+		"3": "ctm/doors/spruce/top",
+		"door": "blocks/door_spruce_upper",
+		"particle": "blocks/door_spruce_upper"
 	},
 	"elements": [
 		{
@@ -14,11 +14,11 @@
 			"from": [0, 0, 0],
 			"to": [3, 16, 16],
 			"faces": {
-				"north": {"uv": [0, 0, 3, 16], "texture": "#side_top", "cullface": "north"},
+				"north": {"uv": [0, 0, 3, 16], "texture": "#1", "cullface": "north"},
 				"east": {"uv": [0, 0, 16, 16], "texture": "#door"},
-				"south": {"uv": [3, 0, 0, 16], "texture": "#side_top_hinge", "cullface": "south"},
+				"south": {"uv": [3, 0, 0, 16], "texture": "#2", "cullface": "south"},
 				"west": {"uv": [16, 0, 0, 16], "texture": "#door", "cullface": "west"},
-				"up": {"uv": [0, 3, 16, 0], "rotation": 270, "texture": "#top", "cullface": "up"}
+				"up": {"uv": [0, 3, 16, 0], "rotation": 270, "texture": "#3", "cullface": "up"}
 			}
 		},
 		{
@@ -155,20 +155,13 @@
 	"groups": [
 		{
 			"name": "group",
-			"origin": [8, 8, 8],
-			"color": 0,
-			"children": [
-				0,
+			"children": [0,
 				{
 					"name": "hinge1",
-					"origin": [8, 8, 8],
-					"color": 0,
 					"children": [1, 2, 3, 4, 5, 6]
 				},
 				{
 					"name": "hinge2",
-					"origin": [8, 8, 8],
-					"color": 0,
 					"children": [7, 8, 9, 10, 11, 12]
 				}
 			]

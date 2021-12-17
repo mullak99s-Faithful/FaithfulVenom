@@ -1,6 +1,6 @@
 {
 	"credit": "Created by mullak99",
-    "parent": "block/comparator",
+    "parent": "block/comparator_unlit",
 	"display": {
         "gui": {
             "rotation": [ 30, 45, 0 ],

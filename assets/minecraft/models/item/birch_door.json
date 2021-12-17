@@ -2,12 +2,12 @@
 	"credit": "Created by mullak99",
 	"ambientocclusion": false,
 	"textures": {
-		"door_bottom": "block/birch_door_bottom",
+		"door_bottom": "blocks/door_birch_lower",
 		"side_bottom": "ctm/doors/birch/side_bottom",
 		"side_bottom_hinge": "ctm/doors/birch/side_bottom_hinge",
 		"bottom": "ctm/doors/birch/bottom",
-		"particle": "block/birch_door_top",
-		"door_top": "block/birch_door_top",
+		"particle": "blocks/door_birch_upper",
+		"door_top": "blocks/door_birch_upper",
 		"side_top": "ctm/doors/birch/side_top",
 		"side_top_hinge": "ctm/doors/birch/side_top_hinge",
 		"top": "ctm/doors/birch/top"

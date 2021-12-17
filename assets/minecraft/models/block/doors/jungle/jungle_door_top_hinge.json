@@ -2,8 +2,8 @@
 	"credit": "Created by mullak99",
 	"ambientocclusion": false,
 	"textures": {
-		"door": "block/jungle_door_top",
-		"particle": "block/jungle_door_top",
+		"door": "blocks/door_jungle_upper",
+		"particle": "blocks/door_jungle_upper",
 		"side_top": "ctm/doors/jungle/side_top",
 		"side_top_hinge": "ctm/doors/jungle/side_top_hinge",
 		"top": "ctm/doors/jungle/top"

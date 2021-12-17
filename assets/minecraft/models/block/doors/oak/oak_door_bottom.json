@@ -2,8 +2,8 @@
 	"credit": "Created by mullak99",
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "block/oak_door_bottom",
-		"door": "block/oak_door_bottom",
+		"particle": "blocks/door_wood_lower",
+		"door": "blocks/door_wood_lower",
 		"bottom": "ctm/doors/oak/bottom",
 		"side_bottom": "ctm/doors/oak/side_bottom",
 		"side_bottom_hinge": "ctm/doors/oak/side_bottom_hinge",

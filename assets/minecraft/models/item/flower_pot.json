@@ -2,9 +2,9 @@
 	"credit": "Created by mullak99",
 	"ambientocclusion": false,
 	"textures": {
-		"flowerpot": "block/flower_pot",
-		"particle": "block/flower_pot",
-		"dirt": "block/dirt"
+		"flowerpot": "blocks/flower_pot",
+		"particle": "blocks/flower_pot",
+		"dirt": "blocks/dirt"
 	},
 	"elements": [
 		{

@@ -2,8 +2,8 @@
 	"credit": "Created by mullak99",
 	"parent": "block/brewing_stand",
 	"textures": {
-		"base": "block/brewing_stand_base",
-		"stand": "block/brewing_stand"
+		"base": "blocks/brewing_stand_base",
+		"stand": "blocks/brewing_stand"
 	},
 	"elements": [
 		{

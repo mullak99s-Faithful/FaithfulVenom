@@ -3,9 +3,9 @@
 	"parent": "block/block",
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "block/jukebox_side",
-		"side": "block/jukebox_side",
-		"top": "block/jukebox_top"
+		"particle": "blocks/jukebox_side",
+		"side": "blocks/jukebox_side",
+		"top": "blocks/jukebox_top"
 	},
 	"elements": [
 		{

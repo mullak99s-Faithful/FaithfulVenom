@@ -2,9 +2,9 @@
 	"credit": "Created by mullak99",
 	"ambientocclusion": false,
 	"textures": {
-		"top": "block/oak_trapdoor",
-		"bottom": "block/oak_trapdoor",
-		"particle": "block/oak_trapdoor",
+		"top": "blocks/trapdoor",
+		"bottom": "blocks/trapdoor",
+		"particle": "blocks/trapdoor",
 		"front": "ctm/trapdoors/oak/front",
 		"side": "ctm/trapdoors/oak/side"
 	},

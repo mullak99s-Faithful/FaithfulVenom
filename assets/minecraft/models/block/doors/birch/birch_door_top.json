@@ -2,8 +2,8 @@
 	"credit": "Created by mullak99",
 	"ambientocclusion": false,
 	"textures": {
-		"door": "block/birch_door_top",
-		"particle": "block/birch_door_top",
+		"door": "blocks/door_birch_upper",
+		"particle": "blocks/door_birch_upper",
 		"side_top": "ctm/doors/birch/side_top",
 		"side_top_hinge": "ctm/doors/birch/side_top_hinge",
 		"top": "ctm/doors/birch/top"

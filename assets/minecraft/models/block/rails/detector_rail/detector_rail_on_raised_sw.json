@@ -2,8 +2,8 @@
 	"credit": "Created by mullak99",
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "block/detector_rail_on",
-		"rail": "block/detector_rail_on",
+		"particle": "blocks/rail_detector_powered",
+		"rail": "blocks/rail_detector_powered",
 		"sleeper_bottom": "ctm/rail/0",
 		"sleeper_top": "ctm/rail/1"
 	},

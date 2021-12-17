@@ -2,12 +2,12 @@
 	"credit": "Created by mullak99",
 	"ambientocclusion": false,
 	"textures": {
-		"door_bottom": "block/acacia_door_bottom",
+		"door_bottom": "blocks/door_acacia_lower",
 		"side_bottom_hinge": "ctm/doors/acacia/side_bottom_hinge",
 		"side_bottom": "ctm/doors/acacia/side_bottom",
 		"bottom": "ctm/doors/acacia/bottom",
-		"particle": "block/acacia_door_top",
-		"door_top": "block/acacia_door_top",
+		"particle": "blocks/door_acacia_upper",
+		"door_top": "blocks/door_acacia_upper",
 		"side_top": "ctm/doors/acacia/side_top",
 		"side_top_hinge": "ctm/doors/acacia/side_top_hinge",
 		"top": "ctm/doors/acacia/top"

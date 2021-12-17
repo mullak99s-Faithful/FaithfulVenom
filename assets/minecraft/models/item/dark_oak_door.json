@@ -2,12 +2,12 @@
 	"credit": "Created by mullak99",
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "block/dark_oak_door_top",
-		"door_top": "block/dark_oak_door_top",
+		"particle": "blocks/door_dark_oak_upper",
+		"door_top": "blocks/door_dark_oak_upper",
 		"side_top": "ctm/doors/dark_oak/side_top",
 		"side_top_hinge": "ctm/doors/dark_oak/side_top_hinge",
 		"top": "ctm/doors/dark_oak/top",
-		"door_bottom": "block/dark_oak_door_bottom",
+		"door_bottom": "blocks/door_dark_oak_lower",
 		"bottom": "ctm/doors/dark_oak/bottom",
 		"side_bottom": "ctm/doors/dark_oak/side_bottom",
 		"side_bottom_hinge": "ctm/doors/dark_oak/side_bottom_hinge"

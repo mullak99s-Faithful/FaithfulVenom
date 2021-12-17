@@ -2,12 +2,12 @@
 	"credit": "Created by mullak99",
 	"ambientocclusion": false,
 	"textures": {
-		"door_bottom": "block/jungle_door_bottom",
+		"door_bottom": "blocks/door_jungle_lower",
 		"bottom": "ctm/doors/jungle/bottom",
 		"side_bottom": "ctm/doors/jungle/side_bottom",
 		"side_bottom_hinge": "ctm/doors/jungle/side_bottom_hinge",
-		"particle": "block/jungle_door_top",
-		"door_top": "block/jungle_door_top",
+		"particle": "blocks/door_jungle_upper",
+		"door_top": "blocks/door_jungle_upper",
 		"side_top": "ctm/doors/jungle/side_top",
 		"side_top_hinge": "ctm/doors/jungle/side_top_hinge",
 		"top": "ctm/doors/jungle/top"

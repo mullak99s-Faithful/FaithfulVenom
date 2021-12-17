@@ -1,8 +1,8 @@
 {
 	"credit": "Created by mullak99",
 	"textures": {
-		"particle": "block/rail_corner",
-		"rail": "block/rail_corner",
+		"particle": "blocks/rail_normal_turned",
+		"rail": "blocks/rail_normal_turned",
 		"sleeper_side": "ctm/rail/0",
 		"sleeper_bottom": "ctm/rail/2"
 	},

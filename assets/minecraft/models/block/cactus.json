@@ -2,13 +2,13 @@
 	"credit": "Created by mullak99",
 	"ambientocclusion": false,
 	"textures": {
-		"down": "block/cactus_bottom",
-		"up": "block/cactus_top",
-		"north": "block/cactus_side",
-		"south": "block/cactus_side",
-		"west": "block/cactus_side",
-		"east": "block/cactus_side",
-		"particle": "block/cactus_side"
+		"down": "blocks/cactus_bottom",
+		"up": "blocks/cactus_top",
+		"north": "blocks/cactus_side",
+		"south": "blocks/cactus_side",
+		"west": "blocks/cactus_side",
+		"east": "blocks/cactus_side",
+		"particle": "blocks/cactus_side"
 	},
 	"elements": [
 		{

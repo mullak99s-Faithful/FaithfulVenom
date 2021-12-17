@@ -2,8 +2,8 @@
 	"credit": "Created by mullak99",
 	"ambientocclusion": false,
 	"textures": {
-		"door": "block/acacia_door_bottom",
-		"particle": "block/acacia_door_bottom",
+		"door": "blocks/door_acacia_lower",
+		"particle": "blocks/door_acacia_lower",
 		"side_bottom_hinge": "ctm/doors/acacia/side_bottom_hinge",
 		"side_bottom": "ctm/doors/acacia/side_bottom",
 		"bottom": "ctm/doors/acacia/bottom"

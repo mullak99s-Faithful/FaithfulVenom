@@ -1,6 +1,6 @@
 {
 	"credit": "Created by mullak99",
-    "parent": "block/cauldron",
+    "parent": "block/cauldron_empty",
     "display": {
         "gui": {
             "rotation": [ 30, 45, 0 ],

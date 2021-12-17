@@ -5,8 +5,8 @@
 		"side_top": "ctm/doors/oak/side_top",
 		"side_top_hinge": "ctm/doors/oak/side_top_hinge",
 		"top": "ctm/doors/oak/top",
-		"particle": "block/oak_door_top",
-		"door": "block/oak_door_top",
+		"particle": "blocks/door_wood_upper",
+		"door": "blocks/door_wood_upper",
 		"bottom": "ctm/doors/oak/bottom"
 	},
 	"elements": [

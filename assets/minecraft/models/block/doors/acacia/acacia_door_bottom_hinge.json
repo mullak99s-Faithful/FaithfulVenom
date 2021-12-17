@@ -3,8 +3,8 @@
 	"ambientocclusion": false,
 	"textures": {
 		"side_bottom": "ctm/doors/acacia/side_bottom",
-		"door": "block/acacia_door_bottom",
-		"particle": "block/acacia_door_bottom",
+		"door": "blocks/door_acacia_lower",
+		"particle": "blocks/door_acacia_lower",
 		"side_bottom_hinge": "ctm/doors/acacia/side_bottom_hinge",
 		"bottom": "ctm/doors/acacia/bottom"
 	},

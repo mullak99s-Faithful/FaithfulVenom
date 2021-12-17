@@ -2,11 +2,11 @@
 	"credit": "Created by mullak99",
 	"parent": "block/block",
 	"textures": {
-		"bottom": "block/observer_back",
-		"side": "block/observer_side",
-		"top": "block/observer_top",
-		"particle": "block/observer_front",
-		"front": "block/observer_front"
+		"bottom": "blocks/observer_back",
+		"side": "blocks/observer_side",
+		"top": "blocks/observer_top",
+		"particle": "blocks/observer_front",
+		"front": "blocks/observer_front"
 	},
 	"elements": [
 		{

@@ -6,6 +6,7 @@
 **Latest 1.15.x Version:** _1.15-r4_ | [Git Branch](https://github.com/mullak99s-Faithful/FaithfulVenom/tree/1.15)  
 **Latest 1.14.x Version:** _1.14-r6_ | [Git Branch](https://github.com/mullak99s-Faithful/FaithfulVenom/tree/1.14)  
 **Latest 1.13.x Version:** _1.13-r3_ | [Git Branch](https://github.com/mullak99s-Faithful/FaithfulVenom/tree/1.13)  
+**Latest 1.12.x Version:** _1.12-r2_ | [Git Branch](https://github.com/mullak99s-Faithful/FaithfulVenom/tree/1.12)  
 
 **Latest Bedrock Version:** _1.18-r1_ | [Git Branch](https://github.com/mullak99s-Faithful/FaithfulVenom/tree/bedrock)  
 

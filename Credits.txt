@@ -10,7 +10,7 @@ GitHub: https://github.com/mullak99s-Faithful/FaithfulVenom
 
 === Disclamer ===
 
-These credits are taken from the 1.17 version of the pack, therefore they'll included references to
+These credits are taken from the 1.17 version of the pack, therefore they'll include references to
 textures that don't exist in 1.16, or we're renamed in 1.17.
 
 -----------------------------------------------------------------------------------------------------------

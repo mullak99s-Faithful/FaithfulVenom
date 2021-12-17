@@ -20,6 +20,8 @@ All notable changes to FaithfulVenom will be documented in this file.
 - Replaced all Observer textures
 - Updated Armorer and Weaponsmith Zombie Villager textures
 - Changes to Slowness & Invisibility mob_effects
+- Changes to all armour item textures
+- Replaced various item textures with Vattic versions
 - Minor changes to Blaze Powder
 - Minor changes to Painting back texture
 - Minor changes to Furnace textures

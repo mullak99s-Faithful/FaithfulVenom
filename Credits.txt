@@ -11,7 +11,7 @@ GitHub: https://github.com/mullak99s-Faithful/FaithfulVenom
 === Disclamer ===
 
 These credits are taken from the 1.17 version of the pack, therefore they'll include references to
-textures that don't exist in 1.12, or we're renamed in 1.13-1.17.
+textures that don't exist in 1.11, or we're renamed in 1.12-1.17.
 
 -----------------------------------------------------------------------------------------------------------
 

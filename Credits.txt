@@ -18,7 +18,7 @@ Licence's from Vattic, EM32D, Compliance, and mullak99 can be found within the L
 
 These credits should reflect where each texture within the pack is from.
 
-If any of the credited textures are incorrect, or if you believe you're texture is being used without
+If any of the credited textures are incorrect, or if you believe your texture is being used without
 credit, please create an Issue on the GitHub (linked above).
 Alternatively, contact mullak99 using the details below.
 

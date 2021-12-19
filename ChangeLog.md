@@ -4,6 +4,7 @@ All notable changes to FaithfulVenom will be documented in this file.
 ## [1.12-r3] - 2021-12-19
 ### Fixed
 - Fixed a texturing error with Stone Bricks
+- Fixed a texturing error with Droppers
 
 ## [1.12-r2] - 2021-12-18
 ### Added/Changed/Fixed/Removed

@@ -812,9 +812,9 @@ mullak99: https://faithful.mullak99.co.uk/
 	target_top.png (block/target_top.png): EM32D
 	terracotta.png (block/terracotta.png): EM32D
 	tinted_glass.png (block/tinted_glass.png): Vattic
-	tnt_bottom.png (block/tnt_bottom.png): EM32D
-	tnt_side.png (block/tnt_side.png): EM32D
-	tnt_top.png (block/tnt_top.png): EM32D
+	tnt_bottom.png (block/tnt_bottom.png): Vattic
+	tnt_side.png (block/tnt_side.png): Vattic
+	tnt_top.png (block/tnt_top.png): Vattic
 	torch.png (block/torch.png): Vattic
 	tripwire.png (block/tripwire.png): EM32D
 	tripwire_hook.png (block/tripwire_hook.png): Vattic
@@ -1328,7 +1328,7 @@ mullak99: https://faithful.mullak99.co.uk/
 
 	== Minecraft [Entity] (/assets/minecraft/textures/entity) ==
 	alex.png (entity/alex.png): Vattic
-	banner_base.png (entity/banner_base.png): EM32D
+	banner_base.png (entity/banner_base.png): Vattic
 	bat.png (entity/bat.png): EM32D
 	beacon_beam.png (entity/beacon_beam.png): EM32D
 	blaze.png (entity/blaze.png): Vattic
@@ -1365,7 +1365,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	axolotl_gold.png (entity/axolotl/axolotl_gold.png): EM32D
 	axolotl_lucy.png (entity/axolotl/axolotl_lucy.png): EM32D
 	axolotl_wild.png (entity/axolotl/axolotl_wild.png): EM32D
-	[All Banner pattern textures (except Mojang)]: Compliance
+	[All Banner pattern textures (except Mojang)]: Compliance (modified by mullak99)
 	mojang.png (entity/banner/mojang.png): Delio#9779
 	polarbear.png (entity/bear/polarbear.png): EM32D
 	[All Bed textures]: mullak99 (using EM32D & Vattic beds)

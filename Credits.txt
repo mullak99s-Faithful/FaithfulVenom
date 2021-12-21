@@ -812,9 +812,9 @@ mullak99: https://faithful.mullak99.co.uk/
 	target_top.png (block/target_top.png): EM32D
 	terracotta.png (block/terracotta.png): EM32D
 	tinted_glass.png (block/tinted_glass.png): Vattic
-	tnt_bottom.png (block/tnt_bottom.png): EM32D
-	tnt_side.png (block/tnt_side.png): EM32D
-	tnt_top.png (block/tnt_top.png): EM32D
+	tnt_bottom.png (block/tnt_bottom.png): Vattic
+	tnt_side.png (block/tnt_side.png): Vattic
+	tnt_top.png (block/tnt_top.png): Vattic
 	torch.png (block/torch.png): Vattic
 	tripwire.png (block/tripwire.png): EM32D
 	tripwire_hook.png (block/tripwire_hook.png): Vattic

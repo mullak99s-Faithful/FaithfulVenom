@@ -1,9 +1,0 @@
-{
-    "parent": "block/cactus",
-	"display": {
-		"ground":{
-			"translation": [ 0, 3, 0],
-			"scale": [ 0.3, 0.3, 0.3 ]
-		}
-    }
-}

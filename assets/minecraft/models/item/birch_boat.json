@@ -1,8 +1,0 @@
-{
-	"credit": "Created by mullak99",
-	"parent": "item/template_boat",
-	"textures": {
-		"boat": "ctm/boats/birch",
-		"particle": "ctm/boats/birch"
-	}
-}

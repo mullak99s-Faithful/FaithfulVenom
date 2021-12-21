@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to FaithfulVenom will be documented in this file.
 
+## [1.18-r3] - 2021-12-21
+### Added/Changed
+- Included changes from 1.17-r6
+
 ## [1.18-r2] - 2021-12-18
 ### Added/Changed
 - Included changes from 1.17-r5
@@ -12,6 +16,11 @@ All notable changes to FaithfulVenom will be documented in this file.
 
 ### Changed
 - Changed Inventory GUI
+
+## [1.17-r6] - 2021-12-21
+### Changed
+- Replaced more textures with Vattic's
+- Reworked some existing textures to fit Vattic's
 
 ## [1.17-r5] - 2021-12-18
 ### Changed

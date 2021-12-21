@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to FaithfulVenom will be documented in this file.
 
+## [1.17-r6] - 2021-12-21
+### Changed
+- Replaced more textures with Vattic's
+- Reworked some existing textures to fit Vattic's
+
 ## [1.17-r5] - 2021-12-18
 ### Changed
 - Replaced placeholder Zombie Villager types

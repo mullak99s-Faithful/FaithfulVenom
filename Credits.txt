@@ -812,9 +812,9 @@ mullak99: https://faithful.mullak99.co.uk/
 	target_top.png (block/target_top.png): EM32D
 	terracotta.png (block/terracotta.png): EM32D
 	tinted_glass.png (block/tinted_glass.png): Vattic
-	tnt_bottom.png (block/tnt_bottom.png): EM32D
-	tnt_side.png (block/tnt_side.png): EM32D
-	tnt_top.png (block/tnt_top.png): EM32D
+	tnt_bottom.png (block/tnt_bottom.png): Vattic
+	tnt_side.png (block/tnt_side.png): Vattic
+	tnt_top.png (block/tnt_top.png): Vattic
 	torch.png (block/torch.png): Vattic
 	tripwire.png (block/tripwire.png): EM32D
 	tripwire_hook.png (block/tripwire_hook.png): Vattic
@@ -1328,7 +1328,7 @@ mullak99: https://faithful.mullak99.co.uk/
 
 	== Minecraft [Entity] (/assets/minecraft/textures/entity) ==
 	alex.png (entity/alex.png): Vattic
-	banner_base.png (entity/banner_base.png): EM32D
+	banner_base.png (entity/banner_base.png): Vattic
 	bat.png (entity/bat.png): EM32D
 	beacon_beam.png (entity/beacon_beam.png): EM32D
 	blaze.png (entity/blaze.png): Vattic
@@ -1365,7 +1365,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	axolotl_gold.png (entity/axolotl/axolotl_gold.png): EM32D
 	axolotl_lucy.png (entity/axolotl/axolotl_lucy.png): EM32D
 	axolotl_wild.png (entity/axolotl/axolotl_wild.png): EM32D
-	[All Banner pattern textures (except Mojang)]: Compliance
+	[All Banner pattern textures (except Mojang)]: Compliance (modified by mullak99)
 	mojang.png (entity/banner/mojang.png): Delio#9779
 	polarbear.png (entity/bear/polarbear.png): EM32D
 	[All Bed textures]: mullak99 (using EM32D & Vattic beds)
@@ -1445,25 +1445,25 @@ mullak99: https://faithful.mullak99.co.uk/
 	ghast_shooting_e.png (entity/ghast/ghast_shooting_e.png): mullak99
 	hoglin.png (entity/hoglin/hoglin.png): EM32D
 	zoglin.png (entity/hoglin/zoglin.png): EM32D
-	donkey.png (entity/horse/donkey.png): EM32D
-	horse_black.png (entity/horse/horse_black.png): EM32D
-	horse_brown.png (entity/horse/horse_brown.png): EM32D
-	horse_chestnut.png (entity/horse/horse_chestnut.png): EM32D
-	horse_creamy.png (entity/horse/horse_creamy.png): EM32D
-	horse_darkbrown.png (entity/horse/horse_darkbrown.png): EM32D
-	horse_gray.png (entity/horse/horse_gray.png): EM32D
-	horse_markings_blackdots.png (entity/horse/horse_markings_blackdots.png): EM32D
-	horse_markings_white.png (entity/horse/horse_markings_white.png): EM32D
-	horse_markings_whitedots.png (entity/horse/horse_markings_whitedots.png): EM32D
-	horse_markings_whitefield.png (entity/horse/horse_markings_whitefield.png): EM32D
-	horse_skeleton.png (entity/horse/horse_skeleton.png): EM32D
-	horse_white.png (entity/horse/horse_white.png): EM32D
-	horse_zombie.png (entity/horse/horse_zombie.png): EM32D
-	mule.png (entity/horse/mule.png): EM32D
-	horse_armor_diamond.png (entity/horse/armor/horse_armor_diamond.png): EM32D
-	horse_armor_gold.png (entity/horse/armor/horse_armor_gold.png): EM32D
-	horse_armor_iron.png (entity/horse/armor/horse_armor_iron.png): EM32D
-	horse_armor_leather.png (entity/horse/armor/horse_armor_leather.png): EM32D
+	donkey.png (entity/horse/donkey.png): Vattic
+	horse_black.png (entity/horse/horse_black.png): Vattic
+	horse_brown.png (entity/horse/horse_brown.png): Vattic
+	horse_chestnut.png (entity/horse/horse_chestnut.png): Vattic
+	horse_creamy.png (entity/horse/horse_creamy.png): Vattic
+	horse_darkbrown.png (entity/horse/horse_darkbrown.png): Vattic
+	horse_gray.png (entity/horse/horse_gray.png): Vattic
+	horse_markings_blackdots.png (entity/horse/horse_markings_blackdots.png): Vattic
+	horse_markings_white.png (entity/horse/horse_markings_white.png): Vattic
+	horse_markings_whitedots.png (entity/horse/horse_markings_whitedots.png): Vattic
+	horse_markings_whitefield.png (entity/horse/horse_markings_whitefield.png): Vattic
+	horse_skeleton.png (entity/horse/horse_skeleton.png): Vattic
+	horse_white.png (entity/horse/horse_white.png): Vattic
+	horse_zombie.png (entity/horse/horse_zombie.png): Vattic
+	mule.png (entity/horse/mule.png): Vattic
+	horse_armor_diamond.png (entity/horse/armor/horse_armor_diamond.png): Vattic
+	horse_armor_gold.png (entity/horse/armor/horse_armor_gold.png): Vattic
+	horse_armor_iron.png (entity/horse/armor/horse_armor_iron.png): Vattic
+	horse_armor_leather.png (entity/horse/armor/horse_armor_leather.png): Vattic
 	evoker.png (entity/illager/evoker.png): EM32D
 	evoker_fangs.png (entity/illager/evoker_fangs.png): EM32D
 	illusioner.png (entity/illager/illusioner.png): EM32D

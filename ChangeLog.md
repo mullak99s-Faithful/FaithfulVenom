@@ -14,6 +14,8 @@ All notable changes to FaithfulVenom will be documented in this file.
 - Fixed Horse textures
 - Fixed Banner and Shield Patterns
 - Fixed Pufferfish item texture
+- Fixed Wooden Door and Trapdoor model
+- Fixed Iron Door texture
 
 ## [1.12-r2] - 2021-12-18
 ### Added/Changed/Fixed/Removed

@@ -725,7 +725,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	sculk_sensor_tendril_inactive.png (block/sculk_sensor_tendril_inactive.png): EM32D
 	sculk_sensor_top.png (block/sculk_sensor_top.png): EM32D
 	seagrass.png (block/seagrass.png): EM32D
-	sea_lantern.png (block/sea_lantern.png): EM32D
+	sea_lantern.png (block/sea_lantern.png): EM32T
 	sea_pickle.png (block/sea_pickle.png): EM32D
 	shroomlight.png (block/shroomlight.png): EM32D
 	shulker_box.png (block/shulker_box.png): EM32D

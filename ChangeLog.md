@@ -1,7 +1,7 @@
 # Changelog
 All notable changes to FaithfulVenom will be documented in this file.
 
-## [1.11-r2] - 2021-12-21
+## [1.11-r2] - 2021-12-22
 ### Added/Changed/Fixed/Removed
 - Backported from 1.12-r3
 

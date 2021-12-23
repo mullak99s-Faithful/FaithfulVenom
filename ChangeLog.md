@@ -1,9 +1,10 @@
 # Changelog
 All notable changes to FaithfulVenom will be documented in this file.
 
-## [1.12-r3] - 2021-12-21
+## [1.12-r3] - 2021-12-22
 ### Added
 - Added missing Villager UI
+- Included changes from 1.17-r6
 
 ### Changed
 - Replaced more textures with Vattic's
@@ -16,6 +17,9 @@ All notable changes to FaithfulVenom will be documented in this file.
 - Fixed Pufferfish item texture
 - Fixed Wooden Door and Trapdoor model
 - Fixed Iron Door texture
+
+### Removed
+- Removed unused CTM textures
 
 ## [1.12-r2] - 2021-12-18
 ### Added/Changed/Fixed/Removed

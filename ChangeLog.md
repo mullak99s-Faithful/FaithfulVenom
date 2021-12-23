@@ -1,8 +1,10 @@
 # Changelog
 All notable changes to FaithfulVenom will be documented in this file.
 
-## [1.17-r6] - 2021-12-21
+## [1.17-r6] - 2021-12-22
 ### Changed
+- Changed Crimson Trapdoor texture
+- Changed Sea Lantern texture
 - Replaced more textures with Vattic's
 - Reworked some existing textures to fit Vattic's
 

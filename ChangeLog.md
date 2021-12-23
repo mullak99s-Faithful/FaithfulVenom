@@ -1,9 +1,13 @@
 # Changelog
 All notable changes to FaithfulVenom: Bedrock will be documented in this file.
 
-## [Bedrock 1.18-r2] - TBA
+## [Bedrock 1.18-r2] - 2021-12-22
 ### Added/Changed/Fixed/Removed
 - Included changes from 1.18-r3
+- Added additional UI textures
+- Fixed Drowned texture
+- Fixed Glow Squid missing texture
+- Fixed Glow Ink Sac missing texture
 
 ## [Bedrock 1.18-r1] - 2021-12-16
 ### Added/Changed/Fixed/Removed

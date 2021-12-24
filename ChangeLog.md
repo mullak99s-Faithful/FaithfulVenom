@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to FaithfulVenom: Bedrock will be documented in this file.
 
+## [Bedrock 1.18-r3] - 2021-12-24
+### Fixed
+- Fixed broken XP bar
+
 ## [Bedrock 1.18-r2] - 2021-12-22
 ### Added/Changed/Fixed/Removed
 - Included changes from 1.18-r3

@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to FaithfulVenom will be documented in this file.
 
+## [1.18-r3] - 2021-12-22
+### Added/Changed
+- Included changes from 1.17-r6
+
 ## [1.18-r2] - 2021-12-18
 ### Added/Changed
 - Included changes from 1.17-r5
@@ -13,6 +17,13 @@ All notable changes to FaithfulVenom will be documented in this file.
 ### Changed
 - Changed Inventory GUI
 
+## [1.17-r6] - 2021-12-22
+### Changed
+- Changed Crimson Trapdoor texture
+- Changed Sea Lantern texture
+- Replaced more textures with Vattic's
+- Reworked some existing textures to fit Vattic's
+
 ## [1.17-r5] - 2021-12-18
 ### Changed
 - Replaced placeholder Zombie Villager types
@@ -20,6 +31,8 @@ All notable changes to FaithfulVenom will be documented in this file.
 - Replaced all Observer textures
 - Updated Armorer and Weaponsmith Zombie Villager textures
 - Changes to Slowness & Invisibility mob_effects
+- Changes to all armour item textures
+- Replaced various item textures with Vattic versions
 - Minor changes to Blaze Powder
 - Minor changes to Painting back texture
 - Minor changes to Furnace textures

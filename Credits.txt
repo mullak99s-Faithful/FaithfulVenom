@@ -18,7 +18,7 @@ Licence's from Vattic, EM32D, Compliance, and mullak99 can be found within the L
 
 These credits should reflect where each texture within the pack is from.
 
-If any of the credited textures are incorrect, or if you believe you're texture is being used without
+If any of the credited textures are incorrect, or if you believe your texture is being used without
 credit, please create an Issue on the GitHub (linked above).
 Alternatively, contact mullak99 using the details below.
 
@@ -330,8 +330,8 @@ mullak99: https://faithful.mullak99.co.uk/
 	diamond_ore.png (block/diamond_ore.png): Vattic
 	diorite.png (block/diorite.png): EM32T
 	dirt.png (block/dirt.png): Vattic
-	dirt_path_side.png (block/dirt_path_side.png): Vattic
-	dirt_path_top.png (block/dirt_path_top.png): Vattic
+	dirt_path_side.png (block/dirt_path_side.png): EM32D
+	dirt_path_top.png (block/dirt_path_top.png): EM32D
 	dispenser_front.png (block/dispenser_front.png): Vattic
 	dispenser_front_vertical.png (block/dispenser_front_vertical.png): Vattic
 	dragon_egg.png (block/dragon_egg.png): Vattic
@@ -718,7 +718,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	sculk_sensor_tendril_inactive.png (block/sculk_sensor_tendril_inactive.png): EM32D
 	sculk_sensor_top.png (block/sculk_sensor_top.png): EM32D
 	seagrass.png (block/seagrass.png): EM32D
-	sea_lantern.png (block/sea_lantern.png): EM32D
+	sea_lantern.png (block/sea_lantern.png): EM32T
 	sea_pickle.png (block/sea_pickle.png): EM32D
 	shroomlight.png (block/shroomlight.png): EM32D
 	shulker_box.png (block/shulker_box.png): EM32D
@@ -805,9 +805,9 @@ mullak99: https://faithful.mullak99.co.uk/
 	target_top.png (block/target_top.png): EM32D
 	terracotta.png (block/terracotta.png): EM32D
 	tinted_glass.png (block/tinted_glass.png): Vattic
-	tnt_bottom.png (block/tnt_bottom.png): EM32D
-	tnt_side.png (block/tnt_side.png): EM32D
-	tnt_top.png (block/tnt_top.png): EM32D
+	tnt_bottom.png (block/tnt_bottom.png): Vattic
+	tnt_side.png (block/tnt_side.png): Vattic
+	tnt_top.png (block/tnt_top.png): Vattic
 	torch.png (block/torch.png): Vattic
 	tripwire.png (block/tripwire.png): EM32D
 	tripwire_hook.png (block/tripwire_hook.png): Vattic

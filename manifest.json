@@ -1,28 +1,28 @@
 {
   "format_version": 2,
   "header": {
-    "description": "by AntVenom, EM32D, Compliance Team, mullak99 & Tidmouth",
+    "description": "by AntVenom, Classic Faithful, Compliance, mullak99 & Tidmouth",
     "min_engine_version": [
       1,
       17,
       0
     ],
-    "name": "FaithfulVenom 32x 1.18-r3",
+    "name": "FaithfulVenom 32x 1.18-r4 (Beta 1)",
     "uuid": "7124df9b-8ef0-4c14-8bc0-9a93677d0f69",
     "version": [
       1,
-      2,
-      0
+      3,
+      1
     ]
   },
   "metadata": {
-      "authors": [ "AntVenom", "EM32D", "Compliance Team", "mullak99", "Tidmouth" ],
+      "authors": [ "AntVenom", "Classic Faithful", "Compliance", "mullak99", "Tidmouth" ],
       "license": "https://github.com/mullak99s-Faithful/FaithfulVenom/License.txt",
       "url": "https://antvenom.com/"
   },
   "modules": [
     {
-      "description": "by AntVenom, EM32D, Compliance Team, mullak99 & Tidmouth",
+      "description": "by AntVenom, Classic Faithful, Compliance, mullak99 & Tidmouth",
       "type": "resources",
       "uuid": "733c3aba-1d04-49f2-911b-99fe625ae8dc",
       "version": [

@@ -1,3 +1,31 @@
+-----------------------------------------------------------------------------------------------------------
+
+=== Links ===
+
+Downloads: https://antvenom.com/files
+Discord: https://discord.gg/AntVenom
+GitHub: https://github.com/mullak99s-Faithful/FaithfulVenom
+
+-----------------------------------------------------------------------------------------------------------
+
+=== Notes ===
+
+Licence's from Vattic, Classic Faithful 32x, Compliance, and mullak99 can be found within the License.txt file.
+
+-----------------------------------------------------------------------------------------------------------
+
+=== Credits ===
+
+Vattic: https://web.archive.org/web/20150607220656/http://www.minecraftforum.net:80/forums/mapping-and-modding/resource-packs/1223254-faithful-32x32-pack-update-red-cat-clay-1-8
+Classic Faithful 32x: https://github.com/classicfaithful/classic-faithful-32x
+Compliance: https://compliancepack.net/
+FaithfulVenom: https://antvenom.com/files
+mullak99: https://faithful.mullak99.co.uk/
+
+-----------------------------------------------------------------------------------------------------------
+
+=== Information ===
+
 A full breakdown of textures can be found within the FaithfulVenom (Java) pack, or on the GitHub.  
 
 Downloads: https://antvenom.com/files  
@@ -11,3 +39,5 @@ Exceptions to these are:
 - Fireworks Charge: Compliance
 - Weather: Compliance
 - Spyglass Entity: Compliance
+
+-----------------------------------------------------------------------------------------------------------

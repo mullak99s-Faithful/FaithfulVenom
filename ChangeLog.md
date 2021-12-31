@@ -1,6 +1,13 @@
 # Changelog
 All notable changes to FaithfulVenom: Bedrock will be documented in this file.
 
+## [Bedrock 1.18-r4] - TBA
+### Added
+- Added some missing textures
+
+### Removed
+- Removed some unused textures
+
 ## [Bedrock 1.18-r3] - 2021-12-24
 ### Fixed
 - Fixed broken XP bar

@@ -25,6 +25,6 @@ GitHub Repo: https://github.com/mullak99s-Faithful/FaithfulVenom
 
 [AntVenom](https://antvenom.com/) for FaithfulVenom  
 [Vattic](https://web.archive.org/web/20150607220656/http://www.minecraftforum.net:80/forums/mapping-and-modding/resource-packs/1223254-faithful-32x32-pack-update-red-cat-clay-1-8) for creating the original Faithful 32x (Pre-1.9 textures)  
-[Classic Faithful 32x](https://github.com/classicfaithful/classic-faithful-32x) for creating Classic Faithful 32x (Post-1.9 textures)  
+[Classic Faithful](https://github.com/ClassicFaithful) for creating Classic Faithful 32x (Post-1.9 textures)  
 [Compliance Team](https://compliancepack.net/) for creating the Compliance pack (Post-1.9 textures, typically placeholders for EM)  
 [mullak99](https://faithful.mullak99.co.uk/) for maintaining FaithfulVenom (and for the 3D models + some progart textures)   

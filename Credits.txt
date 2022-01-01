@@ -31,7 +31,7 @@ Alternatively, contact mullak99 using the details below.
 === Credits ===
 
 Vattic: https://web.archive.org/web/20150607220656/http://www.minecraftforum.net:80/forums/mapping-and-modding/resource-packs/1223254-faithful-32x32-pack-update-red-cat-clay-1-8
-Classic Faithful 32x: https://github.com/classicfaithful/classic-faithful-32x
+Classic Faithful: https://github.com/ClassicFaithful
 Compliance: https://compliancepack.net/
 FaithfulVenom: https://antvenom.com/files
 mullak99: https://faithful.mullak99.co.uk/

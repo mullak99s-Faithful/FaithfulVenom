@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to FaithfulVenom will be documented in this file.
 
+## [1.18-r4] - TBC
+### Changed
+- Replaced various textures with Vattic's
+- Replaced various textures with CF (PA)'s
+
 ## [1.18-r3] - 2021-12-22
 ### Added/Changed
 - Included changes from 1.17-r6

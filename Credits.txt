@@ -182,10 +182,10 @@ mullak99: https://faithful.mullak99.co.uk/
 	carrots_stage1.png (block/carrots_stage1.png): Vattic
 	carrots_stage2.png (block/carrots_stage2.png): Vattic
 	carrots_stage3.png (block/carrots_stage3.png): Vattic
-	cartography_table_side1.png (block/cartography_table_side1.png): CF's tweaked by mullak99
-	cartography_table_side2.png (block/cartography_table_side2.png): CF's tweaked by mullak99
-	cartography_table_side3.png (block/cartography_table_side3.png): CF's tweaked by mullak99
-	cartography_table_top.png (block/cartography_table_top.png): CF's tweaked by mullak99
+	cartography_table_side1.png (block/cartography_table_side1.png): CF (PA)
+	cartography_table_side2.png (block/cartography_table_side2.png): CF (PA)
+	cartography_table_side3.png (block/cartography_table_side3.png): CF (PA)
+	cartography_table_top.png (block/cartography_table_top.png): CF (PA)
 	carved_pumpkin.png (block/carved_pumpkin.png): CF (PA)
 	cauldron_bottom.png (block/cauldron_bottom.png): Vattic
 	cauldron_inner.png (block/cauldron_inner.png): Vattic
@@ -196,16 +196,16 @@ mullak99: https://faithful.mullak99.co.uk/
 	cave_vines_plant.png (block/cave_vines_plant.png): CF
 	cave_vines_plant_lit.png (block/cave_vines_plant_lit.png): CF
 	chain.png (block/chain.png): CF
-	chain_command_block_back.png (block/chain_command_block_back.png): CF
-	chain_command_block_conditional.png (block/chain_command_block_conditional.png): CF
-	chain_command_block_front.png (block/chain_command_block_front.png): CF
-	chain_command_block_side.png (block/chain_command_block_side.png): CF
+	chain_command_block_back.png (block/chain_command_block_back.png): CF (PA)
+	chain_command_block_conditional.png (block/chain_command_block_conditional.png): CF (PA)
+	chain_command_block_front.png (block/chain_command_block_front.png): CF (PA)
+	chain_command_block_side.png (block/chain_command_block_side.png): CF (PA)
 	chipped_anvil_top.png (block/chipped_anvil_top.png): Vattic
 	chiseled_deepslate.png (block/chiseled_deepslate.png): CF
 	chiseled_nether_bricks.png (block/chiseled_nether_bricks.png): CF
 	chiseled_polished_blackstone.png (block/chiseled_polished_blackstone.png): CF
-	chiseled_quartz_block.png (block/chiseled_quartz_block.png): CF
-	chiseled_quartz_block_top.png (block/chiseled_quartz_block_top.png): CF
+	chiseled_quartz_block.png (block/chiseled_quartz_block.png): Vattic
+	chiseled_quartz_block_top.png (block/chiseled_quartz_block_top.png): Vattic
 	chiseled_red_sandstone.png (block/chiseled_red_sandstone.png): CF
 	chiseled_sandstone.png (block/chiseled_sandstone.png): CF
 	chiseled_stone_bricks.png (block/chiseled_stone_bricks.png): Vattic
@@ -222,10 +222,10 @@ mullak99: https://faithful.mullak99.co.uk/
 	cocoa_stage0.png (block/cocoa_stage0.png): Vattic
 	cocoa_stage1.png (block/cocoa_stage1.png): Vattic
 	cocoa_stage2.png (block/cocoa_stage2.png): Vattic
-	command_block_back.png (block/command_block_back.png): CF
-	command_block_conditional.png (block/command_block_conditional.png): CF
-	command_block_front.png (block/command_block_front.png): CF
-	command_block_side.png (block/command_block_side.png): CF
+	command_block_back.png (block/command_block_back.png): CF (PA)
+	command_block_conditional.png (block/command_block_conditional.png): CF (PA)
+	command_block_front.png (block/command_block_front.png): CF (PA)
+	command_block_side.png (block/command_block_side.png): CF (PA)
 	comparator.png (block/comparator.png): CF (PA)
 	comparator_on.png (block/comparator_on.png): CF (PA)
 	composter_bottom.png (block/composter_bottom.png): CF
@@ -239,7 +239,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	cornflower.png (block/cornflower.png): Vattic
 	cracked_deepslate_bricks.png (block/cracked_deepslate_bricks.png): CF
 	cracked_deepslate_tiles.png (block/cracked_deepslate_tiles.png): CF
-	cracked_nether_bricks.png (block/cracked_nether_bricks.png): CF
+	cracked_nether_bricks.png (block/cracked_nether_bricks.png): CF (PA)
 	cracked_polished_blackstone_bricks.png (block/cracked_polished_blackstone_bricks.png): CF
 	cracked_stone_bricks.png (block/cracked_stone_bricks.png): Vattic
 	crafting_table_front.png (block/crafting_table_front.png): Vattic
@@ -351,7 +351,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	end_portal_frame_eye.png (block/end_portal_frame_eye.png): Vattic
 	end_portal_frame_side.png (block/end_portal_frame_side.png): Vattic
 	end_portal_frame_top.png (block/end_portal_frame_top.png): Vattic
-	end_rod.png (block/end_rod.png): CF
+	end_rod.png (block/end_rod.png): CF (PA)
 	end_stone.png (block/end_stone.png): Vattic
 	end_stone_bricks.png (block/end_stone_bricks.png): CF (PA)
 	exposed_copper.png (block/exposed_copper.png): CF
@@ -640,13 +640,13 @@ mullak99: https://faithful.mullak99.co.uk/
 	purple_stained_glass_pane_top.png (block/purple_stained_glass_pane_top.png): Vattic
 	purple_terracotta.png (block/purple_terracotta.png): CF
 	purple_wool.png (block/purple_wool.png): CF
-	purpur_block.png (block/purpur_block.png): CF
+	purpur_block.png (block/purpur_block.png): CF (PA)
 	purpur_pillar.png (block/purpur_pillar.png): CF
 	purpur_pillar_top.png (block/purpur_pillar_top.png): CF
-	quartz_block_bottom.png (block/quartz_block_bottom.png): CF
+	quartz_block_bottom.png (block/quartz_block_bottom.png): Vattic
 	quartz_block_side.png (block/quartz_block_side.png): Vattic
 	quartz_block_top.png (block/quartz_block_top.png): Vattic
-	quartz_bricks.png (block/quartz_bricks.png): Vattic
+	quartz_bricks.png (block/quartz_bricks.png): CF (PA)
 	quartz_pillar.png (block/quartz_pillar.png): Vattic
 	quartz_pillar_top.png (block/quartz_pillar_top.png): Vattic
 	rail.png (block/rail.png): CF
@@ -671,7 +671,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	red_glazed_terracotta.png (block/red_glazed_terracotta.png): CF
 	red_mushroom.png (block/red_mushroom.png): Vattic
 	red_mushroom_block.png (block/red_mushroom_block.png): Vattic
-	red_nether_bricks.png (block/red_nether_bricks.png): CF
+	red_nether_bricks.png (block/red_nether_bricks.png): CF (PA)
 	red_sand.png (block/red_sand.png): Vattic
 	red_sandstone.png (block/red_sandstone.png): Vattic
 	red_sandstone_bottom.png (block/red_sandstone_bottom.png): Vattic
@@ -684,10 +684,10 @@ mullak99: https://faithful.mullak99.co.uk/
 	red_wool.png (block/red_wool.png): CF
 	repeater.png (block/repeater.png): CF (PA)
 	repeater_on.png (block/repeater_on.png): CF (PA)
-	repeating_command_block_back.png (block/repeating_command_block_back.png): CF
-	repeating_command_block_conditional.png (block/repeating_command_block_conditional.png): CF
-	repeating_command_block_front.png (block/repeating_command_block_front.png): CF
-	repeating_command_block_side.png (block/repeating_command_block_side.png): CF
+	repeating_command_block_back.png (block/repeating_command_block_back.png): CF (PA)
+	repeating_command_block_conditional.png (block/repeating_command_block_conditional.png): CF (PA)
+	repeating_command_block_front.png (block/repeating_command_block_front.png): CF (PA)
+	repeating_command_block_side.png (block/repeating_command_block_side.png): CF (PA)
 	respawn_anchor_bottom.png (block/respawn_anchor_bottom.png): Vattic + CF
 	respawn_anchor_bottom_e.png (block/respawn_anchor_bottom_e.png)
 	respawn_anchor_side0.png (block/respawn_anchor_side0.png): Vattic + CF
@@ -912,7 +912,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	bread.png (item/bread.png): Vattic
 	brewing_stand.png (item/brewing_stand.png): CF
 	brick.png (item/brick.png): Vattic
-	broken_elytra.png (item/broken_elytra.png): CF
+	broken_elytra.png (item/broken_elytra.png): CF (PA)
 	brown_candle.png (item/brown_candle.png): CF
 	brown_dye.png (item/brown_dye.png): CF
 	bucket.png (item/bucket.png): Vattic
@@ -1073,7 +1073,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	dragon_breath.png (item/dragon_breath.png): mullak99 (using Vattic and CF textures)
 	dried_kelp.png (item/dried_kelp.png): CF
 	egg.png (item/egg.png): Vattic
-	elytra.png (item/elytra.png): CF
+	elytra.png (item/elytra.png): CF (PA)
 	emerald.png (item/emerald.png): Vattic
 	empty_armor_slot_boots.png (item/empty_armor_slot_boots.png): Vattic
 	empty_armor_slot_chestplate.png (item/empty_armor_slot_chestplate.png): Vattic
@@ -1226,7 +1226,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	orange_dye.png (item/orange_dye.png): CF (PA)
 	painting.png (item/painting.png): Vattic
 	paper.png (item/paper.png): Vattic
-	phantom_membrane.png (item/phantom_membrane.png): CF
+	phantom_membrane.png (item/phantom_membrane.png): CF (PA)
 	piglin_banner_pattern.png (item/piglin_banner_pattern.png): CF (modified by mullak99)
 	pink_candle.png (item/pink_candle.png): CF
 	pink_dye.png (item/pink_dye.png): CF
@@ -1377,7 +1377,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	calico.png (entity/cat/calico.png): CF
 	cat_collar.png (entity/cat/cat_collar.png): CF
 	jellie.png (entity/cat/jellie.png): CF
-	ocelot.png (entity/cat/ocelot.png): CF
+	ocelot.png (entity/cat/ocelot.png): CF (PA)
 	persian.png (entity/cat/persian.png): CF
 	ragdoll.png (entity/cat/ragdoll.png): CF
 	red.png (entity/cat/red.png): CF
@@ -1459,14 +1459,14 @@ mullak99: https://faithful.mullak99.co.uk/
 	horse_armor_gold.png (entity/horse/armor/horse_armor_gold.png): CF
 	horse_armor_iron.png (entity/horse/armor/horse_armor_iron.png): CF
 	horse_armor_leather.png (entity/horse/armor/horse_armor_leather.png): CF
-	evoker.png (entity/illager/evoker.png): CF
+	evoker.png (entity/illager/evoker.png): CF (PA)
 	evoker_fangs.png (entity/illager/evoker_fangs.png): CF
 	illusioner.png (entity/illager/illusioner.png): CF
-	pillager.png (entity/illager/pillager.png): CF
+	pillager.png (entity/illager/pillager.png): CF (PA)
 	ravager.png (entity/illager/ravager.png): CF
 	vex.png (entity/illager/vex.png): CF
 	vex_charging.png (entity/illager/vex_charging.png): CF
-	vindicator.png (entity/illager/vindicator.png): CF
+	vindicator.png (entity/illager/vindicator.png): CF (PA)
 	iron_golem.png (entity/iron_golem/iron_golem.png): Vattic
 	iron_golem_crackiness_high.png (entity/iron_golem/iron_golem_crackiness_high.png): CF
 	iron_golem_crackiness_low.png (entity/iron_golem/iron_golem_crackiness_low.png): CF
@@ -1857,11 +1857,11 @@ mullak99: https://faithful.mullak99.co.uk/
 
 	== Minecraft [OTHER (Unknown)] ==
 	pack.png (pack.png): AntVenom
-	icon.png (assets/fabric/icon.png): Fabric
+	icon.png (assets/fabric/icon.png): [UNKNOWN]
 	creative_buttons.png (assets/fabric/textures/gui/creative_buttons.png): mullak99
-	version_check_icons.png (assets/forge/textures/gui/version_check_icons.png): mullak99
-	fabric_icon.png (assets/modmenu/fabric_icon.png): Fabric
-	grey_fabric_icon.png (assets/modmenu/grey_fabric_icon.png): Fabric: mullak99
+	version_check_icons.png (assets/forge/textures/gui/version_check_icons.png): [UNKNOWN]
+	fabric_icon.png (assets/modmenu/fabric_icon.png): [UNKNOWN]
+	grey_fabric_icon.png (assets/modmenu/grey_fabric_icon.png): [UNKNOWN]
 	configure_button.png (assets/modmenu/textures/gui/configure_button.png): mullak99
 	filters_button.png (assets/modmenu/textures/gui/filters_button.png): mullak99
 	parent_mod.png (assets/modmenu/textures/gui/parent_mod.png): mullak99

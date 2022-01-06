@@ -1,6 +1,14 @@
 # Changelog
 All notable changes to FaithfulVenom will be documented in this file.
 
+## [1.12-r5] - TBC
+### Changed
+- Included changes from 1.18-r4
+
+## Fixed
+- Fixed issue with Explosion particles
+- Fixed issue with Sweep particles
+
 ## [1.12-r4] - 2021-12-24
 ### Fixed
 - Fixed Iron and Chain armour models (Transparency issue)

@@ -1083,7 +1083,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	enchanted_book.png (item/enchanted_book.png): CF
 	ender_eye.png (item/ender_eye.png): Vattic
 	ender_pearl.png (item/ender_pearl.png): Vattic
-	end_crystal.png (item/end_crystal.png): CF
+	end_crystal.png (item/end_crystal.png): CF (PA)
 	experience_bottle.png (item/experience_bottle.png): mullak99
 	feather.png (item/feather.png): Vattic
 	fermented_spider_eye.png (item/fermented_spider_eye.png): Vattic

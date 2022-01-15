@@ -35,9 +35,9 @@ GitHub Repo: https://github.com/mullak99s-Faithful/FaithfulVenom
 Exceptions to these are:  
 
 - Bedrock UI Textures: Compliance
-- Bed Item Textures: Compliance
-- Fireworks Charge: Compliance
-- Weather: Compliance
-- Spyglass Entity: Compliance
+- Bed Item Textures: Classic Faithful 32x
+- Fireworks Charge: Classic Faithful 32x
+- Weather: Classic Faithful 32x
+- Spyglass Entity: Classic Faithful 32x
 
 -----------------------------------------------------------------------------------------------------------

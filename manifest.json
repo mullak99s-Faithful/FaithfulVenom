@@ -2,18 +2,10 @@
   "format_version": 2,
   "header": {
     "description": "by AntVenom, Classic Faithful, Compliance, mullak99 & Tidmouth",
-    "min_engine_version": [
-      1,
-      17,
-      0
-    ],
-    "name": "FaithfulVenom 32x 1.18-r4 (Beta 1)",
+    "min_engine_version": [ 1, 17, 0 ],
+    "name": "FaithfulVenom 32x 1.18-r4 (Beta 2)",
     "uuid": "7124df9b-8ef0-4c14-8bc0-9a93677d0f69",
-    "version": [
-      1,
-      3,
-      1
-    ]
+    "version": [ 1, 3, 2 ]
   },
   "metadata": {
       "authors": [ "AntVenom", "Classic Faithful", "Compliance", "mullak99", "Tidmouth" ],
@@ -25,11 +17,7 @@
       "description": "by AntVenom, Classic Faithful, Compliance, mullak99 & Tidmouth",
       "type": "resources",
       "uuid": "733c3aba-1d04-49f2-911b-99fe625ae8dc",
-      "version": [
-        1,
-        0,
-        0
-      ]
+      "version": [ 1, 0, 0 ]
     }
   ]
 }

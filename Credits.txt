@@ -88,10 +88,10 @@ mullak99: https://faithful.mullak99.co.uk/
 	beehive_front.png (block/beehive_front.png): CF
 	beehive_front_honey.png (block/beehive_front_honey.png): CF
 	beehive_side.png (block/beehive_side.png): CF
-	beetroots_stage0.png (block/beetroots_stage0.png): Vattic
-	beetroots_stage1.png (block/beetroots_stage1.png): Vattic
-	beetroots_stage2.png (block/beetroots_stage2.png): Vattic
-	beetroots_stage3.png (block/beetroots_stage3.png): Vattic
+	beetroots_stage0.png (block/beetroots_stage0.png): CF (PA)
+	beetroots_stage1.png (block/beetroots_stage1.png): CF (PA)
+	beetroots_stage2.png (block/beetroots_stage2.png): CF (PA)
+	beetroots_stage3.png (block/beetroots_stage3.png): CF (PA)
 	bee_nest_bottom.png (block/bee_nest_bottom.png): CF
 	bee_nest_front.png (block/bee_nest_front.png): CF
 	bee_nest_front_honey.png (block/bee_nest_front_honey.png): CF
@@ -573,8 +573,8 @@ mullak99: https://faithful.mullak99.co.uk/
 	oxidized_copper.png (block/oxidized_copper.png): CF
 	oxidized_cut_copper.png (block/oxidized_cut_copper.png): CF
 	packed_ice.png (block/packed_ice.png): Vattic
-	peony_bottom.png (block/peony_bottom.png): Vattic
-	peony_top.png (block/peony_top.png): Vattic
+	peony_bottom.png (block/peony_bottom.png): CF (PA)
+	peony_top.png (block/peony_top.png): CF (PA)
 	pink_candle.png (block/pink_candle.png): CF
 	pink_candle_lit.png (block/pink_candle_lit.png): CF
 	pink_concrete.png (block/pink_concrete.png): CF
@@ -1232,7 +1232,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	pink_dye.png (item/pink_dye.png): CF
 	pointed_dripstone.png (item/pointed_dripstone.png): CF
 	poisonous_potato.png (item/poisonous_potato.png): Vattic
-	popped_chorus_fruit.png (item/popped_chorus_fruit.png): CF
+	popped_chorus_fruit.png (item/popped_chorus_fruit.png): CF (PA)
 	porkchop.png (item/porkchop.png): Vattic
 	potato.png (item/potato.png): Vattic
 	potion.png (item/potion.png): Vattic
@@ -1266,7 +1266,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	seagrass.png (item/seagrass.png): CF
 	sea_pickle.png (item/sea_pickle.png): CF
 	shears.png (item/shears.png): Vattic
-	shulker_shell.png (item/shulker_shell.png): CF
+	shulker_shell.png (item/shulker_shell.png): CF (PA)
 	skull_banner_pattern.png (item/skull_banner_pattern.png): CF (modified by mullak99)
 	slime_ball.png (item/slime_ball.png): Vattic
 	snowball.png (item/snowball.png): Vattic
@@ -1343,8 +1343,8 @@ mullak99: https://faithful.mullak99.co.uk/
 	minecart.png (entity/minecart.png): Vattic
 	phantom.png (entity/phantom.png): Vattic
 	phantom_eyes.png (entity/phantom_eyes.png): mullak99
-	shield_base.png (entity/shield_base.png): CF
-	shield_base_nopattern.png (entity/shield_base_nopattern.png): CF
+	shield_base.png (entity/shield_base.png): CF (PA)
+	shield_base_nopattern.png (entity/shield_base_nopattern.png): CF (PA)
 	silverfish.png (entity/silverfish.png): Vattic
 	snow_golem.png (entity/snow_golem.png): Vattic
 	spider_eyes.png (entity/spider_eyes.png): CF
@@ -1539,7 +1539,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	warped_e.png (entity/signs/warped_e.png): mullak99
 	skeleton.png (entity/skeleton/skeleton.png): CF
 	stray.png (entity/skeleton/stray.png): CF
-	stray_overlay.png (entity/skeleton/stray_overlay.png): CF
+	stray_overlay.png (entity/skeleton/stray_overlay.png): CF (PA)
 	wither_skeleton.png (entity/skeleton/wither_skeleton.png): CF
 	magmacube.png (entity/slime/magmacube.png): CF
 	magmacube_e.png (entity/slime/magmacube_e.png): mullak99

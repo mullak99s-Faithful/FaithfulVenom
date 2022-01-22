@@ -1,0 +1,97 @@
+{
+	"credit": "Created by mullak99",
+	"textures": {
+		"bed_feet_top": "blocks/bed_feet_top",
+		"planks_oak": "blocks/planks_oak",
+		"bed_feet_end": "blocks/bed_feet_end",
+		"bed_feet_side": "blocks/bed_feet_side",
+		"bed_head_top": "blocks/bed_head_top",
+		"bed_head_end": "blocks/bed_head_end",
+		"bed_head_side": "blocks/bed_head_side"
+	},
+	"elements": [
+		{
+			"name": "bed_top",
+			"from": [0, 0, 16],
+			"to": [16, 9, 32],
+			"faces": {
+				"east": {"uv": [16, 7, 0, 16], "texture": "#bed_head_side"},
+				"south": {"uv": [0, 7, 16, 16], "texture": "#bed_head_end"},
+				"west": {"uv": [0, 7, 16, 16], "texture": "#bed_head_side"},
+				"up": {"uv": [0, 16, 16, 0], "rotation": 90, "texture": "#bed_head_top"}
+			}
+		},
+		{
+			"name": "bed_bottom",
+			"from": [0, 0, 0],
+			"to": [16, 9, 16],
+			"faces": {
+				"north": {"uv": [0, 7, 16, 16], "texture": "#bed_feet_end"},
+				"east": {"uv": [16, 7, 0, 16], "texture": "#bed_feet_side"},
+				"west": {"uv": [0, 7, 16, 16], "texture": "#bed_feet_side"},
+				"up": {"uv": [0, 16, 16, 0], "rotation": 90, "texture": "#bed_feet_top"}
+			}
+		},
+		{
+			"name": "bed_bottom_planks",
+			"from": [0, 3, 0],
+			"to": [16, 3, 16],
+			"faces": {
+				"down": {"uv": [0, 0, 16, 16], "texture": "#planks_oak"}
+			}
+		},
+		{
+			"name": "bed_top_planks",
+			"from": [0, 3, 16],
+			"to": [16, 3, 32],
+			"faces": {
+				"down": {"uv": [0, 0, 16, 16], "texture": "#planks_oak"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [30, 160, 0],
+			"translation": [0, 2, 2],
+			"scale": [0.23, 0.23, 0.23]
+		},
+		"firstperson_righthand": {
+			"rotation": [30, 160, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"ground": {
+			"translation": [0, 1, -2],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [30, 135, 0],
+			"translation": [-2, 0, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"head": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 10, -8]
+		},
+		"fixed": {
+			"rotation": [270, 0, 0],
+			"translation": [0, -4, -2],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "bed_top",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0]
+		},
+		{
+			"name": "bed_bottom",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [1]
+		},
+		2,
+		3
+	]
+}

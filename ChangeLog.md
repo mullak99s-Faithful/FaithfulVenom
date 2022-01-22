@@ -1,7 +1,7 @@
 # Changelog
 All notable changes to FaithfulVenom will be documented in this file.
 
-## [1.11-r3] - 2022-01-22
+## [1.11-r4] - 2022-01-22
 ### Added/Changed/Fixed/Removed
 - Backported from 1.12-r5
 - Fixed missing 3D Bed item model

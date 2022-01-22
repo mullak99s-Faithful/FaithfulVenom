@@ -1,27 +1,9 @@
 # Changelog
 All notable changes to FaithfulVenom will be documented in this file.
 
-## [1.18-r4] - 2022-01-22
+## [1.17-r7] - 2022-01-22
 ### Changed
-- Replaced various textures with Vattic's
-- Replaced various textures with CF (PA)'s
-- Improved some existing textures (Powder Snow, Powder Snow Bucket, Netherite Tools)
-
-## [1.18-r3] - 2021-12-22
-### Added/Changed
-- Included changes from 1.17-r6
-
-## [1.18-r2] - 2021-12-18
-### Added/Changed
-- Included changes from 1.17-r5
-
-## [1.18-r1] - 2021-12-01
-### Added
-- Added Otherside music disc
-- Added Illager font
-
-### Changed
-- Changed Inventory GUI
+- Included changes from 1.18-r4
 
 ## [1.17-r6] - 2021-12-22
 ### Changed
@@ -43,7 +25,6 @@ All notable changes to FaithfulVenom will be documented in this file.
 - Minor changes to Painting back texture
 - Minor changes to Furnace textures
 - Minor changes to Minecart-related item models
-
 
 ## [1.17-r4] - 2021-12-01
 ### Added

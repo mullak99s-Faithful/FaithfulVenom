@@ -8,6 +8,15 @@ GitHub: https://github.com/mullak99s-Faithful/FaithfulVenom
 
 -----------------------------------------------------------------------------------------------------------
 
+=== Disclamer ===
+
+These credits are taken from the 1.18 version of the pack. Files may be mentioned that do not exist
+in this version of the pack, or have been renamed in the updates between.
+
+The filenames *should* still be similar enough to figure out.
+
+-----------------------------------------------------------------------------------------------------------
+
 === Notes ===
 
 Licence's from Vattic, Classic Faithful 32x, Compliance, and mullak99 can be found within the License.txt file.

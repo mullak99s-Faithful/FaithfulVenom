@@ -1,13 +1,14 @@
 # Changelog
 All notable changes to FaithfulVenom: Bedrock will be documented in this file.
 
-## [Bedrock 1.18-r4] - TBC
+## [Bedrock 1.18-r4] - 2022-01-22
 ### Added
 - Added some missing textures
 
 ### Changed
 - Included changes from 1.18-r4
 - Replaced Compliance's bed item textures with CF's
+- Replaced some UI textures
 
 ### Removed
 - Removed some unused textures

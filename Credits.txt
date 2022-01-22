@@ -38,6 +38,5 @@ Exceptions to these are:
 - Bed Item Textures: Classic Faithful 32x
 - Fireworks Charge: Classic Faithful 32x
 - Weather: Classic Faithful 32x
-- Spyglass Entity: Classic Faithful 32x
 
 -----------------------------------------------------------------------------------------------------------

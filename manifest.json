@@ -3,9 +3,9 @@
   "header": {
     "description": "by AntVenom, Classic Faithful, Compliance, mullak99 & Tidmouth",
     "min_engine_version": [ 1, 17, 0 ],
-    "name": "FaithfulVenom 32x 1.18-r4 (Beta 2)",
+    "name": "FaithfulVenom 32x 1.18-r4",
     "uuid": "7124df9b-8ef0-4c14-8bc0-9a93677d0f69",
-    "version": [ 1, 3, 2 ]
+    "version": [ 1, 4, 0 ]
   },
   "metadata": {
       "authors": [ "AntVenom", "Classic Faithful", "Compliance", "mullak99", "Tidmouth" ],

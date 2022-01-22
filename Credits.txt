@@ -140,8 +140,8 @@ mullak99: https://faithful.mullak99.co.uk/
 	blue_stained_glass_pane_top.png (block/blue_stained_glass_pane_top.png): Vattic
 	blue_terracotta.png (block/blue_terracotta.png): CF
 	blue_wool.png (block/blue_wool.png): CF
-	bone_block_side.png (block/bone_block_side.png): CF
-	bone_block_top.png (block/bone_block_top.png): CF
+	bone_block_side.png (block/bone_block_side.png): CF (PA)
+	bone_block_top.png (block/bone_block_top.png): CF (PA)
 	bookshelf.png (block/bookshelf.png): Vattic
 	brain_coral.png (block/brain_coral.png): CF
 	brain_coral_block.png (block/brain_coral_block.png): CF
@@ -520,7 +520,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	magenta_stained_glass_pane_top.png (block/magenta_stained_glass_pane_top.png): Vattic
 	magenta_terracotta.png (block/magenta_terracotta.png): CF
 	magenta_wool.png (block/magenta_wool.png): CF
-	magma.png (block/magma.png): CF
+	magma.png (block/magma.png): CF (PA)
 	medium_amethyst_bud.png (block/medium_amethyst_bud.png): CF
 	melon_side.png (block/melon_side.png): CF (PA)
 	melon_stem.png (block/melon_stem.png): Vattic
@@ -537,7 +537,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	nether_bricks.png (block/nether_bricks.png): Vattic
 	nether_gold_ore.png (block/nether_gold_ore.png): mullak99
 	nether_portal.png (block/nether_portal.png): Vattic
-	nether_quartz_ore.png (block/nether_quartz_ore.png): Vattic
+	nether_quartz_ore.png (block/nether_quartz_ore.png): CF (PA)
 	nether_sprouts.png (block/nether_sprouts.png): CF
 	nether_wart_block.png (block/nether_wart_block.png): Based on HARAG0N's (Edited by mullak99)
 	nether_wart_stage0.png (block/nether_wart_stage0.png): Vattic
@@ -742,7 +742,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	smooth_basalt.png (block/smooth_basalt.png): CF
 	smooth_stone.png (block/smooth_stone.png): CF (PA)
 	smooth_stone_slab_side.png (block/smooth_stone_slab_side.png): CF (PA)
-	snow.png (block/snow.png): Vattic
+	snow.png (block/snow.png): CF (PA)
 	soul_campfire_fire.png (block/soul_campfire_fire.png): CF
 	soul_campfire_log_lit.png (block/soul_campfire_log_lit.png): mullak99 (Based on CF's)
 	soul_fire_0.png (block/soul_fire_0.png): CF
@@ -1204,17 +1204,17 @@ mullak99: https://faithful.mullak99.co.uk/
 	mutton.png (item/mutton.png): Vattic
 	name_tag.png (item/name_tag.png): Vattic
 	nautilus_shell.png (item/nautilus_shell.png): CF
-	netherite_axe.png (item/netherite_axe.png): mullak99
+	netherite_axe.png (item/netherite_axe.png): mullak99 (CF's as a base)
 	netherite_boots.png (item/netherite_boots.png): mullak99
 	netherite_chestplate.png (item/netherite_chestplate.png): mullak99
 	netherite_helmet.png (item/netherite_helmet.png): mullak99
-	netherite_hoe.png (item/netherite_hoe.png): mullak99
+	netherite_hoe.png (item/netherite_hoe.png): mullak99 (CF's as a base)
 	netherite_ingot.png (item/netherite_ingot.png): mullak99
 	netherite_leggings.png (item/netherite_leggings.png): mullak99
-	netherite_pickaxe.png (item/netherite_pickaxe.png): mullak99
+	netherite_pickaxe.png (item/netherite_pickaxe.png): mullak99 (CF's as a base)
 	netherite_scrap.png (item/netherite_scrap.png): CF
-	netherite_shovel.png (item/netherite_shovel.png): mullak99
-	netherite_sword.png (item/netherite_sword.png): mullak99
+	netherite_shovel.png (item/netherite_shovel.png): mullak99 (CF's as a base)
+	netherite_sword.png (item/netherite_sword.png): mullak99 (CF's as a base)
 	nether_brick.png (item/nether_brick.png): CF
 	nether_sprouts.png (item/nether_sprouts.png): CF
 	nether_star.png (item/nether_star.png): CF (PA)
@@ -1363,7 +1363,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	[All Banner pattern textures (except Mojang)]: Compliance
 	mojang.png (entity/banner/mojang.png): Delio#9779
 	polarbear.png (entity/bear/polarbear.png): CF
-	[All Bed textures]: mullak99 (using CF & Vattic beds)
+	[All Bed textures]: CF (PA)
 	bee.png (entity/bee/bee.png): CF
 	bee_angry.png (entity/bee/bee_angry.png): CF
 	bee_angry_nectar.png (entity/bee/bee_angry_nectar.png): CF
@@ -1409,7 +1409,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	dragon.png (entity/enderdragon/dragon.png): Vattic
 	dragon_exploding.png (entity/enderdragon/dragon_exploding.png): Vattic
 	dragon_eyes.png (entity/enderdragon/dragon_eyes.png): Vattic
-	dragon_fireball.png (entity/enderdragon/dragon_fireball.png): mullak99 (Tweaked Vattic Fire Charge)
+	dragon_fireball.png (entity/enderdragon/dragon_fireball.png): CF (PA)
 	enderman.png (entity/enderman/enderman.png): Vattic
 	enderman_eyes.png (entity/enderman/enderman_eyes.png): Vattic
 	end_crystal.png (entity/end_crystal/end_crystal.png): CF
@@ -1506,7 +1506,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	parrot_red_blue.png (entity/parrot/parrot_red_blue.png): CF
 	parrot_yellow_blue.png (entity/parrot/parrot_yellow_blue.png): CF
 	pig.png (entity/pig/pig.png): CF (PA)
-	pig_saddle.png (entity/pig/pig_saddle.png): CF
+	pig_saddle.png (entity/pig/pig_saddle.png): CF (PA)
 	piglin.png (entity/piglin/piglin.png): CF
 	piglin_brute.png (entity/piglin/piglin_brute.png): CF
 	zombified_piglin.png (entity/piglin/zombified_piglin.png): CF

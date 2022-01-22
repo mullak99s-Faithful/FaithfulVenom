@@ -1,10 +1,11 @@
 # Changelog
 All notable changes to FaithfulVenom will be documented in this file.
 
-## [1.18-r4] - TBC
+## [1.18-r4] - 2022-01-22
 ### Changed
 - Replaced various textures with Vattic's
 - Replaced various textures with CF (PA)'s
+- Improved some existing textures (Powder Snow, Powder Snow Bucket, Netherite Tools)
 
 ## [1.18-r3] - 2021-12-22
 ### Added/Changed

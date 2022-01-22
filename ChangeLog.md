@@ -1,9 +1,76 @@
 # Changelog
 All notable changes to FaithfulVenom will be documented in this file.
 
+## [1.16-r7] - 2022-01-22
+### Changed
+- Included changes from 1.18-r4
+
 ## [1.16-r6] - 2021-12-22
 ### Added/Changed/Fixed/Removed
 - Backported from 1.17-r6
+
+## [1.17-r6] - 2021-12-22
+### Changed
+- Changed Crimson Trapdoor texture
+- Changed Sea Lantern texture
+- Replaced more textures with Vattic's
+- Reworked some existing textures to fit Vattic's
+
+## [1.17-r5] - 2021-12-18
+### Changed
+- Replaced placeholder Zombie Villager types
+- Replaced all book textures
+- Replaced all Observer textures
+- Updated Armorer and Weaponsmith Zombie Villager textures
+- Changes to Slowness & Invisibility mob_effects
+- Changes to all armour item textures
+- Replaced various item textures with Vattic versions
+- Minor changes to Blaze Powder
+- Minor changes to Painting back texture
+- Minor changes to Furnace textures
+- Minor changes to Minecart-related item models
+
+## [1.17-r4] - 2021-12-01
+### Added
+- Added Axolotl entity texture
+- Added Fabric GUI textures
+- Added Optifine UI texture
+- Added custom Deepslate Ore model and textures
+- Added various Emissive textures
+- Added "AntVenom" banner/shield pattern (Replaces Mojang) (Created by Delio#9779)
+- Added Credits (See Credits.txt, contact mullak99 if any of them are incorrect)
+- Added Illager font
+- Added Otherside Music disc
+
+### Changed
+- Reworked UI (Buttons)
+- Replaced Corner Rail model
+- Replaced Carrot and Golden carrot textures
+- Replaced Bone texture
+- Changed 1.9+ textures from Faithful's to EM32D or Compliance's
+- Changed some 1.8- textures from Faithful's to EM32D's
+- Changed Frosted Ice block textures
+- Changed Blue Ice block texture
+- Changed Crimson and Warped door textures and models
+- Changed Crimson and Warped trapdoor textures and models
+- Changed Dark Oak trapdoor textures and models
+- Changed Rail textures and models
+- Changed Ladder model
+- Changed Water textures to be like they were Pre-1.13
+- Changed stripped log top textures
+- Changed Panorama Background (fixes some issues, uses updated Ladder texture)
+- Changed Totem of Undying
+- Changed Stonecutter 3D model
+- Changed Sugar Cane model to match new texture
+- Changed Powder Snow texture
+- Changed Shulker textures
+- Minor changes to various door models
+- Reworked models to fit new textures
+- Updated Inventory GUI
+- Reorganised Optifine CTM folder
+- Reorganised CTM (moved '/entity/3dmodels' into '/ctm')
+- Compressed more textures
+>>>>>>> origin/1.17
 
 ## [1.16-r5] - 2021-12-18
 ### Added/Changed/Fixed/Removed

@@ -1,7 +1,7 @@
 # Changelog
 All notable changes to FaithfulVenom will be documented in this file.
 
-## [1.12-r5] - TBC
+## [1.12-r5] - 2022-01-22
 ### Changed
 - Included changes from 1.18-r4
 

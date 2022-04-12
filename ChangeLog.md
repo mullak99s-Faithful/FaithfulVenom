@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to FaithfulVenom will be documented in this file.
 
+## [1.18-r5] - TBC
+### Changed
+- Replaced various textures with CF (PA)'s
+- Replaced License (uses updated licenses from mullak99's Faithful, Faithful, and Classic Faithful)
+
 ## [1.18-r4] - 2022-01-22
 ### Changed
 - Replaced various textures with Vattic's

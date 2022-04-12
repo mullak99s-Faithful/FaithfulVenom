@@ -3,8 +3,8 @@
 	"parent": "block/block",
 	"textures": {
 		"bottom": "block/observer_back",
-		"side": "block/observer_side",
-		"top": "block/observer_top",
+		"side": "ctm/observer/observer_side_off",
+		"top": "ctm/observer/observer_top_off",
 		"particle": "block/observer_front",
 		"front": "block/observer_front"
 	},

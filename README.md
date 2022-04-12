@@ -1,6 +1,6 @@
 # FaithfulVenom 32x
 
-**Latest 1.18.x Version:** [_1.18-r4_](https://drive.google.com/file/d/1eG6bS_ouEPlvyIAf2-mATa6gDUIZ3ikd/view?usp=sharing) | [Git Branch](https://github.com/mullak99s-Faithful/FaithfulVenom/tree/1.18)    
+**Latest 1.18.x Version:** [_1.18-r5_DEV220412-1_](https://builds.mullak99.co.uk/FaithfulVenom/1.18/Dev-Builds/FaithfulVenom-32x-1.18-r5_DEV220412-1.zip) | [Git Branch](https://github.com/mullak99s-Faithful/FaithfulVenom/tree/1.18)    
 **Latest 1.17.x Version:** [_1.17-r7_](https://drive.google.com/file/d/1lLwAvqDH_JpZf70ztXRscwD27OCdBA0_/view?usp=sharing) | [Git Branch](https://github.com/mullak99s-Faithful/FaithfulVenom/tree/1.17)  
 **Latest 1.16.x Version:** [_1.16-r7_](https://drive.google.com/file/d/1evi-YK1boW03QuIVrzFOR9P0j7c2XA6-/view?usp=sharing) | [Git Branch](https://github.com/mullak99s-Faithful/FaithfulVenom/tree/1.16)  
 **Latest 1.15.x Version:** [_1.15-r6_](https://drive.google.com/file/d/1N2Wb1AZvYJDt2rhxgFfYQa7whXHMdZ-X/view?usp=sharing) | [Git Branch](https://github.com/mullak99s-Faithful/FaithfulVenom/tree/1.15)  
@@ -26,6 +26,6 @@ Issues: https://github.com/mullak99s-Faithful/FaithfulVenom/issues
 
 [AntVenom](https://antvenom.com/) for FaithfulVenom  
 [Vattic](https://web.archive.org/web/20150607220656/http://www.minecraftforum.net:80/forums/mapping-and-modding/resource-packs/1223254-faithful-32x32-pack-update-red-cat-clay-1-8) for creating the original Faithful 32x (Pre-1.9 textures)  
-[Classic Faithful](https://github.com/ClassicFaithful) for creating Classic Faithful 32x (Post-1.9 textures)  
-[Compliance Team](https://compliancepack.net/) for creating the Compliance pack (Post-1.9 textures, typically placeholders for CF)  
+[Classic Faithful](https://github.com/ClassicFaithful) for creating the Classic Faithful packs (Post-1.9 textures)  
+[Faithful Team](https://faithfulpack.net/) for creating the Faithful pack (Banner/Shield Patterns, Fonts, etc.)  
 [mullak99](https://faithful.mullak99.co.uk/) for maintaining FaithfulVenom (and for the 3D models + some progart textures)   

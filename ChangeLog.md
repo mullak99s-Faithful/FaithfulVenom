@@ -1,13 +1,21 @@
 # Changelog
 All notable changes to FaithfulVenom: Bedrock will be documented in this file.
 
+## [Bedrock 1.18-r5] - 2022-06-12
+### Added
+- Added more UI textures from Faithful (Bedrock)
+- Added some missing textures
+
+### Changed
+- Included changes from 1.18-r5
+
 ## [Bedrock 1.18-r4] - 2022-01-22
 ### Added
 - Added some missing textures
 
 ### Changed
 - Included changes from 1.18-r4
-- Replaced Compliance's bed item textures with CF's
+- Replaced Faithful's bed item textures with CF's
 - Replaced some UI textures
 
 ### Removed

@@ -10,7 +10,7 @@ GitHub: https://github.com/mullak99s-Faithful/FaithfulVenom
 
 === Notes ===
 
-Licence's from Vattic, Classic Faithful 32x, Compliance, and mullak99 can be found within the License.txt file.
+Licence's from Vattic, Classic Faithful 32x, Faithful, and mullak99 can be found within the License.txt file.
 
 -----------------------------------------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ Licence's from Vattic, Classic Faithful 32x, Compliance, and mullak99 can be fou
 
 Vattic: https://web.archive.org/web/20150607220656/http://www.minecraftforum.net:80/forums/mapping-and-modding/resource-packs/1223254-faithful-32x32-pack-update-red-cat-clay-1-8
 Classic Faithful 32x: https://github.com/classicfaithful/classic-faithful-32x
-Compliance: https://compliancepack.net/
+Faithful: https://faithfulpack.net/
 FaithfulVenom: https://antvenom.com/files
 mullak99: https://faithful.mullak99.co.uk/
 
@@ -34,7 +34,7 @@ GitHub Repo: https://github.com/mullak99s-Faithful/FaithfulVenom
 
 Exceptions to these are:  
 
-- Bedrock UI Textures: Compliance
+- Bedrock UI Textures: Faithful 32x
 - Bed Item Textures: Classic Faithful 32x
 - Fireworks Charge: Classic Faithful 32x
 - Weather: Classic Faithful 32x

@@ -1,9 +1,13 @@
 # Changelog
 All notable changes to FaithfulVenom will be documented in this file.
 
+## [1.10-r6] - 2022-06-12
+### Fixed
+- Backported from 1.11-r6
+
 ## [1.10-r5] - 2022-01-29
 ### Fixed
-- Fixed broken/missing Lilypad model(s)
+- Backported from 1.11-r5
 
 ## [1.10-r4] - 2022-01-22
 ### Added/Changed/Fixed/Removed

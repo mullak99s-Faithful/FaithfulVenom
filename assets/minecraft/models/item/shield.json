@@ -2,7 +2,7 @@
 	"credit": "Created by mullak99",
     "parent": "builtin/entity",
     "textures": {
-        "particle": "block/dark_oak_planks"
+        "particle": "blocks/planks_big_oak"
     },
     "display": {
         "thirdperson_righthand": {

@@ -1,7 +1,7 @@
 # Changelog
 All notable changes to FaithfulVenom will be documented in this file.
 
-## [1.18-r5] - TBC
+## [1.18-r5] - 2022-06-12
 ### Changed
 - Replaced various textures with CF (PA)'s
 - Replaced License (uses updated licenses from mullak99's Faithful, Faithful, and Classic Faithful)
@@ -57,7 +57,7 @@ All notable changes to FaithfulVenom will be documented in this file.
 - Added Optifine UI texture
 - Added custom Deepslate Ore model and textures
 - Added various Emissive textures
-- Added "AntVenom" banner/shield pattern (Replaces Mojang) (Created by Delio#9779)
+- Added "AntVenom" banner/shield pattern (Replaces Mojang) (Created by Vita#3490)
 - Added Credits (See Credits.txt, contact mullak99 if any of them are incorrect)
 - Added Illager font
 - Added Otherside Music disc

@@ -1,6 +1,16 @@
 # Changelog
 All notable changes to FaithfulVenom will be documented in this file.
 
+## [1.12-r7] - 2022-05-21
+### Changed
+- Included changes from 1.18-r5
+- Made Panorama Overlay transparant
+
+### Fixed
+- Fixed broken item model with the Jukebox
+- Fixed broken Powered Rail (On) 3D model
+- Fixed broken Shield particles
+
 ## [1.12-r6] - 2022-01-29
 ### Fixed
 - Fixed broken/missing Lilypad model(s)

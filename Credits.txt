@@ -221,7 +221,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	cobweb.png (block/cobweb.png): Vattic
 	cocoa_stage0.png (block/cocoa_stage0.png): Vattic
 	cocoa_stage1.png (block/cocoa_stage1.png): Vattic
-	cocoa_stage2.png (block/cocoa_stage2.png): Vattic
+	cocoa_stage2.png (block/cocoa_stage2.png): CF (PA)
 	command_block_back.png (block/command_block_back.png): CF (PA)
 	command_block_conditional.png (block/command_block_conditional.png): CF (PA)
 	command_block_front.png (block/command_block_front.png): CF (PA)
@@ -371,6 +371,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	flowering_azalea_side.png (block/flowering_azalea_side.png): CF
 	flowering_azalea_top.png (block/flowering_azalea_top.png): CF
 	flower_pot.png (block/flower_pot.png): Vattic
+	frogspawn.png (block/frogspawn.png): CF
 	frosted_ice_0.png (block/frosted_ice_0.png): mullak99
 	frosted_ice_1.png (block/frosted_ice_1.png): mullak99
 	frosted_ice_2.png (block/frosted_ice_2.png): mullak99
@@ -521,6 +522,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	magenta_terracotta.png (block/magenta_terracotta.png): CF
 	magenta_wool.png (block/magenta_wool.png): CF
 	magma.png (block/magma.png): CF (PA)
+	mangrove_planks.png (block/mangrove_planks): CF (PA)
 	medium_amethyst_bud.png (block/medium_amethyst_bud.png): CF
 	melon_side.png (block/melon_side.png): CF (PA)
 	melon_stem.png (block/melon_stem.png): Vattic
@@ -528,6 +530,8 @@ mullak99: https://faithful.mullak99.co.uk/
 	mossy_cobblestone.png (block/mossy_cobblestone.png): Vattic
 	mossy_stone_bricks.png (block/mossy_stone_bricks.png): Vattic
 	moss_block.png (block/moss_block.png): CF
+	mud.png (block/mud.png): CF (PA)
+	mud_bricks.png (block/mud_bricks.png): CF (PA)
 	mushroom_block_inside.png (block/mushroom_block_inside.png): Vattic
 	mushroom_stem.png (block/mushroom_stem.png): Vattic
 	mycelium_side.png (block/mycelium_side.png): Vattic
@@ -876,14 +880,14 @@ mullak99: https://faithful.mullak99.co.uk/
 	yellow_wool.png (block/yellow_wool.png): CF
 
 	== Minecraft [Item] (/assets/minecraft/textures/item) ==
-	acacia_boat.png (item/acacia_boat.png): CF
+	[All Boat item textures (inc. Chest Boat)]: CF (PA)
 	acacia_door.png (item/acacia_door.png): CF
 	acacia_sign.png (item/acacia_sign.png): CF
 	amethyst_shard.png (item/amethyst_shard.png): CF
 	apple.png (item/apple.png): Vattic
 	armor_stand.png (item/armor_stand.png): Vattic
 	arrow.png (item/arrow.png): Vattic
-	axolotl_bucket.png (item/axolotl_bucket.png): Vattic + CF
+	axolotl_bucket.png (item/axolotl_bucket.png): mullak99, Vattic & Evorp
 	baked_potato.png (item/baked_potato.png): Vattic
 	bamboo.png (item/bamboo.png): CF
 	barrier.png (item/barrier.png): CF
@@ -892,7 +896,6 @@ mullak99: https://faithful.mullak99.co.uk/
 	beetroot_seeds.png (item/beetroot_seeds.png): CF (PA)
 	beetroot_soup.png (item/beetroot_soup.png): CF (PA)
 	bell.png (item/bell.png): CF
-	birch_boat.png (item/birch_boat.png): CF
 	birch_door.png (item/birch_door.png): CF
 	birch_sign.png (item/birch_sign.png): CF
 	black_candle.png (item/black_candle.png): CF
@@ -915,7 +918,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	broken_elytra.png (item/broken_elytra.png): CF (PA)
 	brown_candle.png (item/brown_candle.png): CF
 	brown_dye.png (item/brown_dye.png): CF
-	bucket.png (item/bucket.png): Vattic
+	bucket.png (item/bucket.png): mullak99, Vattic & Evorp
 	bundle.png (item/bundle.png): CF
 	bundle_filled.png (item/bundle_filled.png): CF
 	cake.png (item/cake.png): Vattic
@@ -934,108 +937,14 @@ mullak99: https://faithful.mullak99.co.uk/
 	chicken.png (item/chicken.png): CF (PA)
 	chorus_fruit.png (item/chorus_fruit.png): CF
 	clay_ball.png (item/clay_ball.png): Vattic
-	clock_00.png (item/clock_00.png): Vattic
-	clock_01.png (item/clock_01.png): Vattic
-	clock_02.png (item/clock_02.png): Vattic
-	clock_03.png (item/clock_03.png): Vattic
-	clock_04.png (item/clock_04.png): Vattic
-	clock_05.png (item/clock_05.png): Vattic
-	clock_06.png (item/clock_06.png): Vattic
-	clock_07.png (item/clock_07.png): Vattic
-	clock_08.png (item/clock_08.png): Vattic
-	clock_09.png (item/clock_09.png): Vattic
-	clock_10.png (item/clock_10.png): Vattic
-	clock_11.png (item/clock_11.png): Vattic
-	clock_12.png (item/clock_12.png): Vattic
-	clock_13.png (item/clock_13.png): Vattic
-	clock_14.png (item/clock_14.png): Vattic
-	clock_15.png (item/clock_15.png): Vattic
-	clock_16.png (item/clock_16.png): Vattic
-	clock_17.png (item/clock_17.png): Vattic
-	clock_18.png (item/clock_18.png): Vattic
-	clock_19.png (item/clock_19.png): Vattic
-	clock_20.png (item/clock_20.png): Vattic
-	clock_21.png (item/clock_21.png): Vattic
-	clock_22.png (item/clock_22.png): Vattic
-	clock_23.png (item/clock_23.png): Vattic
-	clock_24.png (item/clock_24.png): Vattic
-	clock_25.png (item/clock_25.png): Vattic
-	clock_26.png (item/clock_26.png): Vattic
-	clock_27.png (item/clock_27.png): Vattic
-	clock_28.png (item/clock_28.png): Vattic
-	clock_29.png (item/clock_29.png): Vattic
-	clock_30.png (item/clock_30.png): Vattic
-	clock_31.png (item/clock_31.png): Vattic
-	clock_32.png (item/clock_32.png): Vattic
-	clock_33.png (item/clock_33.png): Vattic
-	clock_34.png (item/clock_34.png): Vattic
-	clock_35.png (item/clock_35.png): Vattic
-	clock_36.png (item/clock_36.png): Vattic
-	clock_37.png (item/clock_37.png): Vattic
-	clock_38.png (item/clock_38.png): Vattic
-	clock_39.png (item/clock_39.png): Vattic
-	clock_40.png (item/clock_40.png): Vattic
-	clock_41.png (item/clock_41.png): Vattic
-	clock_42.png (item/clock_42.png): Vattic
-	clock_43.png (item/clock_43.png): Vattic
-	clock_44.png (item/clock_44.png): Vattic
-	clock_45.png (item/clock_45.png): Vattic
-	clock_46.png (item/clock_46.png): Vattic
-	clock_47.png (item/clock_47.png): Vattic
-	clock_48.png (item/clock_48.png): Vattic
-	clock_49.png (item/clock_49.png): Vattic
-	clock_50.png (item/clock_50.png): Vattic
-	clock_51.png (item/clock_51.png): Vattic
-	clock_52.png (item/clock_52.png): Vattic
-	clock_53.png (item/clock_53.png): Vattic
-	clock_54.png (item/clock_54.png): Vattic
-	clock_55.png (item/clock_55.png): Vattic
-	clock_56.png (item/clock_56.png): Vattic
-	clock_57.png (item/clock_57.png): Vattic
-	clock_58.png (item/clock_58.png): Vattic
-	clock_59.png (item/clock_59.png): Vattic
-	clock_60.png (item/clock_60.png): Vattic
-	clock_61.png (item/clock_61.png): Vattic
-	clock_62.png (item/clock_62.png): Vattic
-	clock_63.png (item/clock_63.png): Vattic
+	[All Clock textures]: Vattic
 	coal.png (item/coal.png): Vattic
 	cocoa_beans.png (item/cocoa_beans.png): Vattic
 	cod.png (item/cod.png): Vattic
-	cod_bucket.png (item/cod_bucket.png): Vattic + CF
+	cod_bucket.png (item/cod_bucket.png): mullak99, Vattic & Evorp
 	command_block_minecart.png (item/command_block_minecart.png): CF
 	comparator.png (item/comparator.png): Vattic
-	compass_00.png (item/compass_00.png): Vattic
-	compass_01.png (item/compass_01.png): Vattic
-	compass_02.png (item/compass_02.png): Vattic
-	compass_03.png (item/compass_03.png): Vattic
-	compass_04.png (item/compass_04.png): Vattic
-	compass_05.png (item/compass_05.png): Vattic
-	compass_06.png (item/compass_06.png): Vattic
-	compass_07.png (item/compass_07.png): Vattic
-	compass_08.png (item/compass_08.png): Vattic
-	compass_09.png (item/compass_09.png): Vattic
-	compass_10.png (item/compass_10.png): Vattic
-	compass_11.png (item/compass_11.png): Vattic
-	compass_12.png (item/compass_12.png): Vattic
-	compass_13.png (item/compass_13.png): Vattic
-	compass_14.png (item/compass_14.png): Vattic
-	compass_15.png (item/compass_15.png): Vattic
-	compass_16.png (item/compass_16.png): Vattic
-	compass_17.png (item/compass_17.png): Vattic
-	compass_18.png (item/compass_18.png): Vattic
-	compass_19.png (item/compass_19.png): Vattic
-	compass_20.png (item/compass_20.png): Vattic
-	compass_21.png (item/compass_21.png): Vattic
-	compass_22.png (item/compass_22.png): Vattic
-	compass_23.png (item/compass_23.png): Vattic
-	compass_24.png (item/compass_24.png): Vattic
-	compass_25.png (item/compass_25.png): Vattic
-	compass_26.png (item/compass_26.png): Vattic
-	compass_27.png (item/compass_27.png): Vattic
-	compass_28.png (item/compass_28.png): Vattic
-	compass_29.png (item/compass_29.png): Vattic
-	compass_30.png (item/compass_30.png): Vattic
-	compass_31.png (item/compass_31.png): Vattic
+	[All Compass textures]: Vattic
 	cooked_beef.png (item/cooked_beef.png): Vattic
 	cooked_chicken.png (item/cooked_chicken.png): CF (PA)
 	cooked_cod.png (item/cooked_cod.png): Vattic
@@ -1056,7 +965,6 @@ mullak99: https://faithful.mullak99.co.uk/
 	crossbow_standby.png (item/crossbow_standby.png): CF
 	cyan_candle.png (item/cyan_candle.png): CF
 	cyan_dye.png (item/cyan_dye.png): CF
-	dark_oak_boat.png (item/dark_oak_boat.png): CF
 	dark_oak_door.png (item/dark_oak_door.png): CF
 	dark_oak_sign.png (item/dark_oak_sign.png): CF
 	diamond.png (item/diamond.png): Vattic
@@ -1070,8 +978,10 @@ mullak99: https://faithful.mullak99.co.uk/
 	diamond_pickaxe.png (item/diamond_pickaxe.png): CF (PA)
 	diamond_shovel.png (item/diamond_shovel.png): Vattic
 	diamond_sword.png (item/diamond_sword.png): Vattic
+	disc_fragment_5.png (item/disc_fragment_5.png): CF (PA)
 	dragon_breath.png (item/dragon_breath.png): mullak99 (using Vattic and CF textures)
 	dried_kelp.png (item/dried_kelp.png): CF
+	echo_shard.png (item/echo_shard.png): CF
 	egg.png (item/egg.png): Vattic
 	elytra.png (item/elytra.png): CF (PA)
 	emerald.png (item/emerald.png): CF (PA)
@@ -1108,6 +1018,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	glow_berries.png (item/glow_berries.png): CF
 	glow_ink_sac.png (item/glow_ink_sac.png): mullak99
 	glow_item_frame.png (item/glow_item_frame.png): mullak99
+	goat_horn.png (item/goat_horn.png): CF
 	golden_apple.png (item/golden_apple.png): Vattic
 	golden_axe.png (item/golden_axe.png): Vattic
 	golden_boots.png (item/golden_boots.png): Vattic
@@ -1147,14 +1058,13 @@ mullak99: https://faithful.mullak99.co.uk/
 	iron_shovel.png (item/iron_shovel.png): Vattic
 	iron_sword.png (item/iron_sword.png): Vattic
 	item_frame.png (item/item_frame.png): Vattic
-	jungle_boat.png (item/jungle_boat.png): CF
 	jungle_door.png (item/jungle_door.png): CF
 	jungle_sign.png (item/jungle_sign.png): CF
 	kelp.png (item/kelp.png): CF
 	knowledge_book.png (item/knowledge_book.png): CF
 	lantern.png (item/lantern.png): CF
 	lapis_lazuli.png (item/lapis_lazuli.png): CF
-	lava_bucket.png (item/lava_bucket.png): Vattic
+	lava_bucket.png (item/lava_bucket.png): mullak99, Vattic & Evorp
 	lead.png (item/lead.png): Vattic
 	leather.png (item/leather.png): Vattic
 	leather_boots.png (item/leather_boots.png): Vattic
@@ -1192,11 +1102,12 @@ mullak99: https://faithful.mullak99.co.uk/
 	lingering_potion.png (item/lingering_potion.png): CF
 	magenta_candle.png (item/magenta_candle.png): CF
 	magenta_dye.png (item/magenta_dye.png): CF
+	mangrove_sign.png (item/mangrove_sign.png): CF (PA)
 	magma_cream.png (item/magma_cream.png): Vattic
 	map.png (item/map.png): Vattic
 	melon_seeds.png (item/melon_seeds.png): Vattic
 	melon_slice.png (item/melon_slice.png): Vattic
-	milk_bucket.png (item/milk_bucket.png): Vattic
+	milk_bucket.png (item/milk_bucket.png): mullak99, Vattic & Evorp
 	minecart.png (item/minecart.png): Vattic
 	mojang_banner_pattern.png (item/mojang_banner_pattern.png): CF (AntVenom logo by Vita#3490)
 	mushroom_stew.png (item/mushroom_stew.png): CF (PA)
@@ -1219,9 +1130,9 @@ mullak99: https://faithful.mullak99.co.uk/
 	nether_sprouts.png (item/nether_sprouts.png): CF
 	nether_star.png (item/nether_star.png): CF (PA)
 	nether_wart.png (item/nether_wart.png): Vattic
-	oak_boat.png (item/oak_boat.png): CF
 	oak_door.png (item/oak_door.png): CF
 	oak_sign.png (item/oak_sign.png): CF
+	[All Froglight textures]: CF
 	orange_candle.png (item/orange_candle.png): CF
 	orange_dye.png (item/orange_dye.png): CF (PA)
 	painting.png (item/painting.png): Vattic
@@ -1237,11 +1148,11 @@ mullak99: https://faithful.mullak99.co.uk/
 	potato.png (item/potato.png): Vattic
 	potion.png (item/potion.png): Vattic
 	potion_overlay.png (item/potion_overlay.png): CF (PA)
-	powder_snow_bucket.png (item/powder_snow_bucket.png): mullak99
+	powder_snow_bucket.png (item/powder_snow_bucket.png): mullak99, Vattic & Evorp
 	prismarine_crystals.png (item/prismarine_crystals.png): Vattic
 	prismarine_shard.png (item/prismarine_shard.png): Vattic
 	pufferfish.png (item/pufferfish.png): CF
-	pufferfish_bucket.png (item/pufferfish_bucket.png): Vattic
+	pufferfish_bucket.png (item/pufferfish_bucket.png): mullak99, Vattic & Evorp
 	pumpkin_pie.png (item/pumpkin_pie.png): Vattic
 	pumpkin_seeds.png (item/pumpkin_seeds.png): Vattic
 	purple_candle.png (item/purple_candle.png): CF
@@ -1254,6 +1165,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	raw_copper.png (item/raw_copper.png): CF
 	raw_gold.png (item/raw_gold.png): CF
 	raw_iron.png (item/raw_iron.png): CF
+	[All Recovery Compass textures]: CF
 	redstone.png (item/redstone.png): Vattic
 	red_candle.png (item/red_candle.png): CF
 	red_dye.png (item/red_dye.png): CF
@@ -1261,7 +1173,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	rotten_flesh.png (item/rotten_flesh.png): Vattic
 	saddle.png (item/saddle.png): Vattic
 	salmon.png (item/salmon.png): Vattic
-	salmon_bucket.png (item/salmon_bucket.png): Vattic
+	salmon_bucket.png (item/salmon_bucket.png): mullak99, Vattic & Evorp
 	scute.png (item/scute.png): CF
 	seagrass.png (item/seagrass.png): CF
 	sea_pickle.png (item/sea_pickle.png): CF
@@ -1277,7 +1189,6 @@ mullak99: https://faithful.mullak99.co.uk/
 	spectral_arrow.png (item/spectral_arrow.png): CF
 	spider_eye.png (item/spider_eye.png): CF (PA)
 	splash_potion.png (item/splash_potion.png): Vattic (modified by mullak99)
-	spruce_boat.png (item/spruce_boat.png): CF
 	spruce_door.png (item/spruce_door.png): CF
 	spruce_sign.png (item/spruce_sign.png): CF
 	spyglass.png (item/spyglass.png): CF
@@ -1294,19 +1205,20 @@ mullak99: https://faithful.mullak99.co.uk/
 	sugar_cane.png (item/sugar_cane.png): Vattic
 	suspicious_stew.png (item/suspicious_stew.png): CF
 	sweet_berries.png (item/sweet_berries.png): CF
+	tadpole_bucket.png (item/tadpole_bucket.png): mullak99, Vattic & Evorp
 	tipped_arrow_base.png (item/tipped_arrow_base.png): CF
 	tipped_arrow_head.png (item/tipped_arrow_head.png): CF
 	tnt_minecart.png (item/tnt_minecart.png): Vattic
 	totem_of_undying.png (item/totem_of_undying.png): Based on CF's (Stal added by AntVenom)
 	trident.png (item/trident.png): CF
 	tropical_fish.png (item/tropical_fish.png): CF
-	tropical_fish_bucket.png (item/tropical_fish_bucket.png): CF
+	tropical_fish_bucket.png (item/tropical_fish_bucket.png): mullak99, Vattic & Evorp
 	turtle_egg.png (item/turtle_egg.png): CF
 	turtle_helmet.png (item/turtle_helmet.png): CF
 	warped_door.png (item/warped_door.png): CF
 	warped_fungus_on_a_stick.png (item/warped_fungus_on_a_stick.png): CF (PA)
 	warped_sign.png (item/warped_sign.png): CF
-	water_bucket.png (item/water_bucket.png): Vattic
+	water_bucket.png (item/water_bucket.png): mullak99, Vattic & Evorp
 	wheat.png (item/wheat.png): Vattic
 	wheat_seeds.png (item/wheat_seeds.png): Vattic
 	white_candle.png (item/white_candle.png): CF
@@ -1355,6 +1267,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	witch.png (entity/witch.png): CF
 	witch_e.png (entity/witch_e.png): mullak99
 	wood.png (entity/armorstand/wood.png): Vattic
+	allay.png (entity/allay/allay.png): CF
 	axolotl_blue.png (entity/axolotl/axolotl_blue.png): CF
 	axolotl_cyan.png (entity/axolotl/axolotl_cyan.png): CF
 	axolotl_gold.png (entity/axolotl/axolotl_gold.png): CF
@@ -1370,7 +1283,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	bee_nectar.png (entity/bee/bee_nectar.png): CF
 	bee_stinger.png (entity/bee/bee_stinger.png): CF
 	bell_body.png (entity/bell/bell_body.png): CF
-	[All Boat textures]: mullak99 (Planks from Vattic, Moss from CF (PA))
+	[All Boat textures]: mullak99 (Planks from Vattic [Except Mangrove, which is CF (PA)], Moss from CF (PA))
 	all_black.png (entity/cat/all_black.png): CF
 	black.png (entity/cat/black.png): CF
 	british_shorthair.png (entity/cat/british_shorthair.png): CF
@@ -1693,6 +1606,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	birch.png (ctm/boats/birch.png): mullak99 (Planks from Vattic, Moss from CF (PA))
 	dark_oak.png (ctm/boats/dark_oak.png): mullak99 (Planks from Vattic, Moss from CF (PA))
 	jungle.png (ctm/boats/jungle.png): mullak99 (Planks from Vattic, Moss from CF (PA))
+	mangrove.png (ctm/boats/mangrove.png): mullak99 (Planks & Moss from CF (PA))
 	oak.png (ctm/boats/oak.png): mullak99 (Planks from Vattic, Moss from CF (PA))
 	spruce.png (ctm/boats/spruce.png): mullak99 (Planks from Vattic, Moss from CF (PA))
 	[All Door CTM]: mullak99
@@ -1725,7 +1639,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	[All Trapdoor CTM]: mullak99
 
 	== Minecraft [Particle] (/assets/minecraft/textures/particle) ==
-	[All are Vattic's or CF]
+	[All are Vattic's or CF/CF (PA)]
 
 	== Minecraft [Font] (/assets/minecraft/textures/font) ==
 	[All are from Faithful]

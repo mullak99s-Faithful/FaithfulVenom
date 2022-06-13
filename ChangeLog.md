@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to FaithfulVenom will be documented in this file.
 
+## [1.19-r1] - TBC
+### Added
+- Added 1.19 textures
+
 ## [1.18-r5] - 2022-06-12
 ### Changed
 - Replaced various textures with CF (PA)'s

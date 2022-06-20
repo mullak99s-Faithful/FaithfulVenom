@@ -522,7 +522,10 @@ mullak99: https://faithful.mullak99.co.uk/
 	magenta_terracotta.png (block/magenta_terracotta.png): CF
 	magenta_wool.png (block/magenta_wool.png): CF
 	magma.png (block/magma.png): CF (PA)
-	mangrove_planks.png (block/mangrove_planks): CF (PA)
+	mangrove_log.png (block/mangrove_log.png): CF (PA)
+	mangrove_log_top.png (block/mangrove_log_top.png): CF (PA)
+	mangrove_planks.png (block/mangrove_planks.png): CF (PA)
+	mangrove_propagule.png (block/mangrove_propagule.png: CF (PA)
 	medium_amethyst_bud.png (block/medium_amethyst_bud.png): CF
 	melon_side.png (block/melon_side.png): CF (PA)
 	melon_stem.png (block/melon_stem.png): Vattic
@@ -577,6 +580,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	oxidized_copper.png (block/oxidized_copper.png): CF
 	oxidized_cut_copper.png (block/oxidized_cut_copper.png): CF
 	packed_ice.png (block/packed_ice.png): Vattic
+	packed_mud.png (block/packed_mud.png): CF (PA)
 	peony_bottom.png (block/peony_bottom.png): CF (PA)
 	peony_top.png (block/peony_top.png): CF (PA)
 	pink_candle.png (block/pink_candle.png): CF
@@ -686,6 +690,9 @@ mullak99: https://faithful.mullak99.co.uk/
 	red_terracotta.png (block/red_terracotta.png): CF
 	red_tulip.png (block/red_tulip.png): CF
 	red_wool.png (block/red_wool.png): CF
+	reinforced_deepslate_bottom.png (block/reinforced_deepslate_bottom.png): CF (PA)
+	reinforced_deepslate_side.png (block/reinforced_deepslate_side.png): CF (PA)
+	reinforced_deepslate_top.png (block/reinforced_deepslate_top.png): CF (PA)
 	repeater.png (block/repeater.png): CF (PA)
 	repeater_on.png (block/repeater_on.png): CF (PA)
 	repeating_command_block_back.png (block/repeating_command_block_back.png): CF (PA)
@@ -1102,6 +1109,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	lingering_potion.png (item/lingering_potion.png): CF
 	magenta_candle.png (item/magenta_candle.png): CF
 	magenta_dye.png (item/magenta_dye.png): CF
+	mangrove_propagule.png (item/mangrove_propagule.png): CF (PA)
 	mangrove_sign.png (item/mangrove_sign.png): CF (PA)
 	magma_cream.png (item/magma_cream.png): Vattic
 	map.png (item/map.png): Vattic
@@ -1446,6 +1454,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	crimson_e.png (entity/signs/crimson_e.png): mullak99
 	dark_oak.png (entity/signs/dark_oak.png): CF
 	jungle.png (entity/signs/jungle.png): CF
+	mangrove.png (entity/signs/mangrove.png): CF (PA)
 	oak.png (entity/signs/oak.png): Vattic
 	spruce.png (entity/signs/spruce.png): CF
 	warped.png (entity/signs/warped.png): mullak99 (based on CF)

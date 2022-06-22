@@ -725,11 +725,15 @@ mullak99: https://faithful.mullak99.co.uk/
 	scaffolding_bottom.png (block/scaffolding_bottom.png): CF
 	scaffolding_side.png (block/scaffolding_side.png): CF
 	scaffolding_top.png (block/scaffolding_top.png): CF
+	sculk.png (block/sculk.png): CF
+	sculk_catalyst_top.png (block/sculk_catalyst_top.png): CF
 	sculk_sensor_bottom.png (block/sculk_sensor_bottom.png): CF
 	sculk_sensor_side.png (block/sculk_sensor_side.png): CF
 	sculk_sensor_tendril_active.png (block/sculk_sensor_tendril_active.png): CF
 	sculk_sensor_tendril_inactive.png (block/sculk_sensor_tendril_inactive.png): CF
 	sculk_sensor_top.png (block/sculk_sensor_top.png): CF
+	sculk_shrieker_side.png (block/sculk_shrieker_side.png): CF
+	sculk_shrieker_top.png (block/sculk_shrieker_top.png): CF
 	seagrass.png (block/seagrass.png): CF
 	sea_lantern.png (block/sea_lantern.png): CF (PA)
 	sea_pickle.png (block/sea_pickle.png): CF
@@ -781,19 +785,21 @@ mullak99: https://faithful.mullak99.co.uk/
 	stonecutter_top.png (block/stonecutter_top.png): mullak99 (using Vattic and CF textures)
 	stone_bricks.png (block/stone_bricks.png): Vattic
 	stripped_acacia_log.png (block/stripped_acacia_log.png): CF
-	stripped_acacia_log_top.png (block/stripped_acacia_log_top.png): CF
+	stripped_acacia_log_top.png (block/stripped_acacia_log_top.png): CF (PA)
 	stripped_birch_log.png (block/stripped_birch_log.png): CF
-	stripped_birch_log_top.png (block/stripped_birch_log_top.png): CF
+	stripped_birch_log_top.png (block/stripped_birch_log_top.png): CF (PA)
 	stripped_crimson_stem.png (block/stripped_crimson_stem.png): CF
 	stripped_crimson_stem_top.png (block/stripped_crimson_stem_top.png): CF (PA)
 	stripped_dark_oak_log.png (block/stripped_dark_oak_log.png): CF
-	stripped_dark_oak_log_top.png (block/stripped_dark_oak_log_top.png): CF
+	stripped_dark_oak_log_top.png (block/stripped_dark_oak_log_top.png): CF (PA)
 	stripped_jungle_log.png (block/stripped_jungle_log.png): CF
-	stripped_jungle_log_top.png (block/stripped_jungle_log_top.png): CF
+	stripped_jungle_log_top.png (block/stripped_jungle_log_top.png): CF (PA)
+	stripped_mangrove_log.png (block/stripped_mangrove_log.png): CF (PA)
+	stripped_mangrove_log_top.png (block/stripped_mangrove_log_top.png): CF (PA)
 	stripped_oak_log.png (block/stripped_oak_log.png): CF
-	stripped_oak_log_top.png (block/stripped_oak_log_top.png): CF
+	stripped_oak_log_top.png (block/stripped_oak_log_top.png): CF (PA)
 	stripped_spruce_log.png (block/stripped_spruce_log.png): CF
-	stripped_spruce_log_top.png (block/stripped_spruce_log_top.png): CF
+	stripped_spruce_log_top.png (block/stripped_spruce_log_top.png): CF (PA)
 	stripped_warped_stem.png (block/stripped_warped_stem.png): CF
 	stripped_warped_stem_top.png (block/stripped_warped_stem_top.png): CF (PA)
 	structure_block.png (block/structure_block.png): CF
@@ -1292,6 +1298,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	bee_stinger.png (entity/bee/bee_stinger.png): CF
 	bell_body.png (entity/bell/bell_body.png): CF
 	[All Boat textures]: mullak99 (Planks from Vattic [Except Mangrove, which is CF (PA)], Moss from CF (PA))
+	[All Chest Boat textures]: mullak99 (Planks from Vattic [Except Mangrove, which is CF (PA)], Moss from CF (PA))
 	all_black.png (entity/cat/all_black.png): CF
 	black.png (entity/cat/black.png): CF
 	british_shorthair.png (entity/cat/british_shorthair.png): CF
@@ -1550,6 +1557,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	options_background.png (gui/options_background.png): Vattic
 	recipe_book.png (gui/recipe_book.png): CF
 	recipe_button.png (gui/recipe_button.png): CF
+	report_button.png (gui/report_button.png): mullak99
 	resource_packs.png (gui/resource_packs.png): CF
 	server_selection.png (gui/server_selection.png): CF
 	social_interactions.png (gui/social_interactions.png): mullak99 & CF

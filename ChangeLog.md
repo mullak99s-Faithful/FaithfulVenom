@@ -5,6 +5,10 @@ All notable changes to FaithfulVenom will be documented in this file.
 ### Added
 - Added 1.19 textures
 
+### Changed
+- Changed cocoa_stage2 UV (to reflect model fix in 1.19)
+- Changed bamboo_stage0
+
 ## [1.18-r5] - 2022-06-12
 ### Changed
 - Replaced various textures with CF (PA)'s

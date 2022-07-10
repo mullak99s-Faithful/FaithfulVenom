@@ -8,6 +8,12 @@ All notable changes to FaithfulVenom will be documented in this file.
 ### Changed
 - Changed cocoa_stage2 UV (to reflect model fix in 1.19)
 - Changed bamboo_stage0
+- Changed End Stone Bricks texture
+- Changed Farmland textures
+- Changed Tripwire texture
+- Changed Stray texture
+- Changed Birch Trapdoor texture and model
+- Changed Shroomlight texture
 
 ## [1.18-r5] - 2022-06-12
 ### Changed

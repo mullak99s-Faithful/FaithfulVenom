@@ -111,7 +111,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	birch_log_top.png (block/birch_log_top.png): Vattic
 	birch_planks.png (block/birch_planks.png): Vattic
 	birch_sapling.png (block/birch_sapling.png): CF (PA)
-	birch_trapdoor.png (block/birch_trapdoor.png): mullak99
+	birch_trapdoor.png (block/birch_trapdoor.png): CF (PA)
 	blackstone.png (block/blackstone.png): CF
 	blackstone_top.png (block/blackstone_top.png): CF
 	black_candle.png (block/black_candle.png): CF
@@ -356,8 +356,8 @@ mullak99: https://faithful.mullak99.co.uk/
 	end_stone_bricks.png (block/end_stone_bricks.png): CF (PA)
 	exposed_copper.png (block/exposed_copper.png): CF
 	exposed_cut_copper.png (block/exposed_cut_copper.png): CF
-	farmland.png (block/farmland.png): Vattic
-	farmland_moist.png (block/farmland_moist.png): Vattic
+	farmland.png (block/farmland.png): CF (PA)
+	farmland_moist.png (block/farmland_moist.png): CF (PA)
 	fern.png (block/fern.png): Vattic
 	fire_0.png (block/fire_0.png): Vattic
 	fire_1.png (block/fire_1.png): Vattic
@@ -525,7 +525,10 @@ mullak99: https://faithful.mullak99.co.uk/
 	mangrove_log.png (block/mangrove_log.png): CF (PA)
 	mangrove_log_top.png (block/mangrove_log_top.png): CF (PA)
 	mangrove_planks.png (block/mangrove_planks.png): CF (PA)
-	mangrove_propagule.png (block/mangrove_propagule.png: CF (PA)
+	mangrove_propagule.png (block/mangrove_propagule.png): CF (PA)
+	mangrove_propagule_hanging.png (block/mangrove_propagule_hanging.png): CF (PA)
+	mangrove_roots_side.png (block/mangrove_roots_side.png): CF (PA)
+	mangrove_roots_top.png (block/mangrove_roots_side.png): CF (PA)
 	medium_amethyst_bud.png (block/medium_amethyst_bud.png): CF
 	melon_side.png (block/melon_side.png): CF (PA)
 	melon_stem.png (block/melon_stem.png): Vattic
@@ -726,18 +729,26 @@ mullak99: https://faithful.mullak99.co.uk/
 	scaffolding_side.png (block/scaffolding_side.png): CF
 	scaffolding_top.png (block/scaffolding_top.png): CF
 	sculk.png (block/sculk.png): CF
+	sculk_catalyst_bottom.png (block/sculk_catalyst_bottom.png): CF
+	sculk_catalyst_side.png (block/sculk_catalyst_side.png): CF
+	sculk_catalyst_side_bloom.png (block/sculk_catalyst_side_bloom.png): CF
 	sculk_catalyst_top.png (block/sculk_catalyst_top.png): CF
+	sculk_catalyst_top_bloom.png (block/sculk_catalyst_top_bloom.png): CF
 	sculk_sensor_bottom.png (block/sculk_sensor_bottom.png): CF
 	sculk_sensor_side.png (block/sculk_sensor_side.png): CF
 	sculk_sensor_tendril_active.png (block/sculk_sensor_tendril_active.png): CF
 	sculk_sensor_tendril_inactive.png (block/sculk_sensor_tendril_inactive.png): CF
 	sculk_sensor_top.png (block/sculk_sensor_top.png): CF
+	sculk_shrieker_bottom.png (block/sculk_shrieker_bottom.png): CF
+	sculk_shrieker_can_summon_inner_top.png (block/sculk_shrieker_can_summon_inner_top.png): CF
+	sculk_shrieker_inner_top.png (block/sculk_shrieker_inner_top.png): CF
 	sculk_shrieker_side.png (block/sculk_shrieker_side.png): CF
 	sculk_shrieker_top.png (block/sculk_shrieker_top.png): CF
+	sculk_vein.png (block/sculk_vein.png): CF
 	seagrass.png (block/seagrass.png): CF
 	sea_lantern.png (block/sea_lantern.png): CF (PA)
 	sea_pickle.png (block/sea_pickle.png): CF
-	shroomlight.png (block/shroomlight.png): CF
+	shroomlight.png (block/shroomlight.png): CF (PA)
 	shulker_box.png (block/shulker_box.png): CF
 	slime_block.png (block/slime_block.png): Vattic
 	small_amethyst_bud.png (block/small_amethyst_bud.png): CF
@@ -828,7 +839,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	tnt_side.png (block/tnt_side.png): Vattic
 	tnt_top.png (block/tnt_top.png): Vattic
 	torch.png (block/torch.png): Vattic
-	tripwire.png (block/tripwire.png): CF
+	tripwire.png (block/tripwire.png): CF (PA)
 	tripwire_hook.png (block/tripwire_hook.png): Vattic
 	tube_coral.png (block/tube_coral.png): CF
 	tube_coral_block.png (block/tube_coral_block.png): CF
@@ -1115,6 +1126,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	lingering_potion.png (item/lingering_potion.png): CF
 	magenta_candle.png (item/magenta_candle.png): CF
 	magenta_dye.png (item/magenta_dye.png): CF
+	mangrove_door.png (item/mangrove_door.png): CF (PA)
 	mangrove_propagule.png (item/mangrove_propagule.png): CF (PA)
 	mangrove_sign.png (item/mangrove_sign.png): CF (PA)
 	magma_cream.png (item/magma_cream.png): Vattic
@@ -1363,6 +1375,9 @@ mullak99: https://faithful.mullak99.co.uk/
 	fox_sleep.png (entity/fox/fox_sleep.png): CF
 	snow_fox.png (entity/fox/snow_fox.png): CF
 	snow_fox_sleep.png (entity/fox/snow_fox_sleep.png): CF
+	cold_frog.png (entity/frog/cold_frog.png): CF
+	temperate_frog.png (entity/frog/temperate_frog.png): CF
+	warm_frog.png (entity/frog/warm_frog.png): CF
 	ghast.png (entity/ghast/ghast.png): CF
 	ghast_shooting.png (entity/ghast/ghast_shooting.png): CF
 	ghast_shooting_e.png (entity/ghast/ghast_shooting_e.png): mullak99
@@ -1467,7 +1482,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	warped.png (entity/signs/warped.png): mullak99 (based on CF)
 	warped_e.png (entity/signs/warped_e.png): mullak99
 	skeleton.png (entity/skeleton/skeleton.png): CF
-	stray.png (entity/skeleton/stray.png): CF
+	stray.png (entity/skeleton/stray.png): CF (PA)
 	stray_overlay.png (entity/skeleton/stray_overlay.png): CF (PA)
 	wither_skeleton.png (entity/skeleton/wither_skeleton.png): CF
 	magmacube.png (entity/slime/magmacube.png): CF (PA)

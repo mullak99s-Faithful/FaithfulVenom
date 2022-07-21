@@ -3,12 +3,12 @@
   "header": {
     "description": "by AntVenom, Classic Faithful, Faithful, mullak99 & Tidmouth",
     "min_engine_version": [ 1, 17, 0 ],
-    "name": "FaithfulVenom 32x 1.18-r5",
+    "name": "FaithfulVenom 32x 1.19-r1",
     "uuid": "7124df9b-8ef0-4c14-8bc0-9a93677d0f69",
-    "version": [ 1, 5, 0 ]
+    "version": [ 1, 6, 0 ]
   },
   "metadata": {
-      "authors": [ "AntVenom", "Classic Faithful", "Compliance", "mullak99", "Tidmouth" ],
+      "authors": [ "AntVenom", "Classic Faithful", "Faithful", "mullak99", "Tidmouth" ],
       "license": "https://github.com/mullak99s-Faithful/FaithfulVenom/License.md",
       "url": "https://antvenom.com/"
   },

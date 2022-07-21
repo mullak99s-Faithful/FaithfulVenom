@@ -1,6 +1,21 @@
 # Changelog
 All notable changes to FaithfulVenom: Bedrock will be documented in this file.
 
+## [Bedrock 1.19-r1] - 2022-07-18
+### Added
+- Added 1.19 textures
+
+### Changed
+- Changed bamboo_sapling texture
+- Changed End Stone Bricks texture
+- Changed Farmland textures
+- Changed Stray texture
+- Changed Shroomlight texture
+- Changes to Cauldron UV
+- Changes to Barrel top textures
+- Changes to Tall Grass and Grass textures
+- Changes to Leather Armour textures
+
 ## [Bedrock 1.18-r5] - 2022-06-12
 ### Added
 - Added more UI textures from Faithful (Bedrock)

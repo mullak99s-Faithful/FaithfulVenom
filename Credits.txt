@@ -111,7 +111,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	birch_log_top.png (block/birch_log_top.png): Vattic
 	birch_planks.png (block/birch_planks.png): Vattic
 	birch_sapling.png (block/birch_sapling.png): CF (PA)
-	birch_trapdoor.png (block/birch_trapdoor.png): CF (PA)
+	birch_trapdoor.png (block/birch_trapdoor.png): mullak99
 	blackstone.png (block/blackstone.png): CF
 	blackstone_top.png (block/blackstone_top.png): CF
 	black_candle.png (block/black_candle.png): CF
@@ -187,10 +187,10 @@ mullak99: https://faithful.mullak99.co.uk/
 	cartography_table_side3.png (block/cartography_table_side3.png): CF (PA)
 	cartography_table_top.png (block/cartography_table_top.png): CF (PA)
 	carved_pumpkin.png (block/carved_pumpkin.png): CF (PA)
-	cauldron_bottom.png (block/cauldron_bottom.png): Vattic
+	cauldron_bottom.png (block/cauldron_bottom.png): CF (PA)
 	cauldron_inner.png (block/cauldron_inner.png): Vattic
-	cauldron_side.png (block/cauldron_side.png): Vattic
-	cauldron_top.png (block/cauldron_top.png): Vattic
+	cauldron_side.png (block/cauldron_side.png): CF (PA)
+	cauldron_top.png (block/cauldron_top.png): CF (PA)
 	cave_vines.png (block/cave_vines.png): CF
 	cave_vines_lit.png (block/cave_vines_lit.png): CF
 	cave_vines_plant.png (block/cave_vines_plant.png): CF
@@ -389,7 +389,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	gold_block.png (block/gold_block.png): CF (PA)
 	gold_ore.png (block/gold_ore.png): Vattic
 	granite.png (block/granite.png): Vattic
-	grass.png (block/grass.png): Vattic
+	grass.png (block/grass.png): CF (PA)
 	grass_block_side.png (block/grass_block_side.png): Vattic
 	grass_block_side_overlay.png (block/grass_block_side_overlay.png): Vattic
 	grass_block_snow.png (block/grass_block_snow.png): Vattic
@@ -522,13 +522,16 @@ mullak99: https://faithful.mullak99.co.uk/
 	magenta_terracotta.png (block/magenta_terracotta.png): CF
 	magenta_wool.png (block/magenta_wool.png): CF
 	magma.png (block/magma.png): CF (PA)
+	mangrove_door_bottom.png (block/mangrove_door_bottom.png): CF
+	mangrove_door_top.png (block/mangrove_door_top.png): CF
 	mangrove_log.png (block/mangrove_log.png): CF (PA)
 	mangrove_log_top.png (block/mangrove_log_top.png): CF (PA)
+	mangrove_trapdoor.png (block/mangrove_trapdoor.png): CF
 	mangrove_planks.png (block/mangrove_planks.png): CF (PA)
-	mangrove_propagule.png (block/mangrove_propagule.png): CF (PA)
-	mangrove_propagule_hanging.png (block/mangrove_propagule_hanging.png): CF (PA)
-	mangrove_roots_side.png (block/mangrove_roots_side.png): CF (PA)
-	mangrove_roots_top.png (block/mangrove_roots_side.png): CF (PA)
+	mangrove_propagule.png (block/mangrove_propagule.png): CF
+	mangrove_propagule_hanging.png (block/mangrove_propagule_hanging.png): CF
+	mangrove_roots_side.png (block/mangrove_roots_side.png): CF
+	mangrove_roots_top.png (block/mangrove_roots_side.png): CF
 	medium_amethyst_bud.png (block/medium_amethyst_bud.png): CF
 	melon_side.png (block/melon_side.png): CF (PA)
 	melon_stem.png (block/melon_stem.png): Vattic
@@ -827,8 +830,8 @@ mullak99: https://faithful.mullak99.co.uk/
 	sweet_berry_bush_stage1.png (block/sweet_berry_bush_stage1.png): CF
 	sweet_berry_bush_stage2.png (block/sweet_berry_bush_stage2.png): CF
 	sweet_berry_bush_stage3.png (block/sweet_berry_bush_stage3.png): CF
-	tall_grass_bottom.png (block/tall_grass_bottom.png): Vattic
-	tall_grass_top.png (block/tall_grass_top.png): Vattic
+	tall_grass_bottom.png (block/tall_grass_bottom.png): CF (PA)
+	tall_grass_top.png (block/tall_grass_top.png): CF (PA)
 	tall_seagrass_bottom.png (block/tall_seagrass_bottom.png): CF
 	tall_seagrass_top.png (block/tall_seagrass_top.png): CF
 	target_side.png (block/target_side.png): CF
@@ -1091,14 +1094,14 @@ mullak99: https://faithful.mullak99.co.uk/
 	lava_bucket.png (item/lava_bucket.png): mullak99, Vattic & Evorp
 	lead.png (item/lead.png): Vattic
 	leather.png (item/leather.png): Vattic
-	leather_boots.png (item/leather_boots.png): Vattic
+	leather_boots.png (item/leather_boots.png): CF (PA)
 	leather_boots_overlay.png (item/leather_boots_overlay.png): Vattic
 	leather_chestplate.png (item/leather_chestplate.png): Vattic
 	leather_chestplate_overlay.png (item/leather_chestplate_overlay.png): Vattic
-	leather_helmet.png (item/leather_helmet.png): Vattic
+	leather_helmet.png (item/leather_helmet.png): CF (PA)
 	leather_helmet_overlay.png (item/leather_helmet_overlay.png): Vattic
 	leather_horse_armor.png (item/leather_horse_armor.png): CF
-	leather_leggings.png (item/leather_leggings.png): Vattic
+	leather_leggings.png (item/leather_leggings.png): CF (PA)
 	leather_leggings_overlay.png (item/leather_leggings_overlay.png): Vattic
 	light.png (item/light.png): CF
 	light_00.png (item/light_00.png): CF
@@ -1523,6 +1526,11 @@ mullak99: https://faithful.mullak99.co.uk/
 	snow.png (entity/villager/type/snow.png): CF
 	swamp.png (entity/villager/type/swamp.png): CF
 	taiga.png (entity/villager/type/taiga.png): CF
+	warden.png (entity/warden/warden.png): CF
+	warden_bioluminescent_layer.png (entity/warden/warden_bioluminescent_layer.png): CF
+	warden_heart.png (entity/warden/warden_heart.png): CF
+	warden_pulsating_spots_1.png (entity/warden/warden_pulsating_spots_1.png): CF
+	warden_pulsating_spots_2.png (entity/warden/warden_pulsating_spots_2.png): CF
 	wither.png (entity/wither/wither.png): CF
 	wither_armor.png (entity/wither/wither_armor.png): CF
 	wither_invulnerable.png (entity/wither/wither_invulnerable.png): CF
@@ -1568,7 +1576,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	book.png (gui/book.png): CF
 	checkbox.png (gui/checkbox.png): mullak99
 	demo_background.png (gui/demo_background.png): CF
-	icons.png (gui/icons.png): CF
+	icons.png (gui/icons.png): Evorp
 	options_background.png (gui/options_background.png): Vattic
 	recipe_book.png (gui/recipe_book.png): CF
 	recipe_button.png (gui/recipe_button.png): CF

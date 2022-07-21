@@ -1,7 +1,7 @@
 # Changelog
 All notable changes to FaithfulVenom will be documented in this file.
 
-## [1.19-r1] - TBC
+## [1.19-r1] - 2022-07-21
 ### Added
 - Added 1.19 textures
 
@@ -12,8 +12,15 @@ All notable changes to FaithfulVenom will be documented in this file.
 - Changed Farmland textures
 - Changed Tripwire texture
 - Changed Stray texture
-- Changed Birch Trapdoor texture and model
 - Changed Shroomlight texture
+- Changes to Cauldron UV
+- Changes to Barrel top textures
+- Changes to Tall Grass and Grass textures
+- Changes to Leather Armour textures
+
+### Fixed
+- Small model fixes on Oak and Iron trapdoors
+- Model fixes on Boat items
 
 ## [1.18-r5] - 2022-06-12
 ### Changed

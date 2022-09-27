@@ -912,7 +912,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	acacia_sign.png (item/acacia_sign.png): CF
 	amethyst_shard.png (item/amethyst_shard.png): CF
 	apple.png (item/apple.png): Vattic
-	armor_stand.png (item/armor_stand.png): Vattic
+	armor_stand.png (item/armor_stand.png): CF (PA)
 	arrow.png (item/arrow.png): Vattic
 	axolotl_bucket.png (item/axolotl_bucket.png): mullak99, Vattic & Evorp
 	baked_potato.png (item/baked_potato.png): Vattic
@@ -975,7 +975,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	cooked_beef.png (item/cooked_beef.png): Vattic
 	cooked_chicken.png (item/cooked_chicken.png): CF (PA)
 	cooked_cod.png (item/cooked_cod.png): Vattic
-	cooked_mutton.png (item/cooked_mutton.png): Vattic
+	cooked_mutton.png (item/cooked_mutton.png): CF (PA)
 	cooked_porkchop.png (item/cooked_porkchop.png): Vattic
 	cooked_rabbit.png (item/cooked_rabbit.png): Vattic
 	cooked_salmon.png (item/cooked_salmon.png): Vattic
@@ -1141,7 +1141,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	mojang_banner_pattern.png (item/mojang_banner_pattern.png): CF (AntVenom logo by Vita#3490)
 	mushroom_stew.png (item/mushroom_stew.png): CF (PA)
 	[All music discs]: CF (PA)
-	mutton.png (item/mutton.png): Vattic
+	mutton.png (item/mutton.png): CF (PA)
 	name_tag.png (item/name_tag.png): Vattic
 	nautilus_shell.png (item/nautilus_shell.png): CF
 	netherite_axe.png (item/netherite_axe.png): mullak99 (CF's as a base)
@@ -1288,7 +1288,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	shield_base_nopattern.png (entity/shield_base_nopattern.png): CF (PA)
 	silverfish.png (entity/silverfish.png): Vattic
 	snow_golem.png (entity/snow_golem.png): Vattic
-	spider_eyes.png (entity/spider_eyes.png): CF
+	spider_eyes.png (entity/spider_eyes.png): CF (PA)
 	steve.png (entity/steve.png): Vattic
 	trident.png (entity/trident.png): CF
 	trident_riptide.png (entity/trident_riptide.png): CF
@@ -1351,7 +1351,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	creeper_armor.png (entity/creeper/creeper_armor.png): Vattic
 	dragon.png (entity/enderdragon/dragon.png): Vattic
 	dragon_exploding.png (entity/enderdragon/dragon_exploding.png): Vattic
-	dragon_eyes.png (entity/enderdragon/dragon_eyes.png): Vattic
+	dragon_eyes.png (entity/enderdragon/dragon_eyes.png): CF (PA)
 	dragon_fireball.png (entity/enderdragon/dragon_fireball.png): CF (PA)
 	enderman.png (entity/enderman/enderman.png): Vattic
 	enderman_eyes.png (entity/enderman/enderman_eyes.png): Vattic
@@ -1781,6 +1781,7 @@ mullak99: https://faithful.mullak99.co.uk/
 
 	== Minecraft [Realms] (/assets/realms/textures) ==
 	accept_icon.png (realms/accept_icon.png): mullak99
+	checkmark.png (realms/checkmark.png): CF
 	configure_icon.png (realms/configure_icon.png): mullak99
 	cross_icon.png (realms/cross_icon.png): mullak99
 	cross_player_icon.png (realms/cross_player_icon.png): CF
@@ -1822,6 +1823,9 @@ mullak99: https://faithful.mullak99.co.uk/
 	configure_button.png (assets/modmenu/textures/gui/configure_button.png): mullak99
 	filters_button.png (assets/modmenu/textures/gui/filters_button.png): mullak99
 	parent_mod.png (assets/modmenu/textures/gui/parent_mod.png): mullak99
+	chat_status_icons.png (assets/nochatreports/textures/gui/chat_status_icons.png): mullak99
+	config_reload_button.png (assets/nochatreports/textures/gui/config_reload_button.png): mullak99
+	verified_server.png (assets/nochatreports/textures/gui/verified_server.png): mullak99
 	
 === Model Credits ===
 	[All 3D Models]: mullak99

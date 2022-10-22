@@ -4,9 +4,9 @@
 	"textures": {
 		"door": "block/birch_door_bottom",
 		"particle": "block/birch_door_bottom",
-		"side_bottom": "ctm/doors/birch/side_bottom",
-		"side_bottom_hinge": "ctm/doors/birch/side_bottom_hinge",
-		"bottom": "ctm/doors/birch/bottom"
+		"side_bottom": "m99-ctm:block/doors/birch/side_bottom",
+		"side_bottom_hinge": "m99-ctm:block/doors/birch/side_bottom_hinge",
+		"bottom": "m99-ctm:block/doors/birch/bottom"
 	},
 	"elements": [
 		{

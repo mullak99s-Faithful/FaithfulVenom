@@ -3,14 +3,14 @@
 	"parent": "item/template_door",
 	"textures": {
 		"door_bottom": "block/acacia_door_bottom",
-		"side_bottom_hinge": "ctm/doors/acacia/side_bottom_hinge",
-		"side_bottom": "ctm/doors/acacia/side_bottom",
-		"bottom": "ctm/doors/acacia/bottom",
+		"side_bottom_hinge": "m99-ctm:block/doors/acacia/side_bottom_hinge",
+		"side_bottom": "m99-ctm:block/doors/acacia/side_bottom",
+		"bottom": "m99-ctm:block/doors/acacia/bottom",
 		"particle": "block/acacia_door_top",
 		"door_top": "block/acacia_door_top",
-		"side_top": "ctm/doors/acacia/side_top",
-		"side_top_hinge": "ctm/doors/acacia/side_top_hinge",
-		"top": "ctm/doors/acacia/top"
+		"side_top": "m99-ctm:block/doors/acacia/side_top",
+		"side_top_hinge": "m99-ctm:block/doors/acacia/side_top_hinge",
+		"top": "m99-ctm:block/doors/acacia/top"
 	},
 	"elements": [
 		{

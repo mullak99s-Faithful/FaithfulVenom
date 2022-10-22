@@ -4,9 +4,9 @@
 	"textures": {
 		"particle": "block/crimson_door_bottom",
 		"door": "block/crimson_door_bottom",
-		"side_bottom_hinge": "ctm/doors/crimson/side_bottom_hinge",
-		"side_bottom": "ctm/doors/crimson/side_bottom",
-		"bottom": "ctm/doors/crimson/bottom"
+		"side_bottom_hinge": "m99-ctm:block/doors/crimson/side_bottom_hinge",
+		"side_bottom": "m99-ctm:block/doors/crimson/side_bottom",
+		"bottom": "m99-ctm:block/doors/crimson/bottom"
 	},
 	"elements": [
 		{

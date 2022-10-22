@@ -4,8 +4,8 @@
 	"textures": {
 		"particle": "block/detector_rail_on",
 		"rail": "block/detector_rail_on",
-		"sleeper_bottom": "ctm/rail/0",
-		"sleeper_top": "ctm/rail/1"
+		"sleeper_bottom": "m99-ctm:block/rail_sleeper",
+		"sleeper_top": "m99-ctm:block/detector_rail_sleeper_top"
 	},
 	"elements": [
 		{

@@ -7,7 +7,7 @@
 		"particle": "block/repeater_on",
 		"lit": "block/redstone_torch",
 		"lock": "block/bedrock",
-		"side": "ctm/repeater/side"
+		"side": "m99-ctm:block/repeater_side"
 	},
 	"elements": [
 		{

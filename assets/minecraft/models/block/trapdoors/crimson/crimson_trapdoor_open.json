@@ -4,8 +4,8 @@
 	"textures": {
 		"particle": "block/crimson_trapdoor",
 		"top": "block/crimson_trapdoor",
-		"front": "ctm/trapdoors/crimson/front",
-		"side": "ctm/trapdoors/crimson/side"
+		"front": "m99-ctm:block/trapdoors/crimson/front",
+		"side": "m99-ctm:block/trapdoors/crimson/side"
 	},
 	"elements": [
 		{

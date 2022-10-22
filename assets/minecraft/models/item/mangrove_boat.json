@@ -2,7 +2,7 @@
 	"credit": "Created by mullak99",
 	"parent": "item/template_boat",
 	"textures": {
-		"boat": "ctm/boats/mangrove",
-		"particle": "ctm/boats/mangrove"
+		"boat": "m99-ctm:item/boat/mangrove",
+		"particle": "m99-ctm:item/boat/mangrove"
 	}
 }

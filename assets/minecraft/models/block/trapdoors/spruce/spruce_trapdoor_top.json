@@ -4,8 +4,8 @@
 	"textures": {
 		"particle": "block/spruce_trapdoor",
 		"top": "block/spruce_trapdoor",
-		"front": "ctm/trapdoors/spruce/front",
-		"side": "ctm/trapdoors/spruce/side"
+		"front": "m99-ctm:block/trapdoors/spruce/front",
+		"side": "m99-ctm:block/trapdoors/spruce/side"
 	},
 	"elements": [
 		{

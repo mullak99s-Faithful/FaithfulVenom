@@ -6,7 +6,7 @@
 		"top": "block/repeater",
 		"particle": "block/repeater",
 		"unlit": "block/redstone_torch_off",
-		"side": "ctm/repeater/side"
+		"side": "m99-ctm:block/repeater_side"
 	},
 	"elements": [
 		{

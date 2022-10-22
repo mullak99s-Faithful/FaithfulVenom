@@ -4,13 +4,13 @@
 	"textures": {
 		"particle": "block/dark_oak_door_top",
 		"door_top": "block/dark_oak_door_top",
-		"side_top": "ctm/doors/dark_oak/side_top",
-		"side_top_hinge": "ctm/doors/dark_oak/side_top_hinge",
-		"top": "ctm/doors/dark_oak/top",
+		"side_top": "m99-ctm:block/doors/dark_oak/side_top",
+		"side_top_hinge": "m99-ctm:block/doors/dark_oak/side_top_hinge",
+		"top": "m99-ctm:block/doors/dark_oak/top",
 		"door_bottom": "block/dark_oak_door_bottom",
-		"bottom": "ctm/doors/dark_oak/bottom",
-		"side_bottom": "ctm/doors/dark_oak/side_bottom",
-		"side_bottom_hinge": "ctm/doors/dark_oak/side_bottom_hinge"
+		"bottom": "m99-ctm:block/doors/dark_oak/bottom",
+		"side_bottom": "m99-ctm:block/doors/dark_oak/side_bottom",
+		"side_bottom_hinge": "m99-ctm:block/doors/dark_oak/side_bottom_hinge"
 	},
 	"elements": [
 		{

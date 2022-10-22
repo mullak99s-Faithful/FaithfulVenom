@@ -4,9 +4,9 @@
 	"textures": {
 		"door": "block/iron_door_top",
 		"particle": "block/iron_door_top",
-		"side_top": "ctm/doors/iron/side_top",
-		"side_top_hinge": "ctm/doors/iron/side_top_hinge",
-		"top": "ctm/doors/iron/top"
+		"side_top": "m99-ctm:block/doors/iron/side_top",
+		"side_top_hinge": "m99-ctm:block/doors/iron/side_top_hinge",
+		"top": "m99-ctm:block/doors/iron/top"
 	},
 	"elements": [
 		{

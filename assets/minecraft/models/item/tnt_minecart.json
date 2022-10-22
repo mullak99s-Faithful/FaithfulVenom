@@ -3,7 +3,7 @@
 	"parent": "block/block",
 	"ambientocclusion": false,
 	"textures": {
-		"minecart": "ctm/minecarts/minecart",
+		"minecart": "m99-ctm:item/minecart",
 		"tnt_top": "block/tnt_top",
 		"particle": "block/tnt_side",
 		"tnt_side": "block/tnt_side"

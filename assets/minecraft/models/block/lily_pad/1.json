@@ -2,8 +2,8 @@
 	"credit": "Created by mullak99",
 	"ambientocclusion": false,
 	"textures": {
-		"texture": "ctm/lily_pad/1",
-		"particle": "ctm/lily_pad/1"
+		"texture": "m99-ctm:block/lily_pad_alt",
+		"particle": "m99-ctm:block/lily_pad_alt"
 	},
 	"elements": [
 		{

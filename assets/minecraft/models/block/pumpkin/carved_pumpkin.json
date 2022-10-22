@@ -4,7 +4,7 @@
     "textures": {
 		"particle": "block/carved_pumpkin",
 		"up": "block/pumpkin_top",
-		"down": "ctm/pumpkin/pumpkin_bottom",
+		"down": "m99-ctm:block/pumpkin_bottom",
 		"north": "block/carved_pumpkin",
 		"south": "block/pumpkin_side",
 		"west": "block/pumpkin_side",

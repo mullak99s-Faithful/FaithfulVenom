@@ -4,7 +4,7 @@
     "textures": {
 		"particle": "block/jack_o_lantern",
 		"up": "block/pumpkin_top",
-		"down": "ctm/pumpkin/pumpkin_bottom",
+		"down": "m99-ctm:block/pumpkin_bottom",
 		"north": "block/jack_o_lantern",
 		"south": "block/pumpkin_side",
 		"west": "block/pumpkin_side",

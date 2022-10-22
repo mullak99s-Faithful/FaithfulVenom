@@ -3,14 +3,14 @@
 	"parent": "item/template_door",
 	"textures": {
 		"door_bottom": "block/mangrove_door_bottom",
-		"bottom": "ctm/doors/mangrove/bottom",
-		"side_bottom": "ctm/doors/mangrove/side_bottom",
-		"side_bottom_hinge": "ctm/doors/mangrove/side_bottom_hinge",
+		"bottom": "m99-ctm:block/doors/mangrove/bottom",
+		"side_bottom": "m99-ctm:block/doors/mangrove/side_bottom",
+		"side_bottom_hinge": "m99-ctm:block/doors/mangrove/side_bottom_hinge",
 		"particle": "block/mangrove_door_top",
 		"door_top": "block/mangrove_door_top",
-		"side_top": "ctm/doors/mangrove/side_top",
-		"side_top_hinge": "ctm/doors/mangrove/side_top_hinge",
-		"top": "ctm/doors/mangrove/top"
+		"side_top": "m99-ctm:block/doors/mangrove/side_top",
+		"side_top_hinge": "m99-ctm:block/doors/mangrove/side_top_hinge",
+		"top": "m99-ctm:block/doors/mangrove/top"
 	},
 	"elements": [
 		{

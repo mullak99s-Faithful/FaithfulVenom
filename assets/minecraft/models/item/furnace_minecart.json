@@ -3,7 +3,7 @@
 	"parent": "block/block",
 	"ambientocclusion": false,
 	"textures": {
-		"minecart": "ctm/minecarts/minecart",
+		"minecart": "m99-ctm:item/minecart",
 		"furnace_front": "block/furnace_front",
 		"furnace_side": "block/furnace_side",
 		"furnace_top": "block/furnace_top"

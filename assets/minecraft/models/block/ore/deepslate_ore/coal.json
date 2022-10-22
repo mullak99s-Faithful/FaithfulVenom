@@ -2,7 +2,7 @@
 	"credit": "Created by mullak99",
 	"parent": "minecraft:block/cube_column",
 	"textures": {
-		"end": "ctm/ore/deepslate_ore_ends/coal",
+		"end": "m99-ctm:block/deepslate_ore_ends/coal",
 		"side": "block/deepslate_coal_ore"
 	}
 }

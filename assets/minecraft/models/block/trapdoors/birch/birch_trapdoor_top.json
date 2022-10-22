@@ -4,8 +4,8 @@
 	"textures": {
 		"particle": "block/birch_trapdoor",
 		"top": "block/birch_trapdoor",
-		"front": "ctm/trapdoors/birch/front",
-		"side": "ctm/trapdoors/birch/side"
+		"front": "m99-ctm:block/trapdoors/birch/front",
+		"side": "m99-ctm:block/trapdoors/birch/side"
 	},
 	"elements": [
 		{

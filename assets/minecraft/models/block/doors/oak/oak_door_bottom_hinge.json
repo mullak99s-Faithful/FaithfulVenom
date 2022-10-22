@@ -4,10 +4,10 @@
 	"textures": {
 		"particle": "block/oak_door_bottom",
 		"door": "block/oak_door_bottom",
-		"bottom": "ctm/doors/oak/bottom",
-		"side_bottom": "ctm/doors/oak/side_bottom",
-		"side_bottom_hinge": "ctm/doors/oak/side_bottom_hinge",
-		"top": "ctm/doors/oak/top"
+		"bottom": "m99-ctm:block/doors/oak/bottom",
+		"side_bottom": "m99-ctm:block/doors/oak/side_bottom",
+		"side_bottom_hinge": "m99-ctm:block/doors/oak/side_bottom_hinge",
+		"top": "m99-ctm:block/doors/oak/top"
 	},
 	"elements": [
 		{

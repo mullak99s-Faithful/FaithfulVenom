@@ -4,9 +4,9 @@
 	"textures": {
 		"door": "block/jungle_door_bottom",
 		"particle": "block/jungle_door_bottom",
-		"bottom": "ctm/doors/jungle/bottom",
-		"side_bottom": "ctm/doors/jungle/side_bottom",
-		"side_bottom_hinge": "ctm/doors/jungle/side_bottom_hinge"
+		"bottom": "m99-ctm:block/doors/jungle/bottom",
+		"side_bottom": "m99-ctm:block/doors/jungle/side_bottom",
+		"side_bottom_hinge": "m99-ctm:block/doors/jungle/side_bottom_hinge"
 	},
 	"elements": [
 		{

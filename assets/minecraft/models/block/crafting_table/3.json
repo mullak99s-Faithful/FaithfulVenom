@@ -5,8 +5,8 @@
         "down": "block/oak_planks",
         "up": "block/crafting_table_top",
         "north": "block/crafting_table_front",
-        "east": "ctm/crafting_table_side/3",
-        "south": "ctm/crafting_table_side/3",
+        "east": "m99-ctm:block/crafting_table_side_3",
+        "south": "m99-ctm:block/crafting_table_side_3",
         "west": "block/crafting_table_front"
     }
 }

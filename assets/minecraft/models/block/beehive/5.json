@@ -6,6 +6,6 @@
 		"bottom": "block/beehive_end",
 		"top": "block/beehive_end",
 		"front": "block/beehive_front_honey",
-		"side": "ctm/beehive/5"
+		"side": "m99-ctm:block/beehive_side_5"
 	}
 }

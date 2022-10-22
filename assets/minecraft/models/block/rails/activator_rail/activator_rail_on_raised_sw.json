@@ -4,7 +4,7 @@
 	"textures": {
 		"particle": "block/activator_rail_on",
 		"rail": "block/activator_rail_on",
-		"sleeper": "ctm/rail/0"
+		"sleeper": "m99-ctm:block/rail_sleeper"
 	},
 	"elements": [
 		{

@@ -7,7 +7,7 @@
 		"particle": "block/comparator",
 		"unlit": "block/redstone_torch_off",
 		"lit": "block/redstone_torch",
-		"side": "ctm/repeater/side"
+		"side": "m99-ctm:block/repeater_side"
 	},
 	"elements": [
 		{

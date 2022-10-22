@@ -4,9 +4,9 @@
 	"textures": {
 		"door": "block/dark_oak_door_top",
 		"particle": "block/dark_oak_door_top",
-		"side_top": "ctm/doors/dark_oak/side_top",
-		"side_top_hinge": "ctm/doors/dark_oak/side_top_hinge",
-		"top": "ctm/doors/dark_oak/top"
+		"side_top": "m99-ctm:block/doors/dark_oak/side_top",
+		"side_top_hinge": "m99-ctm:block/doors/dark_oak/side_top_hinge",
+		"top": "m99-ctm:block/doors/dark_oak/top"
 	},
 	"elements": [
 		{

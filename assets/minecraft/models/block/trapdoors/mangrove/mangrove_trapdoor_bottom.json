@@ -4,8 +4,8 @@
 	"textures": {
 		"particle": "block/mangrove_trapdoor",
 		"top": "block/mangrove_trapdoor",
-		"front": "ctm/trapdoors/mangrove/front",
-		"side": "ctm/trapdoors/mangrove/side"
+		"front": "m99-ctm:block/trapdoors/mangrove/front",
+		"side": "m99-ctm:block/trapdoors/mangrove/side"
 	},
 	"elements": [
 		{

@@ -3,14 +3,14 @@
 	"parent": "item/template_door",
 	"textures": {
 		"door_bottom": "block/jungle_door_bottom",
-		"bottom": "ctm/doors/jungle/bottom",
-		"side_bottom": "ctm/doors/jungle/side_bottom",
-		"side_bottom_hinge": "ctm/doors/jungle/side_bottom_hinge",
+		"bottom": "m99-ctm:block/doors/jungle/bottom",
+		"side_bottom": "m99-ctm:block/doors/jungle/side_bottom",
+		"side_bottom_hinge": "m99-ctm:block/doors/jungle/side_bottom_hinge",
 		"particle": "block/jungle_door_top",
 		"door_top": "block/jungle_door_top",
-		"side_top": "ctm/doors/jungle/side_top",
-		"side_top_hinge": "ctm/doors/jungle/side_top_hinge",
-		"top": "ctm/doors/jungle/top"
+		"side_top": "m99-ctm:block/doors/jungle/side_top",
+		"side_top_hinge": "m99-ctm:block/doors/jungle/side_top_hinge",
+		"top": "m99-ctm:block/doors/jungle/top"
 	},
 	"elements": [
 		{

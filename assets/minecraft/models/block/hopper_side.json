@@ -3,9 +3,9 @@
 	"ambientocclusion": false,
 	"textures": {
 		"top": "block/hopper_top",
-		"particle": "ctm/hopper/hopper_outside_arrow",
-		"side_arrow": "ctm/hopper/hopper_outside_arrow",
-		"inside": "ctm/hopper/hopper_inside_arrow",
+		"particle": "m99-ctm:block/hopper_outside_arrow",
+		"side_arrow": "m99-ctm:block/hopper_outside_arrow",
+		"inside": "m99-ctm:block/hopper_inside_arrow",
 		"side": "block/hopper_outside"
 	},
 	"elements": [

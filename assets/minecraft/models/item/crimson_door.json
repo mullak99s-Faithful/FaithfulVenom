@@ -3,14 +3,14 @@
 	"parent": "item/template_door",
 	"textures": {
 		"door_bottom": "block/crimson_door_bottom",
-		"bottom": "ctm/doors/crimson/bottom",
-		"side_bottom": "ctm/doors/crimson/side_bottom",
-		"side_bottom_hinge": "ctm/doors/crimson/side_bottom_hinge",
+		"bottom": "m99-ctm:block/doors/crimson/bottom",
+		"side_bottom": "m99-ctm:block/doors/crimson/side_bottom",
+		"side_bottom_hinge": "m99-ctm:block/doors/crimson/side_bottom_hinge",
 		"particle": "block/crimson_door_top",
 		"door_top": "block/crimson_door_top",
-		"side_top": "ctm/doors/crimson/side_top",
-		"side_top_hinge": "ctm/doors/crimson/side_top_hinge",
-		"top": "ctm/doors/crimson/top"
+		"side_top": "m99-ctm:block/doors/crimson/side_top",
+		"side_top_hinge": "m99-ctm:block/doors/crimson/side_top_hinge",
+		"top": "m99-ctm:block/doors/crimson/top"
 	},
 	"elements": [
 		{

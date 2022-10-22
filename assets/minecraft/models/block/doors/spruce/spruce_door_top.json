@@ -4,9 +4,9 @@
 	"textures": {
 		"door": "block/spruce_door_top",
 		"particle": "block/spruce_door_top",
-		"side_top": "ctm/doors/spruce/side_top",
-		"side_top_hinge": "ctm/doors/spruce/side_top_hinge",
-		"top": "ctm/doors/spruce/top"
+		"side_top": "m99-ctm:block/doors/spruce/side_top",
+		"side_top_hinge": "m99-ctm:block/doors/spruce/side_top_hinge",
+		"top": "m99-ctm:block/doors/spruce/top"
 	},
 	"elements": [
 		{

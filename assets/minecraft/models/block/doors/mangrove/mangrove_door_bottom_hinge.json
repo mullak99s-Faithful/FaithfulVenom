@@ -4,9 +4,9 @@
 	"textures": {
 		"particle": "block/mangrove_door_bottom",
 		"door": "block/mangrove_door_bottom",
-		"bottom": "ctm/doors/mangrove/bottom",
-		"side_bottom": "ctm/doors/mangrove/side_bottom",
-		"side_bottom_hinge": "ctm/doors/mangrove/side_bottom_hinge"
+		"bottom": "m99-ctm:block/doors/mangrove/bottom",
+		"side_bottom": "m99-ctm:block/doors/mangrove/side_bottom",
+		"side_bottom_hinge": "m99-ctm:block/doors/mangrove/side_bottom_hinge"
 	},
 	"elements": [
 		{

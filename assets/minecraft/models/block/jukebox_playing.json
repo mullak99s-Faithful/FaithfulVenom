@@ -3,7 +3,7 @@
 	"parent": "block/block",
 	"ambientocclusion": false,
 	"textures": {
-		"disc": "ctm/jukebox/disc",
+		"disc": "m99-ctm:block/jukebox_disc",
 		"particle": "block/jukebox_side",
 		"side": "block/jukebox_side",
 		"top": "block/jukebox_top"

@@ -2,7 +2,7 @@
 	"credit": "Created by mullak99",
 	"parent": "item/template_boat",
 	"textures": {
-		"boat": "ctm/boats/spruce",
-		"particle": "ctm/boats/spruce"
+		"boat": "m99-ctm:item/boat/spruce",
+		"particle": "m99-ctm:item/boat/spruce"
 	}
 }

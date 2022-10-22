@@ -4,8 +4,8 @@
 	"textures": {
 		"particle": "block/jungle_trapdoor",
 		"top": "block/jungle_trapdoor",
-		"front": "ctm/trapdoors/jungle/front",
-		"side": "ctm/trapdoors/jungle/side"
+		"front": "m99-ctm:block/trapdoors/jungle/front",
+		"side": "m99-ctm:block/trapdoors/jungle/side"
 	},
 	"elements": [
 		{

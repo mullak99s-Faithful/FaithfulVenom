@@ -7,7 +7,7 @@
 		"particle": "block/smoker_front",
 		"front": "block/smoker_front",
 		"side": "block/smoker_side",
-		"door": "ctm/smoker/smoker_door"
+		"door": "m99-ctm:block/smoker_door"
 	},
 	"elements": [
 		{

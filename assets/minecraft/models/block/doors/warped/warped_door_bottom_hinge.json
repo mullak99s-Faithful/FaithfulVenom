@@ -4,9 +4,9 @@
 	"textures": {
 		"particle": "block/warped_door_bottom",
 		"door": "block/warped_door_bottom",
-		"side_bottom_hinge": "ctm/doors/warped/side_bottom_hinge",
-		"side_bottom": "ctm/doors/warped/side_bottom",
-		"bottom": "ctm/doors/warped/bottom"
+		"side_bottom_hinge": "m99-ctm:block/doors/warped/side_bottom_hinge",
+		"side_bottom": "m99-ctm:block/doors/warped/side_bottom",
+		"bottom": "m99-ctm:block/doors/warped/bottom"
 	},
 	"elements": [
 		{

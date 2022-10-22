@@ -2,11 +2,11 @@
 	"credit": "Created by mullak99",
 	"ambientocclusion": false,
 	"textures": {
-		"side_top": "ctm/doors/acacia/side_top",
-		"side_top_hinge": "ctm/doors/acacia/side_top_hinge",
+		"side_top": "m99-ctm:block/doors/acacia/side_top",
+		"side_top_hinge": "m99-ctm:block/doors/acacia/side_top_hinge",
 		"door": "block/acacia_door_top",
 		"particle": "block/acacia_door_top",
-		"top": "ctm/doors/acacia/top"
+		"top": "m99-ctm:block/doors/acacia/top"
 	},
 	"elements": [
 		{

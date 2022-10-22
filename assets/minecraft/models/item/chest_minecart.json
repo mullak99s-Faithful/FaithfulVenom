@@ -1,9 +1,9 @@
 {
 	"credit": "Created by mullak99",
 	"textures": {
-		"minecart": "ctm/minecarts/minecart",
-		"particle": "entity/chest/normal",
-		"chest": "entity/chest/normal"
+		"minecart": "m99-ctm:item/minecart",
+		"particle": "m99-ctm:item/chest",
+		"chest": "m99-ctm:item/chest"
 	},
 	"elements": [
 		{

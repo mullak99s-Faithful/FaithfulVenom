@@ -4,9 +4,9 @@
 	"textures": {
 		"door": "block/acacia_door_top",
 		"particle": "block/acacia_door_top",
-		"side_top": "ctm/doors/acacia/side_top",
-		"side_top_hinge": "ctm/doors/acacia/side_top_hinge",
-		"top": "ctm/doors/acacia/top"
+		"side_top": "m99-ctm:block/doors/acacia/side_top",
+		"side_top_hinge": "m99-ctm:block/doors/acacia/side_top_hinge",
+		"top": "m99-ctm:block/doors/acacia/top"
 	},
 	"elements": [
 		{

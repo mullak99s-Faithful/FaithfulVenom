@@ -4,8 +4,8 @@
 	"textures": {
 		"particle": "block/dark_oak_trapdoor",
 		"top": "block/dark_oak_trapdoor",
-		"front": "ctm/trapdoors/dark_oak/front",
-		"side": "ctm/trapdoors/dark_oak/side"
+		"front": "m99-ctm:block/trapdoors/dark_oak/front",
+		"side": "m99-ctm:block/trapdoors/dark_oak/side"
 	},
 	"elements": [
 		{

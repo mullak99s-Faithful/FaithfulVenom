@@ -3,8 +3,8 @@
 	"textures": {
 		"particle": "block/rail_corner",
 		"rail": "block/rail_corner",
-		"sleeper_side": "ctm/rail/0",
-		"sleeper_bottom": "ctm/rail/2"
+		"sleeper_side": "m99-ctm:block/rail_sleeper",
+		"sleeper_bottom": "m99-ctm:block/rail_sleeper_corner"
 	},
 	"elements": [
 		{

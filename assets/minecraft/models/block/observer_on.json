@@ -4,8 +4,8 @@
 	"textures": {
 		"bottom": "block/observer_back_on",
 		"front": "block/observer_front",
-		"side": "ctm/observer/observer_side_on",
-		"top": "ctm/observer/observer_top_on"
+		"side": "m99-ctm:block/observer_side_on",
+		"top": "m99-ctm:block/observer_top_on"
 	},
 	"elements": [
 		{

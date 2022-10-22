@@ -6,7 +6,7 @@
 		"top": "block/comparator_on",
 		"particle": "block/comparator_on",
 		"lit": "block/redstone_torch",
-		"side": "ctm/repeater/side"
+		"side": "m99-ctm:block/repeater_side"
 	},
 	"elements": [
 		{

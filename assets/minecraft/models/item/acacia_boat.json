@@ -2,7 +2,7 @@
 	"credit": "Created by mullak99",
 	"parent": "item/template_boat",
 	"textures": {
-		"boat": "ctm/boats/acacia",
-		"particle": "ctm/boats/acacia"
+		"boat": "m99-ctm:item/boat/acacia",
+		"particle": "m99-ctm:item/boat/acacia"
 	}
 }

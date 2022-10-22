@@ -3,7 +3,7 @@
     "parent": "block/template_piston",
     "textures": {
         "bottom": "block/piston_bottom",
-        "side": "ctm/piston/piston_side_sticky",
+        "side": "m99-ctm:block/piston_side_sticky",
         "platform": "block/piston_top_sticky"
     }
 }

@@ -2,7 +2,7 @@
 	"credit": "Created by mullak99",
 	"parent": "block/block",
 	"textures": {
-		"minecart": "ctm/minecarts/minecart",
+		"minecart": "m99-ctm:item/minecart",
 		"particle": "block/command_block_front",
 		"command_block_front": "block/command_block_front",
 		"command_block_side": "block/command_block_side"

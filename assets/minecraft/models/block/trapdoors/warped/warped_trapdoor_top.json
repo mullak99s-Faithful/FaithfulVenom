@@ -4,8 +4,8 @@
 	"textures": {
 		"particle": "block/warped_trapdoor",
 		"top": "block/warped_trapdoor",
-		"front": "ctm/trapdoors/warped/front",
-		"side": "ctm/trapdoors/warped/side"
+		"front": "m99-ctm:block/trapdoors/warped/front",
+		"side": "m99-ctm:block/trapdoors/warped/side"
 	},
 	"elements": [
 		{

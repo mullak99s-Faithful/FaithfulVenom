@@ -8,9 +8,9 @@ All notable changes to FaithfulVenom will be documented in this file.
 
 ### Changed
 - Changed various textures (newer CF ones)
-
-### Fixed
 - Moved models folder (ctm) to work with >=1.19.3
+- Updated Creative Tabs to new format
+- Moved Steve and Alex textures to new directory
 
 ## [1.19-r1] - 2022-07-21
 ### Added

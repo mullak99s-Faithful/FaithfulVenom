@@ -1263,7 +1263,6 @@ mullak99: https://faithful.mullak99.co.uk/
 	yellow_dye.png (item/yellow_dye.png): CF (PA)
 
 	== Minecraft [Entity] (/assets/minecraft/textures/entity) ==
-	alex.png (entity/alex.png): Vattic
 	banner_base.png (entity/banner_base.png): CF
 	bat.png (entity/bat.png): CF
 	beacon_beam.png (entity/beacon_beam.png): CF
@@ -1289,7 +1288,6 @@ mullak99: https://faithful.mullak99.co.uk/
 	silverfish.png (entity/silverfish.png): Vattic
 	snow_golem.png (entity/snow_golem.png): Vattic
 	spider_eyes.png (entity/spider_eyes.png): CF (PA)
-	steve.png (entity/steve.png): Vattic
 	trident.png (entity/trident.png): CF
 	trident_riptide.png (entity/trident_riptide.png): CF
 	wandering_trader.png (entity/wandering_trader.png): CF
@@ -1456,6 +1454,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	piglin.png (entity/piglin/piglin.png): CF
 	piglin_brute.png (entity/piglin/piglin_brute.png): CF
 	zombified_piglin.png (entity/piglin/zombified_piglin.png): CF
+	[All Player textures] (entity/player): CF (PA)
 	arrow.png (entity/projectiles/arrow.png): CF
 	spectral_arrow.png (entity/projectiles/spectral_arrow.png): CF
 	tipped_arrow.png (entity/projectiles/tipped_arrow.png): CF
@@ -1812,9 +1811,8 @@ mullak99: https://faithful.mullak99.co.uk/
 
 	== Minecraft [OTHER (MC)] ==
 	icons.png (assets/minecraft/optifine/textures/icons.png): Faithful
-
-	== Minecraft [OTHER (Unknown)] ==
-	pack.png (pack.png): AntVenom
+	
+	== Minecraft [OTHER (Mods)] ==
 	icon.png (assets/fabric/icon.png): [UNKNOWN]
 	creative_buttons.png (assets/fabric/textures/gui/creative_buttons.png): mullak99
 	version_check_icons.png (assets/forge/textures/gui/version_check_icons.png): [UNKNOWN]
@@ -1823,9 +1821,10 @@ mullak99: https://faithful.mullak99.co.uk/
 	configure_button.png (assets/modmenu/textures/gui/configure_button.png): mullak99
 	filters_button.png (assets/modmenu/textures/gui/filters_button.png): mullak99
 	parent_mod.png (assets/modmenu/textures/gui/parent_mod.png): mullak99
-	chat_status_icons.png (assets/nochatreports/textures/gui/chat_status_icons.png): mullak99
-	config_reload_button.png (assets/nochatreports/textures/gui/config_reload_button.png): mullak99
-	verified_server.png (assets/nochatreports/textures/gui/verified_server.png): mullak99
+	[All NoChatReports UI] (assets/nochatreports): mullak99
+	
+	== Minecraft [OTHER (Misc)] ==
+	pack.png (pack.png): AntVenom
 	
 === Model Credits ===
 	[All 3D Models]: mullak99

@@ -1,7 +1,7 @@
 # Changelog
 All notable changes to FaithfulVenom will be documented in this file.
 
-## [1.19-r2] - TBC
+## [1.19.3-r1] - 2022-12-11
 ### Added
 - Added NoChatReports UI
 - Added missing checkmark.png

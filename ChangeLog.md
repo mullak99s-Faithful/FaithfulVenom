@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to FaithfulVenom will be documented in this file.
 
+## [1.19.3-r2] - 2022-12-20
+### Fixed
+- Fixed Dispenser click sound (click.ogg) playing globally
+
 ## [1.19.3-r1] - 2022-12-11
 ### Added
 - Added NoChatReports UI

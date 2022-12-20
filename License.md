@@ -28,80 +28,37 @@ It's fine for people to use stuff from the Faithful 32x32 pack so long as guidel
 Archive: https://web.archive.org/web/20150607220656/http://www.minecraftforum.net:80/forums/mapping-and-modding/resource-packs/1223254-faithful-32x32-pack-update-red-cat-clay-1-8
 
 
-## Faithful's Usage Guidelines
-BY USING FAITHFUL YOU AGREE TO THESE TERMS AND CONDITIONS. IF YOU DISTRIBUTE FAITHFUL IN ANY FORM, THIS LICENSE MUST BE INCLUDED INSIDE OF THE ZIP FILE.  
-
-### Definitions
-The pack refers to any copyrightable work licensed under this license.  
-The Faithful Team staff refers to the persons in possession of the Discord accounts with the online nicknames Sei#0721, Juknum#0001, HARAG0N#1897, Pomi108#1378, RobertR11#7841 and Ninventoo#5994.  
-A pack can be considered to be an add-on if it can only work in combination with the original pack in a way that makes sense.  
-A pack can be considered to be a streamer pack or a youtuber pack if it was made by or on behalf of a streamer or a youtuber.  
-
-### Distribution of The Pack
-If you wish to distribute the pack (whether that is a modified copy or an identical copy), you have to comply with the following terms and conditions:  
-
-1. You are required to get permission from the Faithful  Team staff.  
-2. You are required to link back to https://www.faithfulpack.net in an appropriate place.  
-3. You may not make money off of the pack in any form.  
-4. You are required to include this license in all copies.  
-
-### Exceptions
-You are not required to get permission from the Faithful Team staff if your pack can be considered to be an add-on.  
-
-### Usage of The Pack
-The pack may be used...  
-
-- For placeholder textures.  
-- For replacing a small amount of textures you are unable to make yourself.  
-- For streamer or youtuber packs.  
-- During a stream or a video.  
-- As a base for mod or map textures.  
-
-### Final Note
-The Faithful Team staff has the final say over any distribution and usage of the pack. We have the right to deny anyone the distribution or re-use of the pack. If you do not follow the terms and conditions of this license, legal action may be taken.  
-
-
-## Classic Faithful's Usage Guidelines
-ALL CLASSIC FAITHFUL RESOURCE PACKS ARE DISTRIBUTING WITH THESE GUIDELINES BELOW:
+## Faithful's / Classic Faithful's Usage Guidelines
+ALL FAITHFUL ASSETS ARE DISTRIBUTING WITH THESE GUIDELINES BELOW:
 
 ### Requirements if you are distributing any assets by us:
-1: Give clear credit in an appropriate place. (e.g. video descriptions, pack.mcmetas, listing descriptions)  
-2: Link back to our Discord server or GitHub organization here:  
-	https://github.com/ClassicFaithful  
-	https://discord.gg/KSEhCVtg4J  
-3: Get permission if you are planning on distributing any assets of the pack in any way, shape, or form. On our Discord server above, only people with the green "Manager" role are able to give permission.  
-4: Be honest about what you are using and use common sense. Basically, don't take credit for stuff you didn't make and give proper attribution to any textures you use or modify.  
-5: Do not monetize under any circumstances, including link shorteners. All files with assets made by us must be entirely free and open sourced, to uphold our standards. This includes redistribution on the Bedrock Marketplace or locking behind a paywall (e.g. Patreon).  
-6: Don't make your projects look official when they aren't. Don't copy our branding or assets in a way that would confuse the average viewer into believing a project is official when it isn't. Simply getting approval to use textures does not count as being able to pass your projects off as official.   
-7: Give credit to each texture individually if you are using a specific, generally small set of our assets. However, if your project is mostly our assets you can just give credit to all of them in one entry.  
-8: This file, unmodified, must be included in all forms of content that use any assets of us, from textures to branding.  
+1. Give clear credit in an appropriate place (e.g. video descriptions, pack.mcmetas, listing descriptions).
+2. Link back to our website, which you can find here: https://faithfulpack.net/
+3. Be honest about what you are using and use common sense. Basically, don't take credit for stuff you didn't make and give proper attribution to any textures you use or modify.
+4. Do not monetise under any circumstances, including use of link shorteners. Any content with assets made by us must be entirely free and open sourced, to uphold our standards. This includes redistribution on the Bedrock Marketplace or locking behind a paywall (e.g. Patreon). Taking voluntary donations or participating in reward programs (e.g. CurseForge points, YouTube monetization) is allowed.
+5. Don't make your projects look official when they aren't. Examples of this would be copying our branding, marking a project as "official", etc, in a way that would confuse the average viewer into believing a project is official when it isn't.
+6. When possible, give credit to each texture individually, particularly if your project mixes multiple packs. (You can use our gallery at https://webapp.faithfulpack.net/#/gallery/, or the "credits.txt" file present in every Classic Faithful pack to help you find specific authors.) However, if your project is mostly our assets you can just give credit to all of them in one entry.
+7. This file, unmodified, must be included in all forms of content that use any assets of us.
 
+### You must abide by the above rules if you are doing any of the following:
+1. Distributing our assets in any form, modified or not.
+2. Using our textures as placeholders.
+3. Using our textures as a base for any of your own textures that you're making public.
+4. Using a few textures that you cannot properly make yourself (e.g. paintings).
+5. Distributing a modified copy as a content creator with your videos/streams.
+6. Using textures for adventure maps, server resource packs, mod textures, or data packs.
 
-### Exceptions:
-1: If you're doing anything privately and undistributed to the pack (e.g. custom edit for personal use, unpublished add-ons, mod support, or edits either by you or from different packs) you can safely disregard basically all of the requirements since you are not gaining unfairly from us in any form.  
-2: If your pack could be considered an add-on, do not officially list it anywhere but rather submit it to us, where we can add said pack officially. More details on this can be found below.  
-3: If you are using any Vattic's original textures created prior to March 2016 (Minecraft Release 1.9). These textures were licensed under the original Faithful 32x32 license which is different to this license. You can find the original license here, under "Usage Guidelines", if you are interested in using textures created prior to this time period:  
-	https://web.archive.org/web/20150607220656/http://www.minecraftforum.net:80/forums/mapping-and-modding/resource-packs/1223254-faithful-32x32-pack-update-red-cat-clay-1-8
+### Exceptions
+1. If you're doing anything privately and undistributed to our assets (e.g. custom edit for personal use, unpublished add-ons, mod support, using the pack for a small private Minecraft server, or edits either by you or from different packs) you can safely disregard all of these requirements since you are not gaining unfairly from us in any form.
 
-### Follow the requirements above if you are doing any of the following:
-1: Distributing the pack in any form, modified or not.  
-2: Using our textures as placeholders.  
-3: Using our textures as a base for any of your own textures.  
-4: Using a few textures that you cannot properly make yourself (e.g. paintings).  
-5: Distributing a modified copy as a content creator with your videos/streams.   
-6: Using textures for adventure maps, server resource packs, or data packs.  
+### For Classic Faithful only
+1. If your pack can be considered an add-on (a secondary pack meant to be run on top of the main pack), do not claim it as an official one anywhere. Instead, submit it to us, so we can add it to the official add-on database. You can do that in Classic Faithful's server: https://discord.gg/KSEhCVtg4J (You can still post it anywhere you want – just don't brand it as an official Classic Faithful add-on without submitting it to us.)
+2. If you are using textures made prior to March 2016 (Minecraft Release 1.9), they are licensed under Vattic's original Faithful 32x32 license, which is different to this license. You can find the original license here, under "Usage Guidelines", if you are interested: https://web.archive.org/web/20150607220656/http://www.minecraftforum.net:80/forums/mapping-and-modding/resource-packs/1223254-faithful-32x32-pack-update-red-cat-clay-1-8
 
-### About contributions:
-1: You can contribute to our packs on our Discord server via a voting and approval system. If you find an issue in the pack and have fixed it, have made snapshot textures, or just remade an old texture, feel free to send it over for us for review and to add officially.   
-2: If you've made add-ons, mod support, or backports to any of our packs we can also choose to add those officially to our repositories on GitHub.  
-3: Any contribution added will give credit to the original author and any coauthors in a credits document contained within the pack file. Extras contribution will give credit within the pack.mcmeta.  
-4: By submitting a texture or other contribution to us, you give us and any other contributor the permission to use and modify your texture in any of our projects, and others if we give permission to use our assets. You will still receive clear credit in any of our main projects along with the co-author(s) who modified it, but with other packs we gave permission to use your mileage will vary.  
-5: This applies retroactively to all previous contributions as well. If you do not consent to these permissions, you have the right to contact a Manager to request the removal of your textures or other contributions.  
-
-### We reserve the right to:
-1: Refuse the ability to use, distribute, or modify any assets from the pack. This action would be final, generally only in the case of unusual circumstances.  
-2: Take legal action if you do not comply with these guidelines.  
-3: Change this license at any time for any reason.  
+### We reserve the right to
+1. Refuse the ability to use, distribute, or modify any assets from us. This action would be final, generally only in the case of unusual circumstances.
+2. Take legal action if you do not comply with these guidelines.
+3. Change this license at any time for any reason.
 
 
 ## mullak99's License
@@ -139,8 +96,7 @@ Since this pack uses textures from other resourcepacks, you are required to foll
 A breakdown for the authors of each texture can be found within the Credits.txt.  
 
 **Vattic: See Vattic's Usage Guidelines.**  
-**Faithful: See Faithful's Usage Guidelines.**  
-**Classic Faithful (CF) / CF (PA): See Classic Faithful's Usage Guidelines.**  
+**Faithful & Classic Faithful (CF) / CF (PA): See Faithful's Usage Guidelines.**  
 
 ### Afternote
 1) If I decide I don't want you distributing any assets from this pack, it is final. This will only happen in extreme cases.  

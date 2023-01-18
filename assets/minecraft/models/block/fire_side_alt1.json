@@ -1,0 +1,7 @@
+{
+  "credit": "Created by mullak99",
+  "parent": "minecraft:block/template_fire_side_alt",
+  "textures": {
+    "fire": "ctm/fire/fire_2"
+  }
+}

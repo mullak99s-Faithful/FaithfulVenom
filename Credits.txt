@@ -85,10 +85,10 @@ mullak99: https://faithful.mullak99.co.uk/
 	bamboo_small_leaves.png (block/bamboo_small_leaves.png): CF
 	bamboo_stage0.png (block/bamboo_stage0.png): CF
 	bamboo_stalk.png (block/bamboo_stalk.png): CF
-	barrel_bottom.png (block/barrel_bottom.png): CF
-	barrel_side.png (block/barrel_side.png): CF
-	barrel_top.png (block/barrel_top.png): CF
-	barrel_top_open.png (block/barrel_top_open.png): CF
+	barrel_bottom.png (block/barrel_bottom.png): CF (PA)
+	barrel_side.png (block/barrel_side.png): CF (PA)
+	barrel_top.png (block/barrel_top.png): CF (PA)
+	barrel_top_open.png (block/barrel_top_open.png): CF (PA)
 	basalt_side.png (block/basalt_side.png): CF
 	basalt_top.png (block/basalt_top.png): CF
 	beacon.png (block/beacon.png): Vattic
@@ -1593,6 +1593,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	server_selection.png (gui/server_selection.png): CF
 	social_interactions.png (gui/social_interactions.png): mullak99 & CF
 	spectator_widgets.png (gui/spectator_widgets.png): CF (PA)
+	slider.png (gui/slider.png): mullak99
 	stream_indicator.png (gui/stream_indicator.png): CF
 	toasts.png (gui/toasts.png): CF
 	widgets.png (gui/widgets.png): mullak99, Tidmouth, & CF
@@ -1642,49 +1643,56 @@ mullak99: https://faithful.mullak99.co.uk/
 	panorama_4.png (gui/title/background/panorama_4.png): AntVenom (screenshot retaken by mullak99)
 	panorama_5.png (gui/title/background/panorama_5.png): AntVenom (screenshot retaken by mullak99)
 
-	== Minecraft [CTM] (/assets/minecraft/textures/ctm) ==
-	0.png (ctm/beehive/0.png): mullak99 (Based off CF)
-	1.png (ctm/beehive/1.png): mullak99 (Based off CF)
-	2.png (ctm/beehive/2.png): mullak99 (Based off CF)
-	3.png (ctm/beehive/3.png): mullak99 (Based off CF)
-	4.png (ctm/beehive/4.png): mullak99 (Based off CF)
-	5.png (ctm/beehive/5.png): mullak99 (Based off CF)
-	0.png (ctm/bee_nest/0.png): mullak99 (Based off CF)
-	acacia.png (ctm/boats/acacia.png): mullak99 (Planks from Vattic, Moss from CF (PA))
-	birch.png (ctm/boats/birch.png): mullak99 (Planks from Vattic, Moss from CF (PA))
-	dark_oak.png (ctm/boats/dark_oak.png): mullak99 (Planks from Vattic, Moss from CF (PA))
-	jungle.png (ctm/boats/jungle.png): mullak99 (Planks from Vattic, Moss from CF (PA))
-	mangrove.png (ctm/boats/mangrove.png): mullak99 (Planks & Moss from CF (PA))
-	oak.png (ctm/boats/oak.png): mullak99 (Planks from Vattic, Moss from CF (PA))
-	spruce.png (ctm/boats/spruce.png): mullak99 (Planks from Vattic, Moss from CF (PA))
+	== Minecraft [CTM] (/assets/m99-ctm/textures) ==
+	beehive_side_0.png (block/beehive_side_0.png): mullak99 (Based off CF)
+	beehive_side_1.png (block/beehive_side_1.png): mullak99 (Based off CF)
+	beehive_side_2.png (block/beehive_side_2.png): mullak99 (Based off CF)
+	beehive_side_3.png (block/beehive_side_3.png): mullak99 (Based off CF)
+	beehive_side_4.png (block/beehive_side_4.png): mullak99 (Based off CF)
+	beehive_side_5.png (block/beehive_side_5.png): mullak99 (Based off CF)
+	bee_nest_front_honey_partial.png (block/bee_nest_front_honey_partial.png): mullak99 (Based off CF)
+	acacia.png (item/boat/acacia.png): mullak99 (Planks from Vattic, Moss from CF (PA))
+	birch.png (item/boat/birch.png): mullak99 (Planks from Vattic, Moss from CF (PA))
+	dark_oak.png (item/boat/dark_oak.png): mullak99 (Planks from Vattic, Moss from CF (PA))
+	jungle.png (item/boat/jungle.png): mullak99 (Planks from Vattic, Moss from CF (PA))
+	mangrove.png (item/boat/mangrove.png): mullak99 (Planks & Moss from CF (PA))
+	oak.png (item/boat/oak.png): mullak99 (Planks from Vattic, Moss from CF (PA))
+	spruce.png (item/chest_boat/spruce.png): mullak99 (Planks from Vattic, Moss from CF (PA))
+	acacia.png (item/chest_boat/acacia.png): mullak99 (Planks from Vattic, Moss from CF (PA))
+	birch.png (item/chest_boat/birch.png): mullak99 (Planks from Vattic, Moss from CF (PA))
+	dark_oak.png (item/chest_boat/dark_oak.png): mullak99 (Planks from Vattic, Moss from CF (PA))
+	jungle.png (item/chest_boat/jungle.png): mullak99 (Planks from Vattic, Moss from CF (PA))
+	mangrove.png (item/chest_boat/mangrove.png): mullak99 (Planks & Moss from CF (PA))
+	oak.png (item/chest_boat/oak.png): mullak99 (Planks from Vattic, Moss from CF (PA))
+	spruce.png (item/chest_boat/spruce.png): mullak99 (Planks from Vattic, Moss from CF (PA))
 	[All Door CTM]: mullak99
-	hopper_inside_arrow.png (ctm/hopper/hopper_inside_arrow.png): mullak99
-	hopper_outside_arrow.png (ctm/hopper/hopper_outside_arrow.png): mullak99
-	disc.png (ctm/jukebox/disc.png): mullak99
-	0.png (ctm/lily_pad/0.png): Vattic
-	1.png (ctm/lily_pad/1.png): mullak99
-	minecart.png (ctm/minecarts/minecart.png): CF (PA)
-	observer_side_off.png (ctm/observer/observer_side_on.png): mullak99
-	observer_side_on.png (ctm/observer/observer_side_on.png): mullak99
-	observer_top_off.png (ctm/observer/observer_top_on.png): mullak99
-	observer_top_on.png (ctm/observer/observer_top_on.png): mullak99
-	coal.png (ctm/ore/deepslate_ore_ends/coal.png): mullak99
-	copper.png (ctm/ore/deepslate_ore_ends/copper.png): mullak99
-	diamond.png (ctm/ore/deepslate_ore_ends/diamond.png): mullak99
-	emerald.png (ctm/ore/deepslate_ore_ends/emerald.png): mullak99
-	gold.png (ctm/ore/deepslate_ore_ends/gold.png): mullak99
-	iron.png (ctm/ore/deepslate_ore_ends/iron.png): mullak99
-	lapis.png (ctm/ore/deepslate_ore_ends/lapis.png): mullak99
-	redstone.png (ctm/ore/deepslate_ore_ends/redstone.png): mullak99
+	hopper_inside_arrow.png (block/hopper_inside_arrow.png): mullak99
+	hopper_outside_arrow.png (block/hopper_outside_arrow.png): mullak99
+	jukebox_disc.png (block/jukebox_disc.png): mullak99
+	lily_pad_alt.png (block/lily_pad_alt.png): mullak99
+	minecart.png (item/minecart.png): CF (PA)
+	chest.png (item/chest.png): Vattic
+	observer_side_off.png (block/observer_side_off.png): mullak99
+	observer_side_on.png (block/observer_side_on.png): mullak99
+	observer_top_off.png (block/observer_top_off.png): mullak99
+	observer_top_on.png (block/observer_top_on.png): mullak99
+	coal.png (block/deepslate_ore_ends/coal.png): mullak99
+	copper.png (block/deepslate_ore_ends/copper.png): mullak99
+	diamond.png (block/deepslate_ore_ends/diamond.png): mullak99
+	emerald.png (block/deepslate_ore_ends/emerald.png): mullak99
+	gold.png (block/deepslate_ore_ends/gold.png): mullak99
+	iron.png (block/deepslate_ore_ends/iron.png): mullak99
+	lapis.png (block/deepslate_ore_ends/lapis.png): mullak99
+	redstone.png (block/deepslate_ore_ends/redstone.png): mullak99
 	piston_side_sticky.png (ctm/piston/piston_side_sticky.png): mullak99
-	0.png (ctm/poppy/0.png): Vattic
-	0.png (ctm/powered_rail/0.png): mullak99
-	1.png (ctm/powered_rail/1.png): mullak99
-	pumpkin_bottom.png (ctm/pumpkin/pumpkin_bottom.png): Vattic
-	0.png (ctm/rail/0.png): mullak99
-	1.png (ctm/rail/1.png): mullak99
-	2.png (ctm/rail/2.png): mullak99
+	powered_rail_sleeper.png (block/powered_rail_sleeper.png): mullak99
+	powered_rail_sleeper_on.png (block/powered_rail_sleeper_on.png): mullak99
+	pumpkin_bottom.png (block/pumpkin_bottom.png): Vattic
+	rail_sleeper.png (block/rail_sleeper.png): mullak99
+	rail_sleeper_corner.png (block/rail_sleeper_corner.png): mullak99
+	detector_rail_sleeper_top.png (block/detector_rail_sleeper_top.png): mullak99
 	[All Trapdoor CTM]: mullak99
+	fire_2.png: Vattic
 
 	== Minecraft [Particle] (/assets/minecraft/textures/particle) ==
 	[All are Vattic's or CF/CF (PA)]

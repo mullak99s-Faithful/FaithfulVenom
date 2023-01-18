@@ -1,6 +1,14 @@
 # Changelog
 All notable changes to FaithfulVenom will be documented in this file.
 
+## [1.19.3-r3] - 2023-01-18
+### Added
+- Added Low Fire (only when on-fire)
+- Added slider.png (Ready for 1.19.4)
+
+### Changed
+- Included new textures from CF (PA)
+
 ## [1.19.3-r2] - 2022-12-20
 ### Fixed
 - Fixed Dispenser click sound (click.ogg) playing globally

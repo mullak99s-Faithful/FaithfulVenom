@@ -144,46 +144,46 @@
 		},
 		{
 			"name": "1",
-			"from": [10.5, 1, 5],
-			"to": [11, 6, 5.5],
+			"from": [10, 1, 5],
+			"to": [11, 6, 6],
 			"faces": {
-				"north": {"uv": [0, 3, 0.5, 8], "texture": "#lantern"},
-				"east": {"uv": [5.5, 3, 6, 8], "texture": "#lantern"},
-				"south": {"uv": [0, 3, 0.5, 8], "texture": "#lantern"},
-				"west": {"uv": [0, 3, 0.5, 8], "texture": "#lantern"}
+				"north": {"uv": [0, 3, 1, 8], "texture": "#lantern"},
+				"east": {"uv": [5, 3, 6, 8], "texture": "#lantern"},
+				"south": {"uv": [5, 3, 5.5, 8], "texture": "#lantern"},
+				"west": {"uv": [0.5, 3, 1, 8], "texture": "#lantern"}
 			}
 		},
 		{
 			"name": "2",
-			"from": [10.5, 1, 10.5],
+			"from": [10, 1, 10],
 			"to": [11, 6, 11],
 			"faces": {
-				"north": {"uv": [5.5, 3, 6, 8], "texture": "#lantern"},
-				"east": {"uv": [0, 3, 0.5, 8], "texture": "#lantern"},
-				"south": {"uv": [6, 3, 5.5, 8], "texture": "#lantern"},
-				"west": {"uv": [0, 3, 0.5, 8], "texture": "#lantern"}
+				"north": {"uv": [0.5, 3, 1, 8], "texture": "#lantern"},
+				"east": {"uv": [0, 3, 1, 8], "texture": "#lantern"},
+				"south": {"uv": [5, 3, 6, 8], "texture": "#lantern"},
+				"west": {"uv": [5, 3, 5.5, 8], "texture": "#lantern"}
 			}
 		},
 		{
 			"name": "3",
-			"from": [5, 1, 10.5],
-			"to": [5.5, 6, 11],
+			"from": [5, 1, 10],
+			"to": [6, 6, 11],
 			"faces": {
-				"north": {"uv": [5.5, 3, 6, 8], "texture": "#lantern"},
-				"east": {"uv": [5.5, 3, 6, 8], "texture": "#lantern"},
-				"south": {"uv": [0.5, 3, 0, 8], "texture": "#lantern"},
-				"west": {"uv": [6, 3, 5.5, 8], "texture": "#lantern"}
+				"north": {"uv": [5, 3, 5.5, 8], "texture": "#lantern"},
+				"east": {"uv": [0.5, 3, 1, 8], "texture": "#lantern"},
+				"south": {"uv": [0, 3, 1, 8], "texture": "#lantern"},
+				"west": {"uv": [5, 3, 6, 8], "texture": "#lantern"}
 			}
 		},
 		{
 			"name": "4",
 			"from": [5, 1, 5],
-			"to": [5.5, 6, 5.5],
+			"to": [6, 6, 6],
 			"faces": {
-				"north": {"uv": [5.5, 3, 6, 8], "texture": "#lantern"},
-				"east": {"uv": [5.5, 3, 6, 8], "texture": "#lantern"},
-				"south": {"uv": [0, 3, 0.5, 8], "texture": "#lantern"},
-				"west": {"uv": [0.5, 3, 0, 8], "texture": "#lantern"}
+				"north": {"uv": [5, 3, 6, 8], "texture": "#lantern"},
+				"east": {"uv": [5, 3, 5.5, 8], "texture": "#lantern"},
+				"south": {"uv": [0.5, 3, 1, 8], "texture": "#lantern"},
+				"west": {"uv": [0, 3, 1, 8], "texture": "#lantern"}
 			}
 		},
 		{
@@ -229,7 +229,9 @@
 					"name": "lantern",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"children": [8, 9,
+					"children": [
+						8,
+						9,
 						{
 							"name": "frame",
 							"origin": [8, 8, 8],

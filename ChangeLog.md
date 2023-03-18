@@ -1,6 +1,15 @@
 # Changelog
 All notable changes to FaithfulVenom will be documented in this file.
 
+## [1.19.4-r1] - 2023-03-17
+### Added
+- Added 1.19.4 textures
+
+### Changed
+- New hotbar texture (Created by Klonoa#1997)
+- Included new textures from CF (PA)
+- Changed Smithing Table GUI texture (1.19.4 format)
+
 ## [1.19.3-r3] - 2023-01-18
 ### Added
 - Added Low Fire (only when on-fire)

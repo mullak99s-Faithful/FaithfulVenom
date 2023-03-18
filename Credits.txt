@@ -1279,7 +1279,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	guardian.png (entity/guardian.png): CF
 	guardian_beam.png (entity/guardian_beam.png): CF
 	guardian_elder.png (entity/guardian_elder.png): CF
-	lead_knot.png (entity/lead_knot.png): Vattic
+	lead_knot.png (entity/lead_knot.png): CF (PA)
 	minecart.png (entity/minecart.png): CF (PA)
 	phantom.png (entity/phantom.png): Vattic
 	phantom_eyes.png (entity/phantom_eyes.png): mullak99
@@ -1574,8 +1574,11 @@ mullak99: https://faithful.mullak99.co.uk/
 	bars.png (gui/bars.png): Vattic + CF
 	book.png (gui/book.png): CF
 	checkbox.png (gui/checkbox.png): mullak99
+	checkmark.png (gui/checkmark.png): CF
 	demo_background.png (gui/demo_background.png): CF
 	icons.png (gui/icons.png): Evorp
+	info_icon.png (gui/info_icon.png): CF
+	light_dirt_background.png (gui/light_dirt_background.png): Vattic & mullak99
 	options_background.png (gui/options_background.png): Vattic
 	recipe_book.png (gui/recipe_book.png): CF
 	recipe_button.png (gui/recipe_button.png): CF
@@ -1586,8 +1589,10 @@ mullak99: https://faithful.mullak99.co.uk/
 	spectator_widgets.png (gui/spectator_widgets.png): CF (PA)
 	slider.png (gui/slider.png): mullak99
 	stream_indicator.png (gui/stream_indicator.png): CF
+	tab_button.png (gui/tab_button.png): mullak99
 	toasts.png (gui/toasts.png): CF
-	widgets.png (gui/widgets.png): mullak99, Tidmouth, & CF
+	unseen_notification.png (gui/unseen_notification.png): CF
+	widgets.png (gui/widgets.png): mullak99, Klonoa#1997, & CF
 	world_selection.png (gui/world_selection.png): CF
 	tabs.png (gui/advancements/tabs.png): CF
 	widgets.png (gui/advancements/widgets.png): CF
@@ -1615,6 +1620,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	inventory.png (gui/container/inventory.png): CF
 	loom.png (gui/container/loom.png): CF
 	shulker_box.png (gui/container/shulker_box.png): CF
+	legacy_smithing.png (gui/container/legacy_smithing.png): CF
 	smithing.png (gui/container/smithing.png): CF
 	smoker.png (gui/container/smoker.png): CF
 	stats_icons.png (gui/container/stats_icons.png): CF

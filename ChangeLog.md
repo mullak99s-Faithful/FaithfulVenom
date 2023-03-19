@@ -1,6 +1,16 @@
 # Changelog
 All notable changes to FaithfulVenom will be documented in this file.
 
+## [1.19.4-r2] - 2023-03-19
+### Changed
+- Replaced some CF (Jappa) textures with CF PA (thanks to Evorp)
+- Replaced some leftover Kraineff textures (thanks to Evorp)
+- Compressed more textures (thanks to Evorp)
+- Minor tweaks to some other textures
+
+### Fixed
+- Broken Jungle Trapdoor model
+
 ## [1.19.4-r1] - 2023-03-17
 ### Added
 - Added 1.19.4 textures

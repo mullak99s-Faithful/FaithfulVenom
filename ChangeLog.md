@@ -9,7 +9,7 @@ All notable changes to FaithfulVenom will be documented in this file.
 - Minor tweaks to some other textures
 
 ### Fixed
-- Broken Jungle Trapdoor model
+- Fixed broken Jungle Trapdoor model
 
 ## [1.19.4-r1] - 2023-03-17
 ### Added

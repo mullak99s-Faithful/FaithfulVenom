@@ -1,34 +1,34 @@
 ## Vattic's Usage Guidelines
-It's fine for people to use stuff from the Faithful 32x32 pack so long as guidelines bellow are followed.  
+It's fine for people to use stuff from the Faithful 32x32 pack so long as guidelines bellow are followed.
 
-### Things that are fine:  
-- Use as placeholders.  
-- Using as many textures as you've made yourself.  
-- Using the items or paintings.  
-- Use as base for mod textures.  
+### Things that are fine:
+- Use as placeholders.
+- Using as many textures as you've made yourself.
+- Using the items or paintings.
+- Use as base for mod textures.
 
-### Requirements:  
-- Give clear credit.  
-- Link back to the Faithful 32x32 thread.  
-- Be honest about what you are using.  
-- No money making links.  
+### Requirements:
+- Give clear credit.
+- Link back to the Faithful 32x32 thread.
+- Be honest about what you are using.
+- No money making links.
 
-### On remix/tweaked packs:  
-- Let's Players can share a modified copy with fans.  
-- Adventure map makers can provide modified copy to go along with it.  
+### On remix/tweaked packs:
+- Let's Players can share a modified copy with fans.
+- Adventure map makers can provide modified copy to go along with it.
 
-### If either of the above apply:  
-- You must distribute through YouTube video descriptions or your series'/map's forum topic and not create a separate thread for the pack.  
-- To avoid people uploading a video just so they can upload a copy of the pack Let's Players must have a decent number of videos that use the pack and a decent number of subscribers.  
+### If either of the above apply:
+- You must distribute through YouTube video descriptions or your series'/map's forum topic and not create a separate thread for the pack.
+- To avoid people uploading a video just so they can upload a copy of the pack Let's Players must have a decent number of videos that use the pack and a decent number of subscribers.
 
 ### Finally:
-- If I decide I don't want you using stuff from the pack then that is final. This will only be the case in unusual circumstances.  
-- These guidelines can be changed at any time.  
+- If I decide I don't want you using stuff from the pack then that is final. This will only be the case in unusual circumstances.
+- These guidelines can be changed at any time.
 
 Archive: https://web.archive.org/web/20150607220656/http://www.minecraftforum.net:80/forums/mapping-and-modding/resource-packs/1223254-faithful-32x32-pack-update-red-cat-clay-1-8
 
 
-## Faithful's / Classic Faithful's Usage Guidelines
+## Faithful License
 Version 3 - 20th February 2023
 Copyright © Faithful Resource Pack
 
@@ -59,47 +59,47 @@ Copyright © Faithful Resource Pack
 
 
 ## mullak99's License
-BY USING, OR BY USING ANY ASSETS FROM, MULLAK99'S FAITHFUL YOU AGREE TO THIS LICENSE.  
+BY USING, OR BY USING ANY ASSETS FROM, MULLAK99'S FAITHFUL YOU AGREE TO THIS LICENSE.
 
 ### Forenote
-Latest terms can always be found in the GitHub repo linked below.  
+Latest terms can always be found in the GitHub repo linked below.
 
 ### Official Links
-- https://faithful.mullak99.co.uk/  
-- https://www.curseforge.com/minecraft/texture-packs/mullak99s-faithful-32x  
-- https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1244998  
-- https://github.com/mullak99s-Faithful/mullak99sFaithful  
+- https://faithful.mullak99.co.uk/
+- https://www.curseforge.com/minecraft/texture-packs/mullak99s-faithful-32x
+- https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1244998
+- https://github.com/mullak99s-Faithful/mullak99sFaithful
 
 ### Requirements for redistributing the pack
-These requrements cover what should be done when linking to / distributing unmodified copies of this pack.  
+These requrements cover what should be done when linking to / distributing unmodified copies of this pack.
 
-1) Rehosting downloads of this pack is not permitted. Instead, link to official download links/pages.  
-2) Do not monetise official links. (e.g. No Adfly links that redirect to official downloads).  
+1) Rehosting downloads of this pack is not permitted. Instead, link to official download links/pages.
+2) Do not monetise official links. (e.g. No Adfly links that redirect to official downloads).
 
 ### Requirements for using any assets
-These requrements cover what should be done when using any assets (textures or models) from this pack. Whether in their original or modified forms.  
+These requrements cover what should be done when using any assets (textures or models) from this pack. Whether in their original or modified forms.
 
-1) Give clear credit in an appropriate place. (e.g. video description, forum/post listing, text file within a resourcepack).  
-2) Be honest about what you are using. It should be clear which assets are from this resourcepack. (e.g. provide a list of textures which are from this pack in an appropriate place).  
-3) Do not monetise your pack in any way. Examples of monetisation include: Adfly (or equivalent) links and locking behind a paywall (e.g. Patreon, Bedrock Marketplace).  
-4) Provide a copy of this licence in an appropriate place.  
+1) Give clear credit in an appropriate place. (e.g. video description, forum/post listing, text file within a resourcepack).
+2) Be honest about what you are using. It should be clear which assets are from this resourcepack. (e.g. provide a list of textures which are from this pack in an appropriate place).
+3) Do not monetise your pack in any way. Examples of monetisation include: Adfly (or equivalent) links and locking behind a paywall (e.g. Patreon, Bedrock Marketplace).
+4) Provide a copy of this licence in an appropriate place.
 
 ### Exceptions
-1) If you are using any assets from this pack, but are not distributing it (e.g. for your own personal pack, using the pack in a YouTube video [assuming you are not distributing it]).  
-2) Exceptions may be granted to specific packs, individuals, or groups. This is not something that you can ask for as it is done at my own discretion.  
+1) If you are using any assets from this pack, but are not distributing it (e.g. for your own personal pack, using the pack in a YouTube video [assuming you are not distributing it]).
+2) Exceptions may be granted to specific packs, individuals, or groups. This is not something that you can ask for as it is done at my own discretion.
 
 ### Additional Licenses
-Since this pack uses textures from other resourcepacks, you are required to follow their terms when using any of their textures.  
-A breakdown for the authors of each texture can be found within the Credits.txt.  
+Since this pack uses textures from other resourcepacks, you are required to follow their terms when using any of their textures.
+A breakdown for the authors of each texture can be found within the Credits.txt.
 
-**Vattic: See Vattic's Usage Guidelines.**  
-**Faithful & Classic Faithful (CF) / CF (PA): See Faithful's Usage Guidelines.**  
+**Vattic: See Vattic's Usage Guidelines.**
+**Faithful & Classic Faithful (CF) / CF (PA): See Faithful's Usage Guidelines.**
 
 ### Afternote
-1) If I decide I don't want you distributing any assets from this pack, it is final. This will only happen in extreme cases.  
-2) These guidelines may be changed at anytime, by using this pack you agree to the latest terms.  
-3) If you wish to use any assets from this pack, and are unsure how to appropriately do so, do not hesitate to contact me.  
-4) Likewise, if you have any other issues/concerns, do not hesitate to contact me.  
+1) If I decide I don't want you distributing any assets from this pack, it is final. This will only happen in extreme cases.
+2) These guidelines may be changed at anytime, by using this pack you agree to the latest terms.
+3) If you wish to use any assets from this pack, and are unsure how to appropriately do so, do not hesitate to contact me.
+4) Likewise, if you have any other issues/concerns, do not hesitate to contact me.
 
 ### Contact Methods
 - Email: mullak99@mullak99.co.uk

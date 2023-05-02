@@ -1058,7 +1058,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	golden_pickaxe.png (item/golden_pickaxe.png): CF (PA)
 	golden_shovel.png (item/golden_shovel.png): Vattic
 	golden_sword.png (item/golden_sword.png): Vattic
-	gold_ingot.png (item/gold_ingot.png): CF
+	gold_ingot.png (item/gold_ingot.png): CF (PA) [modified by mullak99]
 	gold_nugget.png (item/gold_nugget.png): CF
 	gray_candle.png (item/gray_candle.png): CF
 	gray_dye.png (item/gray_dye.png): CF
@@ -1078,7 +1078,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	iron_helmet.png (item/iron_helmet.png): Vattic
 	iron_hoe.png (item/iron_hoe.png): Vattic
 	iron_horse_armor.png (item/iron_horse_armor.png): Vattic
-	iron_ingot.png (item/iron_ingot.png): CF
+	iron_ingot.png (item/iron_ingot.png): CF (PA) [modified by mullak99]
 	iron_leggings.png (item/iron_leggings.png): Vattic
 	iron_nugget.png (item/iron_nugget.png): mullak99
 	iron_pickaxe.png (item/iron_pickaxe.png): CF (PA)
@@ -1832,10 +1832,9 @@ mullak99: https://faithful.mullak99.co.uk/
 	version_check_icons.png (assets/forge/textures/gui/version_check_icons.png): [UNKNOWN]
 	fabric_icon.png (assets/modmenu/fabric_icon.png): [UNKNOWN]
 	grey_fabric_icon.png (assets/modmenu/grey_fabric_icon.png): [UNKNOWN]
-	configure_button.png (assets/modmenu/textures/gui/configure_button.png): mullak99
-	filters_button.png (assets/modmenu/textures/gui/filters_button.png): mullak99
-	parent_mod.png (assets/modmenu/textures/gui/parent_mod.png): mullak99
+	[All other Mod Menu UI] (assets/modmenu/textures/gui): mullak99
 	[All NoChatReports UI] (assets/nochatreports): mullak99
+	[All Visible Toggle Sprint UI] (assets/visible_toggle_sprint): mullak99 (uses elements from Classic Faithful)
 	
 	== Minecraft [OTHER (Misc)] ==
 	pack.png (pack.png): AntVenom

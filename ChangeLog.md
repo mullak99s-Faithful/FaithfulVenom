@@ -1,6 +1,18 @@
 # Changelog
 All notable changes to FaithfulVenom will be documented in this file.
 
+## [1.19.4-r3] - 2023-05-02
+### Added
+- Added icons for Visible Toggle Sprint
+- Added additional textures for NCR and Mod Menu
+
+### Changed
+- Switched to ProgArt Iron Ingot, with shape fixes to match newer ingots
+- Shape fix to Gold Ingot
+
+### Fixed
+- Fixed XP bar colour
+
 ## [1.19.4-r2] - 2023-03-19
 ### Changed
 - Replaced some CF (Jappa) textures with CF PA (thanks to Evorp)

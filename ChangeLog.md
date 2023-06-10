@@ -1,6 +1,14 @@
 # Changelog
 All notable changes to FaithfulVenom will be documented in this file.
 
+## [1.19.4-r4] - 2023-06-10
+### Changed
+- Texture compression
+- Fix Beehive CTM textures
+
+### Removed
+- Unused Realms UI textures
+
 ## [1.19.4-r3] - 2023-05-02
 ### Added
 - Added icons for Visible Toggle Sprint

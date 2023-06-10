@@ -1,7 +1,7 @@
 # Changelog
 All notable changes to FaithfulVenom will be documented in this file.
 
-## [1.19.4-r4] - 2023-06-10
+## [1.19.4-r4] - TBC
 ### Changed
 - Texture compression
 - Fix Beehive CTM textures

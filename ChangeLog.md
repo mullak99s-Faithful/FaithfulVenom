@@ -1,6 +1,18 @@
 # Changelog
 All notable changes to FaithfulVenom will be documented in this file.
 
+## [1.20-r1] - TBC
+### Added
+- Added 1.20 textures
+
+## [1.19.4-r4] - TBC
+### Changed
+- Texture compression
+- Fix Beehive CTM textures
+
+### Removed
+- Unused Realms UI textures
+
 ## [1.19.4-r3] - 2023-05-02
 ### Added
 - Added icons for Visible Toggle Sprint

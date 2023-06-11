@@ -5,6 +5,9 @@ All notable changes to FaithfulVenom will be documented in this file.
 ### Added
 - Added 1.20 textures
 
+### Fixed
+- Fixed issue with 3D boat models in third-person (left hand)
+
 ## [1.19.4-r4] - TBC
 ### Changed
 - Texture compression

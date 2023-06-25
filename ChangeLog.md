@@ -4,9 +4,15 @@ All notable changes to FaithfulVenom will be documented in this file.
 ## [1.20-r1] - TBC
 ### Added
 - Added 1.20 textures
+- Added Efe textures
+
+### Changed
+- Included changes from CF (PA)
 
 ### Fixed
 - Fixed issue with 3D boat models in third-person (left hand)
+- Fixes to Acacia Trapdoor model (handle)
+- Tweaks to Turtle Egg item model
 
 ## [1.19.4-r4] - TBC
 ### Changed

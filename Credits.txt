@@ -1582,6 +1582,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	snow.png (entity/zombie_villager/type/snow.png): CF
 	swamp.png (entity/zombie_villager/type/swamp.png): CF
 	taiga.png (entity/zombie_villager/type/taiga.png): CF
+	[All Decorated Pot textures]: CF (PA)
 
 	== Minecraft [GUI] (/assets/minecraft/textures/gui) ==
 	accessibility.png (gui/accessibility.png): mullak99

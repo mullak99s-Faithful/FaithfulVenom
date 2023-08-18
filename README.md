@@ -1,6 +1,6 @@
 # FaithfulVenom 32x
 
-**Current Branch Version:** _1.20-r1_ALPHA2_  
+**Current Branch Version:** _1.20-r1_ALPHA3_  
 
 ## Official Links
 

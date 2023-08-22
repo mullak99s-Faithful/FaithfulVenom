@@ -1,20 +1,20 @@
 {
   "format_version": 2,
   "header": {
-    "description": "by AntVenom, Classic Faithful, Faithful, mullak99 & Tidmouth",
+    "description": "by AntVenom, Faithful Pack, mullak99 & Klonoa",
     "min_engine_version": [ 1, 17, 0 ],
-    "name": "FaithfulVenom 32x 1.19-r1",
+    "name": "FaithfulVenom 32x 1.20-r1_ALPHA1",
     "uuid": "7124df9b-8ef0-4c14-8bc0-9a93677d0f69",
-    "version": [ 1, 6, 0 ]
+    "version": [ 1, 19, 100 ]
   },
   "metadata": {
-      "authors": [ "AntVenom", "Classic Faithful", "Faithful", "mullak99", "Tidmouth" ],
+      "authors": [ "AntVenom", "Faithful", "mullak99", "Klonoa" ],
       "license": "https://github.com/mullak99s-Faithful/FaithfulVenom/License.md",
       "url": "https://antvenom.com/"
   },
   "modules": [
     {
-      "description": "by AntVenom, Classic Faithful, Faithful, mullak99 & Tidmouth",
+      "description": "by AntVenom, Faithful Pack, mullak99 & Klonoa",
       "type": "resources",
       "uuid": "733c3aba-1d04-49f2-911b-99fe625ae8dc",
       "version": [ 1, 0, 0 ]

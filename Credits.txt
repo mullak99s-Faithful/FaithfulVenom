@@ -204,6 +204,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	chain_command_block_conditional.png (block/chain_command_block_conditional.png): CF (PA)
 	chain_command_block_front.png (block/chain_command_block_front.png): CF (PA)
 	chain_command_block_side.png (block/chain_command_block_side.png): CF (PA)
+	[All Cherry textures]: CF (PA)
 	chipped_anvil_top.png (block/chipped_anvil_top.png): CF (PA)
 	chiseled_bookshelf_empty.png (block/chiseled_bookshelf_empty.png): CF (PA)
 	chiseled_bookshelf_occupied.png (block/chiseled_bookshelf_occupied.png): CF (PA)
@@ -622,6 +623,8 @@ mullak99: https://faithful.mullak99.co.uk/
 	pitcher_crop_bottom_stage_4.png (block/pitcher_crop_bottom_stage_4.png): CF (PA)
 	pitcher_crop_side.png (block/pitcher_crop_side.png): CF (PA)
 	pitcher_crop_top.png (block/pitcher_crop_top.png): CF (PA)
+	pitcher_crop_top_stage_3.png (block/pitcher_crop_top_stage_3.png): CF (PA)
+	pitcher_crop_top_stage_4.png (block/pitcher_crop_top_stage_4.png): CF (PA)
 	podzol_side.png (block/podzol_side.png): Vattic
 	podzol_top.png (block/podzol_top.png): Vattic
 	pointed_dripstone_down_base.png (block/pointed_dripstone_down_base.png): CF
@@ -1307,6 +1310,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	shield_base.png (entity/shield_base.png): CF (PA)
 	shield_base_nopattern.png (entity/shield_base_nopattern.png): CF (PA)
 	silverfish.png (entity/silverfish.png): Vattic
+	sniffer.png (entity/sniffer/sniffer.png): Faithful
 	snow_golem.png (entity/snow_golem.png): Vattic
 	spider_eyes.png (entity/spider_eyes.png): CF (PA)
 	trident.png (entity/trident.png): CF
@@ -1797,7 +1801,8 @@ mullak99: https://faithful.mullak99.co.uk/
 	[All Paintings]: Vattic and CF
 
 	== Minecraft [Trims] (/assets/minecraft/textures/trims) ==
-	[All Trims]: CF (PA)
+	[All Trims (Items)]: CF (PA)
+	[All Trims (Models)]: Faithful
 
 	== Minecraft [Optifine] (/assets/minecraft/optifine/ctm) ==
 	0.png (bookshelf/0.png): Vattic

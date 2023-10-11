@@ -6,9 +6,3 @@ assets/minecraft/textures/entity/player/wide/makena.png
 assets/minecraft/textures/entity/player/wide/kai.png
 assets/minecraft/textures/entity/player/wide/sunny.png
 assets/minecraft/textures/entity/player/wide/noor.png
-assets/minecraft/textures/entity/sniffer/sniffer.png
-assets/minecraft/textures/block/suspicious_gravel_1.png
-assets/minecraft/textures/block/suspicious_gravel_0.png
-assets/minecraft/textures/block/suspicious_gravel_3.png
-assets/minecraft/textures/block/suspicious_gravel_2.png
-assets/minecraft/textures/gui/sprites/popup/background.png

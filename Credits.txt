@@ -850,6 +850,9 @@ mullak99: https://faithful.mullak99.co.uk/
 	suspicious_sand_0.png (block/suspicious_sand_0.png): CF (PA)
 	suspicious_sand_1.png (block/suspicious_sand_1.png): CF (PA)
 	suspicious_sand_2.png (block/suspicious_sand_2.png): CF (PA)
+	suspicious_gravel_0.png (block/suspicious_gravel_0.png): mullak99 (Using Vattic and CF textures)
+	suspicious_gravel_1.png (block/suspicious_gravel_1.png): mullak99 (Using Vattic and CF textures)
+	suspicious_gravel_2.png (block/suspicious_gravel_2.png): mullak99 (Using Vattic and CF textures)
 	sweet_berry_bush_stage0.png (block/sweet_berry_bush_stage0.png): CF
 	sweet_berry_bush_stage1.png (block/sweet_berry_bush_stage1.png): CF
 	sweet_berry_bush_stage2.png (block/sweet_berry_bush_stage2.png): CF

@@ -10,6 +10,8 @@
 *.zip
 *.mcpack
 *.temp.txt
+*.bat
+*.ps1
 
 # OS generated files #
 ######################

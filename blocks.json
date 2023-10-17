@@ -50,5 +50,17 @@
    },
    "magma" : {
       "isotropic" : false
+   },
+   "netherrack" : {
+      "isotropic" : false
+   },
+   "sand" : {
+      "isotropic" : false
+   },
+   "dirt" : {
+      "isotropic" : false
+   },
+   "coarse_dirt" : {
+      "isotropic" : false
    }
 }

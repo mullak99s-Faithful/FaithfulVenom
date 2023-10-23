@@ -152,7 +152,7 @@
 			"scale": [0.275, 0.275, 0.275]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [70, 90, 0],
+			"rotation": [70, -90, 0],
 			"translation": [0, 1.75, 0],
 			"scale": [0.275, 0.275, 0.275]
 		},

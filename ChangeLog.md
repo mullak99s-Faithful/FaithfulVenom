@@ -2,9 +2,20 @@
 All notable changes to FaithfulVenom will be documented in this file.
 
 ## [1.19.4-r4] - TBC
+### Added
+- Added Efe textures
+
 ### Changed
 - Texture compression
 - Fix Beehive CTM textures
+
+### Changed
+- Included changes from CF (PA)
+
+### Fixed
+- Fixed issue with 3D boat models in third-person (left hand)
+- Fixes to Acacia Trapdoor model (handle)
+- Tweaks to Turtle Egg item model
 
 ### Removed
 - Unused Realms UI textures

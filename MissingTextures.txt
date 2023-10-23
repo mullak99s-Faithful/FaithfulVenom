@@ -1,0 +1,8 @@
+assets/minecraft/textures/entity/player/slim/makena.png
+assets/minecraft/textures/entity/player/slim/kai.png
+assets/minecraft/textures/entity/player/slim/sunny.png
+assets/minecraft/textures/entity/player/slim/noor.png
+assets/minecraft/textures/entity/player/wide/makena.png
+assets/minecraft/textures/entity/player/wide/kai.png
+assets/minecraft/textures/entity/player/wide/sunny.png
+assets/minecraft/textures/entity/player/wide/noor.png

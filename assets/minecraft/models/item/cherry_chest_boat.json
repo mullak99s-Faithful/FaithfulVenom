@@ -1,8 +1,0 @@
-{
-	"credit": "Created by mullak99",
-	"parent": "item/template_chest_boat",
-	"textures": {
-		"boat": "m99-ctm:item/chest_boat/cherry",
-		"particle": "m99-ctm:item/chest_boat/cherry"
-	}
-}

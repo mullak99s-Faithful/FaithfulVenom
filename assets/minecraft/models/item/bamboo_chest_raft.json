@@ -1,8 +1,0 @@
-{
-	"credit": "Created by mullak99",
-	"parent": "item/template_chest_raft",
-	"textures": {
-		"raft": "m99-ctm:item/chest_boat/bamboo",
-		"particle": "m99-ctm:item/chest_boat/bamboo"
-	}
-}

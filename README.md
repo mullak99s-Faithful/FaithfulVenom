@@ -1,7 +1,7 @@
 # FaithfulVenom 32x
 
 **Latest 1.20 Version:** [_1.20-r1_BETA4_](https://builds.mullak99.co.uk/FaithfulVenom/1.20/Dev-Builds/FaithfulVenom-32x-1.20-r1_BETA4.zip) | [Git Branch](https://github.com/mullak99s-Faithful/FaithfulVenom/tree/1.20)   
-**Latest 1.19.4 Version:** [_1.19.4-r4_DEV230610-1_](https://builds.mullak99.co.uk/FaithfulVenom/1.19/Dev-Builds/FaithfulVenom-32x-1.19.4-r4_DEV230610-1.zip) | [Git Branch](https://github.com/mullak99s-Faithful/FaithfulVenom/tree/1.19.4)   
+**Latest 1.19.4 Version:** [_1.19.4-r4_](https://builds.mullak99.co.uk/FaithfulVenom/1.19/FaithfulVenom-32x-1.19.4-r4.zip) | [Git Branch](https://github.com/mullak99s-Faithful/FaithfulVenom/tree/1.19.4)   
 **Latest 1.19.3 Version:** [_1.19.3-r4_](https://drive.google.com/file/d/1IJr4Cq61TmapjIRtFwpNdbMFPZk7mPpu/view?usp=share_link) | [Git Branch](https://github.com/mullak99s-Faithful/FaithfulVenom/tree/1.19.3)    
 **Latest 1.19-1.19.2 Version:** [_1.19-r3_](https://drive.google.com/file/d/11wd1YZJuLPvCxPW31HCyqN1imWxgJeJG/view?usp=share_link) | [Git Branch](https://github.com/mullak99s-Faithful/FaithfulVenom/tree/1.19)    
 **Latest 1.18.x Version:** [_1.18-r7_](https://drive.google.com/file/d/1yyx8IegEw8X8POMCs3SbnGrvPQqM-QK7/view?usp=share_link) | [Git Branch](https://github.com/mullak99s-Faithful/FaithfulVenom/tree/1.18)    

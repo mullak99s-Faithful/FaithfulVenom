@@ -5,20 +5,20 @@ All notable changes to FaithfulVenom will be documented in this file.
 ### Added
 - Added 1.20 textures
 - Added 1.20.2 changes as overlays
+
+## [1.19.4-r4] - 2023-10-23
+### Added
 - Added Efe textures
 
 ### Changed
+- Texture compression
+- Fix Beehive CTM textures
 - Included changes from CF (PA)
 
 ### Fixed
 - Fixed issue with 3D boat models in third-person (left hand)
 - Fixes to Acacia Trapdoor model (handle)
 - Tweaks to Turtle Egg item model
-
-## [1.19.4-r4] - TBC
-### Changed
-- Texture compression
-- Fix Beehive CTM textures
 
 ### Removed
 - Unused Realms UI textures

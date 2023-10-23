@@ -5,6 +5,7 @@ All notable changes to FaithfulVenom: Bedrock will be documented in this file.
 ### Added
 - Added 1.20 textures
 - Added more UI textures
+- Added Alpha sounds from Java FV
 
 ### Changed
 - Included changes from 1.19 & 1.20 Java FV

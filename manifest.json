@@ -1,19 +1,11 @@
 {
   "format_version": 2,
   "header": {
-    "description": "by AntVenom, Faithful Pack, mullak99 & Klonoa",
-    "min_engine_version": [
-      1,
-      17,
-      0
-    ],
-    "name": "FaithfulVenom 32x 1.20-r1_BETA4",
+    "description": "FaithfulVenom 32x\n§8by AntVenom, Faithful Pack, mullak99 & Klonoa",
+    "min_engine_version": [ 1, 17, 0 ],
+    "name": "FaithfulVenom 32x 1.20-r1_BETA5",
     "uuid": "7124df9b-8ef0-4c14-8bc0-9a93677d0f69",
-    "version": [
-      1,
-      19,
-      103
-    ]
+    "version": [ 1, 19, 104 ]
   },
   "metadata": {
       "authors": [ "AntVenom", "Faithful", "mullak99", "Klonoa" ],
@@ -22,14 +14,10 @@
   },
   "modules": [
     {
-      "description": "by AntVenom, Faithful Pack, mullak99 & Klonoa",
+      "description": "FaithfulVenom 32x\n§8by AntVenom, Faithful Pack, mullak99 & Klonoa",
       "type": "resources",
       "uuid": "733c3aba-1d04-49f2-911b-99fe625ae8dc",
-      "version": [
-        1,
-        0,
-        0
-      ]
+      "version": [ 1, 0, 0 ]
     }
   ]
 }

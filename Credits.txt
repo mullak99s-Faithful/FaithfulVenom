@@ -1313,7 +1313,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	shield_base.png (entity/shield_base.png): CF (PA)
 	shield_base_nopattern.png (entity/shield_base_nopattern.png): CF (PA)
 	silverfish.png (entity/silverfish.png): Vattic
-	sniffer.png (entity/sniffer/sniffer.png): Faithful
+	sniffer.png (entity/sniffer/sniffer.png): CF (PA)
 	snow_golem.png (entity/snow_golem.png): Vattic
 	spider_eyes.png (entity/spider_eyes.png): CF (PA)
 	trident.png (entity/trident.png): CF

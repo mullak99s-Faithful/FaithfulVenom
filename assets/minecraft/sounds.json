@@ -4,6 +4,239 @@
     "category": "music",
     "sounds": []
   },
+  "block.scaffolding.fall": {
+    "replace": true,
+    "sounds": [
+      "step/ladder1",
+      "step/ladder2",
+      "step/ladder3",
+      "step/ladder4",
+      "step/ladder5"
+    ]
+  },
+  "block.scaffolding.hit": {
+    "replace": true,
+    "sounds": [
+      "step/ladder1",
+      "step/ladder2",
+      "step/ladder3",
+      "step/ladder4",
+      "step/ladder5"
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.scaffolding.step": {
+    "replace": true,
+    "sounds": [
+      "step/ladder1",
+      "step/ladder2",
+      "step/ladder3",
+      "step/ladder4",
+      "step/ladder5"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.soul_sand.break": {
+    "replace": true,
+    "sounds": [
+      "dig/sand1",
+      "dig/sand2",
+      "dig/sand3",
+      "dig/sand4"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.soul_sand.fall": {
+    "replace": true,
+    "sounds": [
+      "step/sand1",
+      "step/sand2",
+      "step/sand3",
+      "step/sand4",
+      "step/sand5"
+    ]
+  },
+  "block.soul_sand.hit": {
+    "replace": true,
+    "sounds": [
+      "dig/sand1",
+      "dig/sand2",
+      "dig/sand3",
+      "dig/sand4"
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.soul_sand.place": {
+    "replace": true,
+    "sounds": [
+      "dig/sand1",
+      "dig/sand2",
+      "dig/sand3",
+      "dig/sand4"
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.soul_sand.step": {
+    "replace": true,
+    "sounds": [
+      "step/sand1",
+      "step/sand2",
+      "step/sand3",
+      "step/sand4",
+      "step/sand5"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.soul_soil.break": {
+    "replace": true,
+    "sounds": [
+      "dig/gravel1",
+      "dig/gravel2",
+      "dig/gravel3",
+      "dig/gravel4"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.soul_soil.fall": {
+    "replace": true,
+    "sounds": [
+      "step/gravel1",
+      "step/gravel2",
+      "step/gravel3",
+      "step/gravel4"
+    ]
+  },
+  "block.soul_soil.hit": {
+    "replace": true,
+    "sounds": [
+      "step/gravel1",
+      "step/gravel2",
+      "step/gravel3",
+      "step/gravel4"
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.soul_soil.place": {
+    "replace": true,
+    "sounds": [
+      "dig/gravel1",
+      "dig/gravel2",
+      "dig/gravel3",
+      "dig/gravel4"
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.soul_soil.step": {
+    "replace": true,
+    "sounds": [
+      "step/gravel1",
+      "step/gravel2",
+      "step/gravel3",
+      "step/gravel4"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.suspicious_gravel.break": {
+    "replace": true,
+    "sounds": [
+      "dig/gravel1",
+      "dig/gravel2",
+      "dig/gravel3",
+      "dig/gravel4"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.suspicious_gravel.fall": {
+    "replace": true,
+    "sounds": [
+      "step/gravel1",
+      "step/gravel2",
+      "step/gravel3",
+      "step/gravel4"
+    ]
+  },
+  "block.suspicious_gravel.hit": {
+    "replace": true,
+    "sounds": [
+      "dig/gravel1",
+      "dig/gravel2",
+      "dig/gravel3",
+      "dig/gravel4"
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.suspicious_gravel.place": {
+    "replace": true,
+    "sounds": [
+      "dig/gravel1",
+      "dig/gravel2",
+      "dig/gravel3",
+      "dig/gravel4"
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.suspicious_gravel.step": {
+    "replace": true,
+    "sounds": [
+      "step/gravel1",
+      "step/gravel2",
+      "step/gravel3",
+      "step/gravel4"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.suspicious_sand.break": {
+    "replace": true,
+    "sounds": [
+      "dig/sand1",
+      "dig/sand2",
+      "dig/sand3",
+      "dig/sand4"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.suspicious_sand.fall": {
+    "replace": true,
+    "sounds": [
+      "step/sand1",
+      "step/sand2",
+      "step/sand3",
+      "step/sand4",
+      "step/sand5"
+    ]
+  },
+  "block.suspicious_sand.hit": {
+    "replace": true,
+    "sounds": [
+      "step/sand1",
+      "step/sand2",
+      "step/sand3",
+      "step/sand4",
+      "step/sand5"
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.suspicious_sand.place": {
+    "replace": true,
+    "sounds": [
+      "dig/sand1",
+      "dig/sand2",
+      "dig/sand3",
+      "dig/sand4"
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.suspicious_sand.step": {
+    "replace": true,
+    "sounds": [
+      "step/sand1",
+      "step/sand2",
+      "step/sand3",
+      "step/sand4",
+      "step/sand5"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
   "block.cherry_wood.break": {
     "replace": true,
     "sounds": [
@@ -596,6 +829,24 @@
     ],
     "subtitle": "subtitles.block.tripwire.detach"
   },
+  "entity.camel.step_sand": {
+    "replace": true,
+    "sounds": [
+      "step/sand1",
+      "step/sand2",
+      "step/sand3",
+      "step/sand4",
+      "step/sand5"
+    ],
+    "subtitle": "subtitles.entity.camel.step_sand"
+  },
+  "entity.egg.throw": {
+    "replace": true,
+    "sounds": [
+      "random/bow"
+    ],
+    "subtitle": "subtitles.entity.egg.throw"
+  },
   "entity.arrow.hit": {
     "replace": true,
     "sounds": [
@@ -629,6 +880,23 @@
       "liquid/splash"
     ],
     "subtitle": "subtitles.entity.generic.splash"
+  },
+  "entity.fishing_bobber.retrieve": {
+    "replace": true,
+    "sounds": []
+  },
+  "entity.fishing_bobber.splash": {
+    "sounds": [
+      "random/splash"
+    ],
+    "subtitle": "subtitles.entity.fishing_bobber.splash"
+  },
+  "entity.fishing_bobber.throw": {
+    "replace": true,
+    "sounds": [
+      "random/bow"
+    ],
+    "subtitle": "subtitles.entity.fishing_bobber.throw"
   },
   "weather.rain": {
     "replace": true,

@@ -49,7 +49,7 @@ jobs:
       run: sudo apt-get install p7zip-full  
     - name: Zip Resource Pack
       run: |
-        7z a -r -mx9 -tzip ${{ steps.construct_filename.outputs.zipname }} . -xr!.gitignore -xr!.git -xr!version.json -xr!*.zip
+        7z a -r -mx9 -tzip ${{ steps.construct_filename.outputs.zipname }} . -xr!.gitignore -xr!.github -xr!.git -xr!version.json -xr!*.zip
     - name: Upload Artifact
       uses: actions/upload-artifact@v3
       with:

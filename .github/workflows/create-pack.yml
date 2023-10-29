@@ -76,7 +76,7 @@ jobs:
       run: |
         tag_name="${{ steps.get_version.outputs.MCVERSION }}-R${{ steps.get_version.outputs.RELVERSION }}"
         if [[ -n "${{ steps.get_version.outputs.RELSUBVERSION }}" ]]; then
-          tag_name="${tag_name}_${${{ steps.get_version.outputs.RELSUBVERSION }}"
+          tag_name="${tag_name}_${{ steps.get_version.outputs.RELSUBVERSION }}"
         fi
         echo "::set-output name=tag::$tag_name"
     - name: Determine pre-release status

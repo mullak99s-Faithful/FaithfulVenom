@@ -9,6 +9,7 @@ on:
 env:
   PACK_NAME: FaithfulVenom-32x
   PACK_NAME_SPACE: FaithfulVenom 32x
+  REPO_URL: https://github.com/mullak99s-Faithful/FaithfulVenom
 
 jobs:
   build:
@@ -99,3 +100,6 @@ jobs:
           ${{ steps.construct_filename.outputs.zipname }}
       env:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
+    - name: Get Download URL
+      run: | 
+        echo "${{ env.REPO_URL }}/releases/download/${{ steps.construct_tag.outputs.tag }}/${{ steps.construct_filename.outputs.zipname }}"

@@ -39,7 +39,7 @@ jobs:
       run: |
         filename="${{ env.PACK_NAME }}-${{ steps.get_version.outputs.MCVERSION }}-R${{ steps.get_version.outputs.RELVERSION }}"
         if [[ -n "${{ steps.get_version.outputs.RELSUBVERSION }}" ]]; then
-          filename="${filename}_${${{ steps.get_version.outputs.RELSUBVERSION }}"
+          filename="${filename}_${{ steps.get_version.outputs.RELSUBVERSION }}"
         fi
         filename="${filename}.zip"
         echo "::set-output name=zipname::$filename"

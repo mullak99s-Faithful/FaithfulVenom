@@ -9,6 +9,9 @@
 *.tar
 *.zip
 *.temp.txt
+*.ps1
+*.bat
+*.exe
 
 # OS generated files #
 ######################

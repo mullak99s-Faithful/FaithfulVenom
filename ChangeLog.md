@@ -1,6 +1,13 @@
 # Changelog
 All notable changes to FaithfulVenom will be documented in this file.
 
+## [1.19.4-r5] - 2023-10-29
+### Added
+- Added missing player textures
+
+### Changed
+- Included changes from CF (PA)
+
 ## [1.19.4-r4] - 2023-10-23
 ### Added
 - Added Efe textures

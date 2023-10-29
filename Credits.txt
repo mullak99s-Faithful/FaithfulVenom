@@ -1805,7 +1805,7 @@ mullak99: https://faithful.mullak99.co.uk/
 
 	== Minecraft [Trims] (/assets/minecraft/textures/trims) ==
 	[All Trims (Items)]: CF (PA)
-	[All Trims (Models)]: Faithful
+	[All Trims (Models)]: CF (PA)
 
 	== Minecraft [Optifine] (/assets/minecraft/optifine/ctm) ==
 	0.png (bookshelf/0.png): Vattic

@@ -1,0 +1,97 @@
+name: Create Pack
+
+on:
+  workflow_dispatch:
+
+env:
+  PACK_NAME: FaithfulVenom-32x
+  PACK_NAME_SPACE: FaithfulVenom 32x
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+        - name: Get version from JSON
+      id: get_version
+      run: |
+        import json
+        with open('version.json', 'r') as f:
+          data = json.load(f)
+        mcVer = data.get('mcVersion', '')
+        packRelease = data.get('packRelease', '')
+        packSubVersion = data.get('packSubVersion', '')
+        print(f"::set-output name=MCVERSION::{mcVer}")
+        print(f"::set-output name=RELVERSION::{packRelease}")
+        print(f"::set-output name=RELSUBVERSION::{packSubVersion}")
+      shell: python
+    - name: Construct filename
+      id: construct_filename
+      run: |
+        filename="${{ env.PACK_NAME }}-${{ steps.get_version.outputs.MCVERSION }}-R${{ steps.get_version.outputs.RELVERSION }}"
+        if [[ -n "${{ steps.get_version.outputs.RELSUBVERSION }}" ]]; then
+          filename="${filename}_${${{ steps.get_version.outputs.RELSUBVERSION }}"
+        fi
+        filename="${filename}.zip"
+        echo "::set-output name=zipname::$filename"
+    - name: Extract Changelog Entry
+      id: changelog
+      run: |
+        changelog=$(awk '/## \[/{i++}i==1{if (!f) f=1; else print}i==2{exit}' ChangeLog.md)
+        echo "::set-output name=entry::$changelog"
+    - name: Install 7zip
+      run: sudo apt-get install p7zip-full  
+    - name: Zip Resource Pack
+      run: |
+        7z a -r -mx9 -tzip ${{ steps.construct_filename.outputs.zipname }} . -xr!.gitignore -xr!.git -xr!version.json -xr!*.zip
+    - name: Upload Artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: ${{ steps.construct_filename.outputs.zipname }}
+        path: ${{ steps.construct_filename.outputs.zipname }}
+    - name: Construct release name
+      id: construct_release_name
+      run: |
+        base_name="${{ env.PACK_NAME_SPACE }} ${{ steps.get_version.outputs.MCVERSION }} ${{ steps.get_version.outputs.RELVERSION }}"
+        if [[ -n "${{ steps.get_version.outputs.RELSUBVERSION }}" ]]; then
+          relsubversion="${{ steps.get_version.outputs.RELSUBVERSION }}"
+          relsubversion="${relsubversion//-/ }"
+          relsubversion="${relsubversion//_/ }"
+          release_name="${base_name} (${relsubversion})"
+        else
+          release_name="$base_name"
+        fi
+        echo "::set-output name=releasename::$release_name"
+    - name: Construct tag name
+      id: construct_tag
+      run: |
+        tag_name="${{ steps.get_version.outputs.MCVERSION }}-R${{ steps.get_version.outputs.RELVERSION }}"
+        if [[ -n "${{ steps.get_version.outputs.RELSUBVERSION }}" ]]; then
+          tag_name="${tag_name}_${${{ steps.get_version.outputs.RELSUBVERSION }}"
+        fi
+        echo "::set-output name=tag::$tag_name"
+    - name: Determine pre-release status
+      id: prerelease_status
+      run: |
+        if [[ -n "${{ steps.get_version.outputs.RELSUBVERSION }}" ]]; then
+          echo "::set-output name=prerelease::true"
+        else
+          echo "::set-output name=prerelease::false"
+        fi
+    - name: Create Release
+      uses: softprops/action-gh-release@v1
+      with:
+        tag_name: ${{ steps.construct_tag.outputs.tag }}
+        name: ${{ steps.construct_release_name.outputs.releasename }}
+        body: ${{ steps.changelog.outputs.entry }}
+        prerelease: ${{ steps.prerelease_status.outputs.prerelease }}
+        files: |
+          ${{ steps.construct_filename.outputs.zipname }}
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}

@@ -1,2 +1,0 @@
-assets/minecraft/textures/entity/player/slim/sunny.png
-assets/minecraft/textures/entity/player/wide/sunny.png

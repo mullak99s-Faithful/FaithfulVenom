@@ -1,4 +1,4 @@
-name: Create Pack
+name: Create Pack (Release)
 
 on:
   workflow_dispatch:
@@ -46,7 +46,7 @@ jobs:
     - name: Extract Changelog Entry
       id: changelog
       run: |
-        changelog=$(awk '/## \[/{flag=(++i==1)}flag;/## \[/{if(i>=2) exit}' ChangeLog.md)
+        changelog=$(awk '/## \[/{flag=(++i==1)}flag;/## \[/{if(i>=2) exit}' ChangeLog.md | sed ':a;N;$!ba;s/\n/\\n/g')
         echo "::set-output name=entry::$changelog"
     - name: Install 7zip
       run: sudo apt-get install p7zip-full  

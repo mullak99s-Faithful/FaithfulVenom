@@ -44,10 +44,11 @@ jobs:
         filename="${filename}.zip"
         echo "::set-output name=zipname::$filename"
     - name: Extract Changelog Entry
-      id: changelog
       run: |
-        changelog=$(awk '/## \[/{flag=(++i==1)}flag;/## \[/{if(i>=2) exit}' ChangeLog.md | sed ':a;N;$!ba;s/\n/\\n/g')
-        echo "::set-output name=entry::$changelog"
+        changelog=$(awk '/## \[/{flag=(++i==1)}flag;/## \[/{if(i>=2) exit}' ChangeLog.md)
+        echo "CHANGELOG<<EOF" >> $GITHUB_ENV
+        echo "$changelog" >> $GITHUB_ENV
+        echo "EOF" >> $GITHUB_ENV
     - name: Install 7zip
       run: sudo apt-get install p7zip-full  
     - name: Zip Resource Pack
@@ -92,7 +93,7 @@ jobs:
       with:
         tag_name: ${{ steps.construct_tag.outputs.tag }}
         name: ${{ steps.construct_release_name.outputs.releasename }}
-        body: ${{ steps.changelog.outputs.entry }}
+        body: ${{ env.CHANGELOG }}
         prerelease: ${{ steps.prerelease_status.outputs.prerelease }}
         files: |
           ${{ steps.construct_filename.outputs.zipname }}

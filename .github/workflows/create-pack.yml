@@ -45,7 +45,7 @@ jobs:
         echo "::set-output name=zipname::$filename"
     - name: Extract Changelog Entry
       run: |
-        changelog=$(awk '/## \[/{flag=(++i==1)}flag;/## \[/{if(i>=2) exit}' ChangeLog.md)
+        changelog=$(awk '/## \[/{i++}i==1{if (!f) f=1; else print}i==2{exit}' ChangeLog.md)
         echo "CHANGELOG<<EOF" >> $GITHUB_ENV
         echo "$changelog" >> $GITHUB_ENV
         echo "EOF" >> $GITHUB_ENV

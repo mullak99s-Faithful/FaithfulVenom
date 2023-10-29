@@ -46,7 +46,7 @@ jobs:
     - name: Extract Changelog Entry
       id: changelog
       run: |
-        changelog=$(awk '/## \[/{i++}i==1{if (!f) f=1; else print}i==2{exit}' ChangeLog.md)
+        changelog=$(awk '/## \[/{flag=(++i==1)}flag;/## \[/{if(i>=2) exit}' ChangeLog.md)
         echo "::set-output name=entry::$changelog"
     - name: Install 7zip
       run: sudo apt-get install p7zip-full  
@@ -61,7 +61,7 @@ jobs:
     - name: Construct release name
       id: construct_release_name
       run: |
-        base_name="${{ env.PACK_NAME_SPACE }} ${{ steps.get_version.outputs.MCVERSION }} ${{ steps.get_version.outputs.RELVERSION }}"
+        base_name="${{ env.PACK_NAME_SPACE }} | ${{ steps.get_version.outputs.MCVERSION }}-R${{ steps.get_version.outputs.RELVERSION }}"
         if [[ -n "${{ steps.get_version.outputs.RELSUBVERSION }}" ]]; then
           relsubversion="${{ steps.get_version.outputs.RELSUBVERSION }}"
           relsubversion="${relsubversion//-/ }"

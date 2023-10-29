@@ -3,9 +3,9 @@
   "header": {
     "description": "FaithfulVenom 32x\n§8by AntVenom, Faithful Pack, mullak99 & Klonoa",
     "min_engine_version": [ 1, 17, 0 ],
-    "name": "FaithfulVenom 32x 1.20-r1_BETA5",
+    "name": "FaithfulVenom 32x 1.20-r1_BETA6",
     "uuid": "7124df9b-8ef0-4c14-8bc0-9a93677d0f69",
-    "version": [ 1, 19, 104 ]
+    "version": [ 1, 19, 105 ]
   },
   "metadata": {
       "authors": [ "AntVenom", "Faithful", "mullak99", "Klonoa" ],

@@ -1,3 +1,1 @@
 - All textures listed in MissingTextures.txt
-- All Armor Trim model textures (currently using Faithful's as placeholders)
-- Suspicious Gravel textures

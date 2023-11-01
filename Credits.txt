@@ -1630,6 +1630,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	brewing_stand.png (gui/container/brewing_stand.png): CF
 	bundle.png (gui/container/bundle.png): CF
 	cartography_table.png (gui/container/cartography_table.png): CF
+	crafter.png (gui/container/crafter.png): mullak99 (and Vattic textures)
 	crafting_table.png (gui/container/crafting_table.png): CF
 	dispenser.png (gui/container/dispenser.png): CF
 	enchanting_table.png (gui/container/enchanting_table.png): CF
@@ -1662,6 +1663,10 @@ mullak99: https://faithful.mullak99.co.uk/
 	panorama_3.png (gui/title/background/panorama_3.png): AntVenom (screenshot retaken by mullak99)
 	panorama_4.png (gui/title/background/panorama_4.png): AntVenom (screenshot retaken by mullak99)
 	panorama_5.png (gui/title/background/panorama_5.png): AntVenom (screenshot retaken by mullak99)
+	
+	== Minecraft [Sprites] (/assets/minecraft/textures/gui/sprites) ==
+	[All except exceptions below]: CF
+	disabled_slot.png (sprites/container/crafter/disabled_slot.png): mullak99
 
 	== Minecraft [CTM] (/assets/m99-ctm/textures) ==
 	beehive_side_0.png (block/beehive_side_0.png): mullak99 (Based off CF)
@@ -1819,7 +1824,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	2.png (vine/2.png): Vattic
 	3.png (vine/3.png): Vattic
 
-	== Minecraft [Realms] (/assets/realms/textures) ==
+	== Minecraft [Realms] (/assets/minecraft/textures/gui/realms) ==
 	accept_icon.png (realms/accept_icon.png): mullak99
 	checkmark.png (realms/checkmark.png): CF
 	configure_icon.png (realms/configure_icon.png): mullak99
@@ -1844,11 +1849,11 @@ mullak99: https://faithful.mullak99.co.uk/
 	reject_icon.png (realms/reject_icon.png): CF
 	restore_icon.png (realms/restore_icon.png): CF
 	slot_frame.png (realms/slot_frame.png): CF
+	snapshot_realms.png (realms/snapshot_realms.png): Faithful
 	trailer_icons.png (realms/trailer_icons.png): CF
 	trial_icon.png (realms/trial_icon.png): CF
 	user_icon.png (realms/user_icon.png): CF
 	world_icon.png (realms/world_icon.png): CF
-	realms.png (title/realms.png): CF
 
 	== Minecraft [OTHER (MC)] ==
 	icons.png (assets/minecraft/optifine/textures/icons.png): Faithful

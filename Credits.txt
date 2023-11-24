@@ -771,6 +771,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	seagrass.png (block/seagrass.png): CF
 	sea_lantern.png (block/sea_lantern.png): CF (PA)
 	sea_pickle.png (block/sea_pickle.png): CF
+	short_grass.png (block/short_grass.png): CF (PA)
 	shroomlight.png (block/shroomlight.png): CF (PA)
 	shulker_box.png (block/shulker_box.png): CF
 	slime_block.png (block/slime_block.png): Vattic

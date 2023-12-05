@@ -5,6 +5,7 @@ All notable changes to FaithfulVenom will be documented in this file.
 ### Added
 - Added 1.20 textures
 - Added 1.20.2 changes as overlays
+- Added 1.20.3 changes as overlays
 - Added missing alpha sounds
 
 ### Removed

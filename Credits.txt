@@ -218,6 +218,8 @@ mullak99: https://faithful.mullak99.co.uk/
 	chiseled_red_sandstone.png (block/chiseled_red_sandstone.png): CF
 	chiseled_sandstone.png (block/chiseled_sandstone.png): CF (PA)
 	chiseled_stone_bricks.png (block/chiseled_stone_bricks.png): Vattic
+	chiseled_tuff.png (block/chiseled_tuff.png): CF (PA)
+	chiseled_tuff_top.png (block/chiseled_tuff_top.png): CF (PA)
 	chorus_flower.png (block/chorus_flower.png): CF (PA)
 	chorus_flower_dead.png (block/chorus_flower_dead.png): CF (PA)
 	chorus_plant.png (block/chorus_plant.png): CF (PA)
@@ -1265,6 +1267,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	tipped_arrow_head.png (item/tipped_arrow_head.png): CF
 	tnt_minecart.png (item/tnt_minecart.png): Vattic
 	totem_of_undying.png (item/totem_of_undying.png): Based on CF's (Stal added by AntVenom)
+	trial_key.png (item/trial_key.png): CF (PA)
 	trident.png (item/trident.png): CF
 	tropical_fish.png (item/tropical_fish.png): CF
 	tropical_fish_bucket.png (item/tropical_fish_bucket.png): mullak99, Vattic & Evorp
@@ -1289,6 +1292,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	[All pottery sherds]: CF (PA)
 	[All empty item slots]: CF (PA)
 	[All trimming templates]: CF (PA)
+	[All copper door textures]: CF (PA)
 
 	== Minecraft [Entity] (/assets/minecraft/textures/entity) ==
 	banner_base.png (entity/banner_base.png): CF
@@ -1593,81 +1597,11 @@ mullak99: https://faithful.mullak99.co.uk/
 	[All Decorated Pot textures]: CF (PA)
 
 	== Minecraft [GUI] (/assets/minecraft/textures/gui) ==
-	accessibility.png (gui/accessibility.png): mullak99
-	bars.png (gui/bars.png): Vattic + CF
-	book.png (gui/book.png): CF
-	checkbox.png (gui/checkbox.png): mullak99
-	checkmark.png (gui/checkmark.png): CF
-	demo_background.png (gui/demo_background.png): CF
-	icons.png (gui/icons.png): Evorp
-	info_icon.png (gui/info_icon.png): CF
-	light_dirt_background.png (gui/light_dirt_background.png): Vattic & mullak99
-	options_background.png (gui/options_background.png): Vattic
-	recipe_book.png (gui/recipe_book.png): CF
-	recipe_button.png (gui/recipe_button.png): CF
-	report_button.png (gui/report_button.png): mullak99
-	resource_packs.png (gui/resource_packs.png): CF
-	server_selection.png (gui/server_selection.png): CF
-	social_interactions.png (gui/social_interactions.png): mullak99 & CF
-	spectator_widgets.png (gui/spectator_widgets.png): CF (PA)
-	slider.png (gui/slider.png): mullak99
-	stream_indicator.png (gui/stream_indicator.png): CF
-	tab_button.png (gui/tab_button.png): mullak99
-	toasts.png (gui/toasts.png): CF
-	unseen_notification.png (gui/unseen_notification.png): CF
-	widgets.png (gui/widgets.png): mullak99, Klonoa#1997, & CF
-	world_selection.png (gui/world_selection.png): CF
-	tabs.png (gui/advancements/tabs.png): CF
-	widgets.png (gui/advancements/widgets.png): CF
-	window.png (gui/advancements/window.png): CF
-	adventure.png (gui/advancements/backgrounds/adventure.png): Vattic
-	end.png (gui/advancements/backgrounds/end.png): Vattic
-	husbandry.png (gui/advancements/backgrounds/husbandry.png): Vattic
-	nether.png (gui/advancements/backgrounds/nether.png): Vattic
-	stone.png (gui/advancements/backgrounds/stone.png): Vattic
-	anvil.png (gui/container/anvil.png): CF
-	beacon.png (gui/container/beacon.png): CF
-	blast_furnace.png (gui/container/blast_furnace.png): CF
-	brewing_stand.png (gui/container/brewing_stand.png): CF
-	bundle.png (gui/container/bundle.png): CF
-	cartography_table.png (gui/container/cartography_table.png): CF
-	crafter.png (gui/container/crafter.png): mullak99 (and Vattic textures)
-	crafting_table.png (gui/container/crafting_table.png): CF
-	dispenser.png (gui/container/dispenser.png): CF
-	enchanting_table.png (gui/container/enchanting_table.png): CF
-	furnace.png (gui/container/furnace.png): CF
-	gamemode_switcher.png (gui/container/gamemode_switcher.png): mullak99
-	generic_54.png (gui/container/generic_54.png): CF
-	grindstone.png (gui/container/grindstone.png): CF
-	hopper.png (gui/container/hopper.png): CF
-	horse.png (gui/container/horse.png): CF
-	inventory.png (gui/container/inventory.png): CF
-	loom.png (gui/container/loom.png): CF
-	shulker_box.png (gui/container/shulker_box.png): CF
-	legacy_smithing.png (gui/container/legacy_smithing.png): CF
-	smithing.png (gui/container/smithing.png): CF
-	smoker.png (gui/container/smoker.png): CF
-	stats_icons.png (gui/container/stats_icons.png): CF
-	stonecutter.png (gui/container/stonecutter.png): CF
-	villager2.png (gui/container/villager2.png): mullak99
-	tabs.png (gui/container/creative_inventory/tabs.png): CF
-	tab_inventory.png (gui/container/creative_inventory/tab_inventory.png): CF
-	tab_items.png (gui/container/creative_inventory/tab_items.png): CF
-	tab_item_search.png (gui/container/creative_inventory/tab_item_search.png): CF
-	[All Hanging Signs]: CF (PA)
-	edition.png (gui/title/edition.png): CF
-	minecraft.png (gui/title/minecraft.png): CF (PA)
-	mojangstudios.png (gui/title/mojangstudios.png): Faithful
-	panorama_0.png (gui/title/background/panorama_0.png): AntVenom (screenshot retaken by mullak99)
-	panorama_1.png (gui/title/background/panorama_1.png): AntVenom (screenshot retaken by mullak99)
-	panorama_2.png (gui/title/background/panorama_2.png): AntVenom (screenshot retaken by mullak99)
-	panorama_3.png (gui/title/background/panorama_3.png): AntVenom (screenshot retaken by mullak99)
-	panorama_4.png (gui/title/background/panorama_4.png): AntVenom (screenshot retaken by mullak99)
-	panorama_5.png (gui/title/background/panorama_5.png): AntVenom (screenshot retaken by mullak99)
-	
-	== Minecraft [Sprites] (/assets/minecraft/textures/gui/sprites) ==
-	[All except exceptions below]: CF
-	disabled_slot.png (sprites/container/crafter/disabled_slot.png): mullak99
+	[All UI, excluding those listed below]: CF (PA)
+    [All button-related UI]: mullak99
+	[Hotbar UI]: Klonoa
+	[Panorama]: AntVenom (screenshot retaken by mullak99)
+	snapshot_realms.png (realms/snapshot_realms.png): Faithful
 
 	== Minecraft [CTM] (/assets/m99-ctm/textures) ==
 	beehive_side_0.png (block/beehive_side_0.png): mullak99 (Based off CF)
@@ -1824,37 +1758,6 @@ mullak99: https://faithful.mullak99.co.uk/
 	1.png (vine/1.png): Vattic
 	2.png (vine/2.png): Vattic
 	3.png (vine/3.png): Vattic
-
-	== Minecraft [Realms] (/assets/minecraft/textures/gui/realms) ==
-	accept_icon.png (realms/accept_icon.png): mullak99
-	checkmark.png (realms/checkmark.png): CF
-	configure_icon.png (realms/configure_icon.png): mullak99
-	cross_icon.png (realms/cross_icon.png): mullak99
-	cross_player_icon.png (realms/cross_player_icon.png): CF
-	darken.png (realms/darken.png): CF
-	empty_frame.png (realms/empty_frame.png): CF
-	expired_icon.png (realms/expired_icon.png): CF
-	expires_soon_icon.png (realms/expires_soon_icon.png): CF
-	invitation_icons.png (realms/invitation_icons.png): CF
-	invite_icon.png (realms/invite_icon.png): CF
-	leave_icon.png (realms/leave_icon.png): mullak99
-	link_icons.png (realms/link_icons.png): CF
-	news_icon.png (realms/news_icon.png): mullak99
-	news_notification_mainscreen.png (realms/news_notification_mainscreen.png): Vattic
-	off_icon.png (realms/off_icon.png): CF
-	on_icon.png (realms/on_icon.png): CF
-	op_icon.png (realms/op_icon.png): CF
-	plus_icon.png (realms/plus_icon.png): CF
-	popup.png (realms/popup.png): CF
-	questionmark.png (realms/questionmark.png): mullak99
-	reject_icon.png (realms/reject_icon.png): CF
-	restore_icon.png (realms/restore_icon.png): CF
-	slot_frame.png (realms/slot_frame.png): CF
-	snapshot_realms.png (realms/snapshot_realms.png): Faithful
-	trailer_icons.png (realms/trailer_icons.png): CF
-	trial_icon.png (realms/trial_icon.png): CF
-	user_icon.png (realms/user_icon.png): CF
-	world_icon.png (realms/world_icon.png): CF
 
 	== Minecraft [OTHER (MC)] ==
 	icons.png (assets/minecraft/optifine/textures/icons.png): Faithful

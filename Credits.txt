@@ -218,8 +218,9 @@ mullak99: https://faithful.mullak99.co.uk/
 	chiseled_red_sandstone.png (block/chiseled_red_sandstone.png): CF
 	chiseled_sandstone.png (block/chiseled_sandstone.png): CF (PA)
 	chiseled_stone_bricks.png (block/chiseled_stone_bricks.png): Vattic
-	chiseled_tuff.png (block/chiseled_tuff.png): CF (PA)
-	chiseled_tuff_top.png (block/chiseled_tuff_top.png): CF (PA)
+	[All Chiseled Tuff]: CF (PA)
+	[All Chiseled Copper excl. Exposed]: CF (PA)
+	exposed_chiseled_copper.png (block/exposed_chiseled_copper.png): mullak99 (w/ CF textures as a base)
 	chorus_flower.png (block/chorus_flower.png): CF (PA)
 	chorus_flower_dead.png (block/chorus_flower_dead.png): CF (PA)
 	chorus_plant.png (block/chorus_plant.png): CF (PA)
@@ -881,6 +882,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	tube_coral_block.png (block/tube_coral_block.png): CF
 	tube_coral_fan.png (block/tube_coral_fan.png): CF
 	tuff.png (block/tuff.png): CF
+	tuff_bricks.png (block/tuff_bricks.png): CF
 	turtle_egg.png (block/turtle_egg.png): CF
 	turtle_egg_slightly_cracked.png (block/turtle_egg_slightly_cracked.png): CF
 	turtle_egg_very_cracked.png (block/turtle_egg_very_cracked.png): CF

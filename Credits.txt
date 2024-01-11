@@ -219,8 +219,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	chiseled_sandstone.png (block/chiseled_sandstone.png): CF (PA)
 	chiseled_stone_bricks.png (block/chiseled_stone_bricks.png): Vattic
 	[All Chiseled Tuff]: CF (PA)
-	[All Chiseled Copper excl. Exposed]: CF (PA)
-	exposed_chiseled_copper.png (block/exposed_chiseled_copper.png): mullak99 (w/ CF textures as a base)
+	[All Chiseled Copper]: CF (PA)
 	chorus_flower.png (block/chorus_flower.png): CF (PA)
 	chorus_flower_dead.png (block/chorus_flower_dead.png): CF (PA)
 	chorus_plant.png (block/chorus_plant.png): CF (PA)

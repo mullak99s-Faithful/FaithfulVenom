@@ -253,6 +253,7 @@ mullak99: https://faithful.mullak99.co.uk/
 	cracked_nether_bricks.png (block/cracked_nether_bricks.png): CF (PA)
 	cracked_polished_blackstone_bricks.png (block/cracked_polished_blackstone_bricks.png): CF
 	cracked_stone_bricks.png (block/cracked_stone_bricks.png): Vattic
+	[All Crafter textures]: CF (PA)
 	crafting_table_front.png (block/crafting_table_front.png): Vattic
 	crafting_table_side.png (block/crafting_table_side.png): Vattic
 	crafting_table_top.png (block/crafting_table_top.png): CF

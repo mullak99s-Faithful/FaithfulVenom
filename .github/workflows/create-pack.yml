@@ -35,7 +35,7 @@ jobs:
     - name: Construct filename
       id: construct_filename
       run: |
-        filename="${{ env.PACK_NAME }}-${{ steps.get_version.outputs.MCVERSION }}-R${{ steps.get_version.outputs.RELVERSION }}"
+        filename="${{ env.PACK_NAME }}-${{ steps.get_version.outputs.MCVERSION }}-r${{ steps.get_version.outputs.RELVERSION }}"
         if [[ -n "${{ steps.get_version.outputs.RELSUBVERSION }}" ]]; then
           filename="${filename}_${{ steps.get_version.outputs.RELSUBVERSION }}"
         fi
@@ -60,7 +60,7 @@ jobs:
     - name: Construct release name
       id: construct_release_name
       run: |
-        base_name="${{ env.PACK_NAME_SPACE }} | ${{ steps.get_version.outputs.MCVERSION }}-R${{ steps.get_version.outputs.RELVERSION }}"
+        base_name="${{ env.PACK_NAME_SPACE }} | ${{ steps.get_version.outputs.MCVERSION }}-r${{ steps.get_version.outputs.RELVERSION }}"
         if [[ -n "${{ steps.get_version.outputs.RELSUBVERSION }}" ]]; then
           relsubversion="${{ steps.get_version.outputs.RELSUBVERSION }}"
           relsubversion="${relsubversion//-/ }"
@@ -73,7 +73,7 @@ jobs:
     - name: Construct tag name
       id: construct_tag
       run: |
-        tag_name="${{ steps.get_version.outputs.MCVERSION }}-R${{ steps.get_version.outputs.RELVERSION }}"
+        tag_name="${{ steps.get_version.outputs.MCVERSION }}-r${{ steps.get_version.outputs.RELVERSION }}"
         if [[ -n "${{ steps.get_version.outputs.RELSUBVERSION }}" ]]; then
           tag_name="${tag_name}_${{ steps.get_version.outputs.RELSUBVERSION }}"
         fi

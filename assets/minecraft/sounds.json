@@ -4,6 +4,26 @@
     "category": "music",
     "sounds": []
   },
+  "block.chest.close": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block/lock/close",
+        "volume": 0.9
+      }
+    ],
+    "subtitle": "subtitles.block.chest.close"
+  },
+  "block.chest.open": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block/lock/open",
+        "volume": 0.9
+      }
+    ],
+    "subtitle": "subtitles.block.chest.open"
+  },
   "block.cherry_wood.break": {
     "replace": true,
     "sounds": [
@@ -242,6 +262,26 @@
       }
     ],
     "subtitle": "subtitles.block.trapdoor.toggle"
+  },
+  "block.fence_gate.close": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block/lock/close",
+        "volume": 0.9
+      }
+    ],
+    "subtitle": "subtitles.block.fence_gate.toggle"
+  },
+  "block.fence_gate.open": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block/lock/open",
+        "volume": 0.9
+      }
+    ],
+    "subtitle": "subtitles.block.fence_gate.toggle"
   },
   "block.nether_wood.break": {
     "replace": true,

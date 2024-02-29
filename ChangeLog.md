@@ -1,7 +1,7 @@
 # Changelog
 All notable changes to FaithfulVenom: Bedrock will be documented in this file.
 
-## [Bedrock 1.20-r1] - TBC
+## [Bedrock 1.20-r1] - 2024-02-29
 ### Added
 - Added 1.20 textures
 - Added more UI textures

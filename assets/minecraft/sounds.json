@@ -4,26 +4,6 @@
     "category": "music",
     "sounds": []
   },
-  "block.chest.close": {
-    "replace": true,
-    "sounds": [
-      {
-        "name": "block/lock/close",
-        "volume": 0.9
-      }
-    ],
-    "subtitle": "subtitles.block.chest.close"
-  },
-  "block.chest.open": {
-    "replace": true,
-    "sounds": [
-      {
-        "name": "block/lock/open",
-        "volume": 0.9
-      }
-    ],
-    "subtitle": "subtitles.block.chest.open"
-  },
   "block.cherry_wood.break": {
     "replace": true,
     "sounds": [

@@ -1,7 +1,7 @@
 # Changelog
 All notable changes to FaithfulVenom will be documented in this file.
 
-## [1.20-r1] - TBC
+## [1.20-r1] - 2023-02-29
 ### Added
 - Added 1.20 textures
 - Added 1.20.2 changes as overlays

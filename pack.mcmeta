@@ -2,12 +2,13 @@
   "pack": {
     "pack_format": 15,
     "description": "by AntVenom, Faithful Pack, mullak99 & Klonoa",
-    "supported_formats": { "min_inclusive": 15, "max_inclusive": 28 }
+    "supported_formats": { "min_inclusive": 15, "max_inclusive": 31 }
   },
   "overlays": {
     "entries": [
-	  { "formats": [20, 28], "directory": "overlay-1.20.3" },
-	  { "formats": [16, 28], "directory": "overlay-1.20.2" }
+	  { "formats": [24, 31], "directory": "overlay-1.20.5" },
+	  { "formats": [20, 31], "directory": "overlay-1.20.3" },
+	  { "formats": [16, 31], "directory": "overlay-1.20.2" }
     ]
   }
 }

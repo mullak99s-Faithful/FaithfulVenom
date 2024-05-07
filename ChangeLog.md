@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to FaithfulVenom: Bedrock will be documented in this file.
 
+## [Bedrock 1.20-r2] - TBC
+### Added / Changed / Removed
+- Brought up-to-date with Java FV (1.20-R2)
+
 ## [Bedrock 1.20-r1] - 2024-02-29
 ### Added
 - Added 1.20 textures

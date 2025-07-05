@@ -4,8 +4,13 @@ All notable changes to FaithfulVenom will be documented in this file.
 ## [1.21-r1] - TBC
 ### Added
 - Added 1.21 textures
+- Added 1.21.2 textures
+- Added 1.21.4 textures
+- Added 1.21.5 textures
+- Added 1.21.6 textures
+- Added 1.21.7 textures
 
-## [1.20-r2] - TBC
+## [1.20-r2] - 2025-04-13
 ### Added
 - Added additional 1.20.3 textures
 - Added 1.20.5 textures

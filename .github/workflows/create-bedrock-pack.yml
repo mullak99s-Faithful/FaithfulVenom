@@ -53,7 +53,7 @@ jobs:
       run: |
         7z a -r -mx9 -tzip ${{ steps.construct_filename.outputs.zipname }} . -xr!.gitignore -xr!.github -xr!.git -xr!version.json -xr!*.mcpack
     - name: Upload Artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: ${{ steps.construct_filename.outputs.zipname }}
         path: ${{ steps.construct_filename.outputs.zipname }}

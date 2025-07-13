@@ -2,7 +2,6 @@
 	"credit": "Created by mullak99",
 	"parent": "item/template_chest_boat",
 	"textures": {
-		"boat": "m99-ctm:item/chest_boat/spruce",
-		"particle": "m99-ctm:item/chest_boat/spruce"
+		"boat": "entity/chest_boat/spruce"
 	}
 }

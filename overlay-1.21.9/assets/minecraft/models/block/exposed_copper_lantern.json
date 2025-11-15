@@ -1,0 +1,7 @@
+{
+	"credit": "Created by mullak99",
+    "parent": "block/template_copper_lantern",
+    "textures": {
+        "lantern": "block/exposed_copper_lantern"
+    }
+}

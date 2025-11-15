@@ -2,15 +2,18 @@
   "pack": {
     "pack_format": 34,
     "description": "by AntVenom, Faithful Pack, mullak99 & Klonoa",
-    "supported_formats": { "min_inclusive": 34, "max_inclusive": 64 }
+	"supported_formats": { "min_inclusive": 34, "max_inclusive": 69 },
+	"min_format": 34,
+	"max_format": 69
   },
   "overlays": {
     "entries": [
-      { "formats": [56, 64], "directory": "overlay-1.21.7" },
-      { "formats": [56, 64], "directory": "overlay-1.21.6" },
-      { "formats": [47, 64], "directory": "overlay-1.21.5" },
-      { "formats": [43, 64], "directory": "overlay-1.21.4" },
-      { "formats": [42, 64], "directory": "overlay-1.21.2" }
+      { "min_format": 42, "max_format": 69, "formats": [42, 69], "directory": "overlay-1.21.2" },
+	  { "min_format": 43, "max_format": 69, "formats": [43, 69], "directory": "overlay-1.21.4" },
+	  { "min_format": 47, "max_format": 69, "formats": [47, 69], "directory": "overlay-1.21.5" },
+	  { "min_format": 56, "max_format": 69, "formats": [56, 69], "directory": "overlay-1.21.6" },
+	  { "min_format": 64, "max_format": 69, "formats": [64, 69], "directory": "overlay-1.21.7" },
+	  { "min_format": 69, "max_format": 69, "formats": [69, 69], "directory": "overlay-1.21.9" }
     ]
   }
 }

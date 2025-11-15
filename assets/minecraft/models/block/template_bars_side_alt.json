@@ -1,0 +1,52 @@
+{
+	"credit": "Created by mullak99",
+	"textures": {
+		"particle": "#bars",
+		"bars": "#bars"
+	},
+	"elements": [
+		{
+			"name": "1",
+			"from": [7, 12, 9],
+			"to": [9, 14, 12],
+			"faces": {
+				"east": {"uv": [4, 2, 7, 4], "texture": "#bars"},
+				"west": {"uv": [4, 2, 7, 4], "texture": "#bars"},
+				"up": {"uv": [4, 2, 7, 4], "rotation": 90, "texture": "#bars"},
+				"down": {"uv": [4, 2, 7, 4], "rotation": 270, "texture": "#bars"}
+			}
+		},
+		{
+			"name": "2",
+			"from": [7, 0, 12],
+			"to": [9, 16, 14],
+			"faces": {
+				"north": {"uv": [2, 0, 4, 16], "texture": "#bars"},
+				"east": {"uv": [2, 0, 4, 16], "texture": "#bars"},
+				"south": {"uv": [2, 0, 4, 16], "texture": "#bars"},
+				"west": {"uv": [2, 0, 4, 16], "texture": "#bars"},
+				"up": {"uv": [2, 0, 4, 2], "rotation": 90, "texture": "#bars"},
+				"down": {"uv": [2, 14, 4, 16], "rotation": 270, "texture": "#bars"}
+			}
+		},
+		{
+			"name": "3",
+			"from": [7, 7, 14],
+			"to": [9, 9, 16],
+			"faces": {
+				"east": {"uv": [0, 7, 2, 9], "texture": "#bars"},
+				"south": {"uv": [0, 7, 2, 9], "texture": "#bars", "cullface": "south"},
+				"west": {"uv": [0, 7, 2, 9], "texture": "#bars"},
+				"up": {"uv": [0, 7, 2, 9], "rotation": 90, "texture": "#bars"},
+				"down": {"uv": [0, 7, 2, 9], "rotation": 270, "texture": "#bars"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "group",
+			"origin": [8, 8, 8],
+			"children": [0, 1, 2]
+		}
+	]
+}

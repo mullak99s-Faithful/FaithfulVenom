@@ -10,6 +10,7 @@ All notable changes to FaithfulVenom will be documented in this file.
 - Added 1.21.6 textures
 - Added 1.21.7 textures
 - Added 1.21.9 textures
+- Added 1.21.11 textures
 
 ### Changed
 - Changed lanterns to use the same model

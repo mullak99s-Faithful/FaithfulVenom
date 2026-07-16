@@ -1,6 +1,14 @@
 # Changelog
 All notable changes to FaithfulVenom will be documented in this file.
 
+## [2026-r1] - TBC
+### Added
+- Added 26.1.x textures
+- Added 26.2 textures
+
+### Changed
+- Updated versioning to reflect MC's updated versioning.
+
 ## [1.21-r1] - TBC
 ### Added
 - Added 1.21 textures
@@ -9,6 +17,11 @@ All notable changes to FaithfulVenom will be documented in this file.
 - Added 1.21.5 textures
 - Added 1.21.6 textures
 - Added 1.21.7 textures
+- Added 1.21.9 textures
+- Added 1.21.11 textures
+
+### Changed
+- Changed lanterns to use the same model
 
 ## [1.20-r2] - 2025-04-13
 ### Added

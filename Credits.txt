@@ -12,6 +12,8 @@ GitHub: https://github.com/mullak99s-Faithful/FaithfulVenom
 
 Licence's from Vattic, Faithful, Classic Faithful, and mullak99 can be found within the License.md file.
 
+TODO: This needs updating. It's safe to assume unmentioned textures are from Classic Faithful.
+
 -----------------------------------------------------------------------------------------------------------
 
 === Information ===
@@ -24,8 +26,8 @@ Alternatively, contact mullak99 using the details below.
 
 	== Contact ==
 	
-	Discord: mullak99#1999
-	GitHub/Curse/Twitter: mullak99
+	Discord: mullak99
+	GitHub/Curse/X: mullak99
 	Email: mullak99@mullak99.co.uk
 	
 === Credits ===

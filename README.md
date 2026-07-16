@@ -1,10 +1,10 @@
 # FaithfulVenom 32x
 
-**Current Branch Version:** _1.21-r1_BETA7_  
+**Current Branch Version:** _2026-r1_DEV_
 
 ## Official Links
 
-Downloads: https://antvenom.com/files  
-Discord: https://discord.gg/AntVenom  
-GitHub Repo: https://github.com/mullak99s-Faithful/FaithfulVenom  
-Issues: https://github.com/mullak99s-Faithful/FaithfulVenom/issues  
+Downloads: https://antvenom.com/files
+Discord: https://discord.gg/AntVenom
+GitHub Repo: https://github.com/mullak99s-Faithful/FaithfulVenom
+Issues: https://github.com/mullak99s-Faithful/FaithfulVenom/issues

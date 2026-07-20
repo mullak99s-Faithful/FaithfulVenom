@@ -1,0 +1,16 @@
+{
+	"credit": "Created by mullak99",
+	"parent": "item/copper_door",
+	"textures": {
+		"door_bottom": "block/weathered_copper_door_bottom",
+		"front_bottom_nohandle": "m99-ctm:block/doors/copper/weathered/front_bottom_nohandle",
+		"bottom": "m99-ctm:block/doors/copper/weathered/bottom",
+		"side_bottom": "m99-ctm:block/doors/copper/weathered/side_bottom",
+		"side_bottom_hinge": "m99-ctm:block/doors/copper/weathered/side_bottom_hinge",
+		"particle": "block/weathered_copper_door_top",
+		"door_top": "block/weathered_copper_door_top",
+		"side_top": "m99-ctm:block/doors/copper/weathered/side_top",
+		"side_top_hinge": "m99-ctm:block/doors/copper/weathered/side_top_hinge",
+		"top": "m99-ctm:block/doors/copper/weathered/top"
+	}
+}

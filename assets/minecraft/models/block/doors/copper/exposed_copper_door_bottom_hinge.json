@@ -1,0 +1,12 @@
+{
+	"credit": "Created by mullak99",
+	"parent": "block/doors/copper/copper_door_bottom_hinge",
+	"textures": {
+		"particle": "m99-ctm:block/doors/copper/exposed/front_bottom_nohandle",
+		"door": "m99-ctm:block/doors/copper/exposed/front_bottom_nohandle",
+		"bottom": "m99-ctm:block/doors/copper/exposed/bottom",
+		"side_bottom": "m99-ctm:block/doors/copper/exposed/side_bottom",
+		"side_bottom_hinge": "m99-ctm:block/doors/copper/exposed/side_bottom_hinge",
+		"handle": "block/exposed_copper_door_bottom"
+	}
+}

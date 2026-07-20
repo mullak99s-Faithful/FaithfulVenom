@@ -1,0 +1,11 @@
+{
+	"credit": "Created by mullak99",
+	"parent": "block/doors/copper/copper_door_top",
+	"textures": {
+		"particle": "block/oxidized_copper_door_top",
+		"door": "block/oxidized_copper_door_top",
+		"side_top": "m99-ctm:block/doors/copper/oxidized/side_top",
+		"side_top_hinge": "m99-ctm:block/doors/copper/oxidized/side_top_hinge",
+		"top": "m99-ctm:block/doors/copper/oxidized/top"
+	}
+}

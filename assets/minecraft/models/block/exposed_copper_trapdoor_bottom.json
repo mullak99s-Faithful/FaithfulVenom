@@ -1,0 +1,10 @@
+{
+  "credit": "Created by mullak99",
+  "parent": "block/copper_trapdoor_bottom",
+  "textures": {
+    "particle": "block/exposed_copper_trapdoor",
+    "top": "block/exposed_copper_trapdoor",
+    "front": "m99-ctm:block/trapdoors/exposed_copper/front",
+    "side": "m99-ctm:block/trapdoors/exposed_copper/side"
+  }
+}

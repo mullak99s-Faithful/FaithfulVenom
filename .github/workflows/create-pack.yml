@@ -102,7 +102,7 @@ jobs:
           prerelease: ${{ steps.prerelease_status.outputs.prerelease }}
           files: |
             ${{ steps.construct_filename.outputs.zipname }}
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ github.token }}
       - name: Get Download URL
         run: |
           echo "${{ env.REPO_URL }}/releases/download/${{ steps.construct_tag.outputs.tag }}/${{ steps.construct_filename.outputs.zipname }}"

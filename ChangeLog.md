@@ -1,9 +1,9 @@
 # Changelog
 All notable changes to FaithfulVenom: Bedrock will be documented in this file.
 
-## [Bedrock 1.21-r1] - TBC
+## [Bedrock 2026-r1] - 2026-07-20
 ### Added / Changed / Removed
-- Brought up-to-date with Java FV (1.21-r1)
+- Brought up-to-date with Java FV (2026-r1)
 
 ## [Bedrock 1.20-r1] - 2024-02-29
 ### Added

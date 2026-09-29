@@ -1,6 +1,6 @@
 # FaithfulVenom 32x (Bedrock)
 
-**Current Branch Version:** _2026-r1_  
+**Current Branch Version:** _2026-r2_  
 
 ## Official Links
 

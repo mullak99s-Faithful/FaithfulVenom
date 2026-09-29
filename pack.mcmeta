@@ -3,6 +3,11 @@
 	"pack_format": 84,
     "description": "by AntVenom, Faithful Pack, mullak99 & Klonoa",
 	"min_format": [84, 0],
-	"max_format": [88, 0]
+	"max_format": [97, 1]
+  },
+  "overlays": {
+    "entries": [
+      { "min_format": [89, 0], "max_format": [97, 1], "directory": "overlay-26.3" }
+    ]
   }
 }

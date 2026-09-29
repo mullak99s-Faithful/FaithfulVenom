@@ -1,0 +1,7 @@
+{
+	"credit": "Created by mullak99",
+	"parent": "item/template_chest_boat",
+	"textures": {
+		"boat": "entity/chest_boat/poplar"
+	}
+}

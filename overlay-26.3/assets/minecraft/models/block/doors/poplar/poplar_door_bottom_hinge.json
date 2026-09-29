@@ -1,0 +1,120 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Created by mullak99",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/poplar_door_bottom",
+		"door": "block/poplar_door_bottom",
+		"bottom": "m99-ctm:block/doors/poplar/bottom",
+		"side_bottom": "m99-ctm:block/doors/poplar/side_bottom",
+		"side_bottom_hinge": "m99-ctm:block/doors/poplar/side_bottom_hinge"
+	},
+	"elements": [
+		{
+			"name": "door",
+			"from": [0, 0, 0],
+			"to": [3, 16, 16],
+			"faces": {
+				"north": {
+					"uv": [0, 0, 3, 16],
+					"texture": "#side_bottom",
+					"cullface": "north"
+				},
+				"east": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#door"
+				},
+				"south": {
+					"uv": [3, 0, 0, 16],
+					"texture": "#side_bottom_hinge",
+					"cullface": "south"
+				},
+				"west": {
+					"uv": [16, 0, 0, 16],
+					"texture": "#door",
+					"cullface": "west"
+				},
+				"down": {
+					"uv": [0, 0, 16, 3],
+					"rotation": 90,
+					"texture": "#bottom",
+					"cullface": "down"
+				}
+			}
+		},
+		{
+			"name": "top",
+			"from": [-0.5, 15, 1],
+			"to": [3.5, 16, 2],
+			"faces": {
+				"north": {
+					"uv": [14.5, 0, 15, 1],
+					"texture": "#door"
+				},
+				"east": {
+					"uv": [14, 0, 15, 1],
+					"texture": "#door"
+				},
+				"south": {
+					"uv": [14, 0, 14.5, 1],
+					"texture": "#door"
+				},
+				"west": {
+					"uv": [15, 0, 14, 1],
+					"texture": "#door"
+				}
+			}
+		},
+		{
+			"name": "bottom",
+			"from": [-0.5, 14, 1],
+			"to": [3.5, 15, 3],
+			"faces": {
+				"north": {
+					"uv": [14.5, 1, 15, 2],
+					"texture": "#door"
+				},
+				"east": {
+					"uv": [13, 1, 15, 2],
+					"texture": "#door"
+				},
+				"south": {
+					"uv": [13, 1, 13.5, 2],
+					"texture": "#door"
+				},
+				"west": {
+					"uv": [15, 1, 13, 2],
+					"texture": "#door"
+				},
+				"up": {
+					"uv": [13, 1, 15, 1.5],
+					"rotation": 270,
+					"texture": "#door"
+				},
+				"down": {
+					"uv": [15, 1.5, 13, 2],
+					"rotation": 270,
+					"texture": "#door"
+				}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "door",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [
+				0,
+				{
+					"name": "handle",
+					"origin": [0, 0, 16],
+					"scope": 0,
+					"color": 0,
+					"children": [1, 2]
+				}
+			]
+		}
+	]
+}

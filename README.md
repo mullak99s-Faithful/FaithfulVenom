@@ -1,6 +1,6 @@
 # FaithfulVenom 32x
 
-**Latest 26.x Version:** [_2026-r1_](https://github.com/mullak99s-Faithful/FaithfulVenom/releases/download/2026-r1/FaithfulVenom-32x-2026-r1.zip) | [Git Branch](https://github.com/mullak99s-Faithful/FaithfulVenom/tree/26.x)   
+**Latest 26.x Version:** [_2026-r2_](https://github.com/mullak99s-Faithful/FaithfulVenom/releases/download/2026-r2/FaithfulVenom-32x-2026-r2.zip) | [Git Branch](https://github.com/mullak99s-Faithful/FaithfulVenom/tree/26.x)   
 **Latest 1.21 Version:** [_1.21-r1_](https://github.com/mullak99s-Faithful/FaithfulVenom/releases/download/1.21-r1/FaithfulVenom-32x-1.21-r1.zip) | [Git Branch](https://github.com/mullak99s-Faithful/FaithfulVenom/tree/1.21)   
 **Latest 1.20 Version:** [_1.20-r2_](https://github.com/mullak99s-Faithful/FaithfulVenom/releases/download/1.20-r2/FaithfulVenom-32x-1.20-r2.zip) | [Git Branch](https://github.com/mullak99s-Faithful/FaithfulVenom/tree/1.20)   
 **Latest 1.19.4 Version:** [_1.19.4-r4_](https://builds.mullak99.co.uk/FaithfulVenom/1.19/FaithfulVenom-32x-1.19.4-r4.zip) | [Git Branch](https://github.com/mullak99s-Faithful/FaithfulVenom/tree/1.19.4)   

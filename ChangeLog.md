@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to FaithfulVenom will be documented in this file.
 
+## [2026-r3] - 2026-10-13
+### Fixed
+- Broken armour trims (missing mcmetas)
+
 ## [2026-r2] - 2026-09-29
 ### Added
 - Added 26.3 textures
